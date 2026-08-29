@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-29T08:11:26.811Z",
+  "updatedAt": "2026-08-29T08:30:48.689Z",
   "events": [
     {
       "title": "Orlando Boat Show",
@@ -18,7 +18,7 @@
       "venue": "Miami Beach Convention Center",
       "startDate": "2026-08-29",
       "endDate": "2026-08-29",
-      "category": "Summit",
+      "category": "Convention Center Event",
       "attendance": null,
       "sourceKey": "miami",
       "sourceUrl": "https://www.miamibeachconvention.com/events"
@@ -54,7 +54,7 @@
       "category": "Consumer Show",
       "attendance": 14000,
       "sourceKey": "sandiego",
-      "sourceUrl": "https://www.visitsandiego.com/calendar"
+      "sourceUrl": "https://www.visitsandiego.com/calendar?page=1"
     },
     {
       "title": "National Baptist Convention Annual Session",
@@ -76,7 +76,7 @@
       "category": "Convention with Trade Show",
       "attendance": 2000,
       "sourceKey": "sandiego",
-      "sourceUrl": "https://www.visitsandiego.com/calendar"
+      "sourceUrl": "https://www.visitsandiego.com/calendar?page=1"
     },
     {
       "title": "FAN EXPO Dallas 2026",
@@ -117,7 +117,7 @@
       "venue": "Miami Beach Convention Center",
       "startDate": "2026-09-13",
       "endDate": "2026-09-15",
-      "category": "Trade / Buyers Mission",
+      "category": "Convention Center Event",
       "attendance": null,
       "sourceKey": "miami",
       "sourceUrl": "https://www.miamibeachconvention.com/events"
@@ -134,12 +134,12 @@
       "sourceUrl": "https://events.occc.net/event/visit-orlandos-annu/927/"
     },
     {
-      "title": "Americas Food & Beverage Show",
+      "title": "America Food & Beverage Show",
       "city": "Miami Beach",
       "venue": "Miami Beach Convention Center",
       "startDate": "2026-09-14",
       "endDate": "2026-09-16",
-      "category": "Trade Show",
+      "category": "Convention Center Event",
       "attendance": null,
       "sourceKey": "miami",
       "sourceUrl": "https://www.miamibeachconvention.com/events"
@@ -150,10 +150,21 @@
       "venue": "Miami Beach Convention Center",
       "startDate": "2026-09-14",
       "endDate": "2026-09-15",
-      "category": "Event",
+      "category": "Convention Center Event",
       "attendance": null,
       "sourceKey": "miami",
       "sourceUrl": "https://www.miamibeachconvention.com/events"
+    },
+    {
+      "title": "IMTS 2026",
+      "city": "Chicago",
+      "venue": "Chicago convention market",
+      "startDate": "2026-09-14",
+      "endDate": "2026-09-19",
+      "category": "Major Chicago Convention",
+      "attendance": null,
+      "sourceKey": "chicago",
+      "sourceUrl": "https://www.choosechicago.com/meeting-planners/chicago-updates-for-meeting-planners/chicago-convention-calendar/"
     },
     {
       "title": "BRIGHTONSEO SAN DIEGO & HERO CONF SAN DIEGO",
@@ -164,7 +175,7 @@
       "category": "Convention with Trade Show",
       "attendance": 4000,
       "sourceKey": "sandiego",
-      "sourceUrl": "https://www.visitsandiego.com/calendar"
+      "sourceUrl": "https://www.visitsandiego.com/calendar?page=1"
     },
     {
       "title": "ICSC@WESTERN 2026",
@@ -175,7 +186,7 @@
       "category": "Convention with Trade Show",
       "attendance": 3000,
       "sourceKey": "sandiego",
-      "sourceUrl": "https://www.visitsandiego.com/calendar"
+      "sourceUrl": "https://www.visitsandiego.com/calendar?page=1"
     },
     {
       "title": "Future of Work USA",
@@ -187,6 +198,28 @@
       "attendance": null,
       "sourceKey": "dallas",
       "sourceUrl": "https://www.dallasconventioncenter.com/events"
+    },
+    {
+      "title": "2026 NASDA Buyers Mission",
+      "city": "Miami Beach",
+      "venue": "Miami Beach Convention Center",
+      "startDate": "2026-09-15",
+      "endDate": "2026-09-15",
+      "category": "Convention Center Event",
+      "attendance": null,
+      "sourceKey": "miami",
+      "sourceUrl": "https://www.miamibeachconvention.com/events"
+    },
+    {
+      "title": "EcoShield Pro Bowl 2026",
+      "city": "Miami Beach",
+      "venue": "Miami Beach Convention Center",
+      "startDate": "2026-09-15",
+      "endDate": "2026-09-15",
+      "category": "Convention Center Event",
+      "attendance": null,
+      "sourceKey": "miami",
+      "sourceUrl": "https://www.miamibeachconvention.com/events"
     },
     {
       "title": "FLVS Professional Le",
@@ -211,12 +244,23 @@
       "sourceUrl": "https://www.dallasconventioncenter.com/events"
     },
     {
+      "title": "America Food & Beverage Show",
+      "city": "Miami Beach",
+      "venue": "Miami Beach Convention Center",
+      "startDate": "2026-09-16",
+      "endDate": "2026-09-16",
+      "category": "Convention Center Event",
+      "attendance": null,
+      "sourceKey": "miami",
+      "sourceUrl": "https://www.miamibeachconvention.com/events"
+    },
+    {
       "title": "Independent Hotel Show",
       "city": "Miami Beach",
       "venue": "Miami Beach Convention Center",
       "startDate": "2026-09-16",
       "endDate": "2026-09-17",
-      "category": "Trade Show",
+      "category": "Convention Center Event",
       "attendance": null,
       "sourceKey": "miami",
       "sourceUrl": "https://www.miamibeachconvention.com/events"
@@ -244,6 +288,17 @@
       "sourceUrl": "https://events.occc.net/event/surf-expo/863/"
     },
     {
+      "title": "Independent Hotel Show",
+      "city": "Miami Beach",
+      "venue": "Miami Beach Convention Center",
+      "startDate": "2026-09-17",
+      "endDate": "2026-09-17",
+      "category": "Convention Center Event",
+      "attendance": null,
+      "sourceKey": "miami",
+      "sourceUrl": "https://www.miamibeachconvention.com/events"
+    },
+    {
       "title": "HumanCon 2026",
       "city": "Orlando",
       "venue": "Orange County Convention Center",
@@ -253,6 +308,17 @@
       "attendance": null,
       "sourceKey": "orlando",
       "sourceUrl": "https://events.occc.net/event/humancon-2026/885/"
+    },
+    {
+      "title": "UNITED STATES UNIVERSITY COMMENCEMENT CEREMONY 2026",
+      "city": "San Diego",
+      "venue": "San Diego Convention Center",
+      "startDate": "2026-09-18",
+      "endDate": "2026-09-18",
+      "category": "Meeting/Seminar",
+      "attendance": 5000,
+      "sourceKey": "sandiego",
+      "sourceUrl": "https://www.visitsandiego.com/calendar?page=1"
     },
     {
       "title": "BCG Fest 26-27 feat. One Piece Card Game",
@@ -274,7 +340,7 @@
       "category": "Convention with Trade Show",
       "attendance": 5000,
       "sourceKey": "sandiego",
-      "sourceUrl": "https://www.visitsandiego.com/calendar"
+      "sourceUrl": "https://www.visitsandiego.com/calendar?page=1"
     },
     {
       "title": "Ace Hardware Fall Event 2026",
@@ -310,6 +376,28 @@
       "sourceUrl": "https://www.dallasconventioncenter.com/events"
     },
     {
+      "title": "4TH ANNUAL SDRC-CON 2026",
+      "city": "San Diego",
+      "venue": "San Diego Convention Center",
+      "startDate": "2026-09-26",
+      "endDate": "2026-09-26",
+      "category": "Local Trade Show",
+      "attendance": 1200,
+      "sourceKey": "sandiego",
+      "sourceUrl": "https://www.visitsandiego.com/calendar?page=1"
+    },
+    {
+      "title": "GUJARATI CULTURAL DANCE SEPTEMBER 2026",
+      "city": "San Diego",
+      "venue": "San Diego Convention Center",
+      "startDate": "2026-09-26",
+      "endDate": "2026-09-26",
+      "category": "Community Event",
+      "attendance": 1200,
+      "sourceKey": "sandiego",
+      "sourceUrl": "https://www.visitsandiego.com/calendar?page=1"
+    },
+    {
       "title": "Oddities & Curiosities Expo 2026",
       "city": "Dallas",
       "venue": "Kay Bailey Hutchison Convention Center Dallas",
@@ -326,7 +414,7 @@
       "venue": "Miami Beach Convention Center",
       "startDate": "2026-09-28",
       "endDate": "2026-10-01",
-      "category": "Conference / Exhibition",
+      "category": "Convention Center Event",
       "attendance": null,
       "sourceKey": "miami",
       "sourceUrl": "https://www.miamibeachconvention.com/events"
@@ -343,6 +431,17 @@
       "sourceUrl": "https://events.occc.net/event/2026-ems-world-expo/871/"
     },
     {
+      "title": "SIBOS 2026",
+      "city": "Miami Beach",
+      "venue": "Miami Beach Convention Center",
+      "startDate": "2026-10-01",
+      "endDate": "2026-10-01",
+      "category": "Convention Center Event",
+      "attendance": null,
+      "sourceKey": "miami",
+      "sourceUrl": "https://www.miamibeachconvention.com/events"
+    },
+    {
       "title": "AAP 2026 NATIONAL CONFERENCE & EXHIBITION",
       "city": "San Diego",
       "venue": "San Diego Convention Center",
@@ -351,7 +450,7 @@
       "category": "Convention with Trade Show",
       "attendance": 11000,
       "sourceKey": "sandiego",
-      "sourceUrl": "https://www.visitsandiego.com/calendar"
+      "sourceUrl": "https://www.visitsandiego.com/calendar?page=1"
     },
     {
       "title": "Fun In The Sun 2026",
@@ -387,6 +486,17 @@
       "sourceUrl": "https://www.visitanaheim.org/listing/anaheim-convention-center/2959/amp/"
     },
     {
+      "title": "Tonight's Conversation Live & Uncut '26",
+      "city": "Dallas",
+      "venue": "Kay Bailey Hutchison Convention Center Dallas",
+      "startDate": "2026-10-04",
+      "endDate": "2026-10-04",
+      "category": "Special Event",
+      "attendance": null,
+      "sourceKey": "dallas",
+      "sourceUrl": "https://www.dallasconventioncenter.com/events"
+    },
+    {
       "title": "Florida Bridal & Wedding Expo",
       "city": "Orlando",
       "venue": "Orange County Convention Center",
@@ -409,6 +519,17 @@
       "sourceUrl": "https://events.occc.net/event/nacac-national-college-fair-2026/877/"
     },
     {
+      "title": "APTA 2026 TRANSform & EXPO",
+      "city": "Chicago",
+      "venue": "Chicago convention market",
+      "startDate": "2026-10-04",
+      "endDate": "2026-10-07",
+      "category": "Major Chicago Convention",
+      "attendance": null,
+      "sourceKey": "chicago",
+      "sourceUrl": "https://www.choosechicago.com/meeting-planners/chicago-updates-for-meeting-planners/chicago-convention-calendar/"
+    },
+    {
       "title": "OCSO 2026 Annual Vehicle Inspection (1)",
       "city": "Orlando",
       "venue": "Orange County Convention Center",
@@ -418,6 +539,39 @@
       "attendance": null,
       "sourceKey": "orlando",
       "sourceUrl": "https://events.occc.net/event/ocso-2026-annual-vehicle-inspection-(1)/881/"
+    },
+    {
+      "title": "ACEP26 Scientific Assembly 2026",
+      "city": "Chicago",
+      "venue": "Chicago convention market",
+      "startDate": "2026-10-05",
+      "endDate": "2026-10-07",
+      "category": "Major Chicago Convention",
+      "attendance": null,
+      "sourceKey": "chicago",
+      "sourceUrl": "https://www.choosechicago.com/meeting-planners/chicago-updates-for-meeting-planners/chicago-convention-calendar/"
+    },
+    {
+      "title": "Jupiter Entertainment, Media, and Sports Festival",
+      "city": "Miami Beach",
+      "venue": "Miami Beach Convention Center",
+      "startDate": "2026-10-06",
+      "endDate": "2026-10-09",
+      "category": "Convention Center Event",
+      "attendance": null,
+      "sourceKey": "miami",
+      "sourceUrl": "https://www.miamibeachconvention.com/events"
+    },
+    {
+      "title": "Burger King Franchise Owner's Conference",
+      "city": "Miami Beach",
+      "venue": "Miami Beach Convention Center",
+      "startDate": "2026-10-07",
+      "endDate": "2026-10-09",
+      "category": "Convention Center Event",
+      "attendance": null,
+      "sourceKey": "miami",
+      "sourceUrl": "https://www.miamibeachconvention.com/events"
     },
     {
       "title": "Metalcon 2026",
@@ -453,6 +607,50 @@
       "sourceUrl": "https://events.occc.net/event/prospanica-2023-annu/880/"
     },
     {
+      "title": "Bank of America Chicago Marathon and Health & Fitness Expo 2026",
+      "city": "Chicago",
+      "venue": "Chicago convention market",
+      "startDate": "2026-10-08",
+      "endDate": "2026-10-11",
+      "category": "Major Chicago Convention",
+      "attendance": null,
+      "sourceKey": "chicago",
+      "sourceUrl": "https://www.choosechicago.com/meeting-planners/chicago-updates-for-meeting-planners/chicago-convention-calendar/"
+    },
+    {
+      "title": "YBNB BIZ CON 2026",
+      "city": "San Diego",
+      "venue": "San Diego Convention Center",
+      "startDate": "2026-10-09",
+      "endDate": "2026-10-09",
+      "category": "Meeting/Seminar",
+      "attendance": 900,
+      "sourceKey": "sandiego",
+      "sourceUrl": "https://www.visitsandiego.com/calendar?page=1"
+    },
+    {
+      "title": "Jupiter Entertainment, Media, and Sports Festival",
+      "city": "Miami Beach",
+      "venue": "Miami Beach Convention Center",
+      "startDate": "2026-10-09",
+      "endDate": "2026-10-09",
+      "category": "Convention Center Event",
+      "attendance": null,
+      "sourceKey": "miami",
+      "sourceUrl": "https://www.miamibeachconvention.com/events"
+    },
+    {
+      "title": "Burger King Franchise Owner's Conference",
+      "city": "Miami Beach",
+      "venue": "Miami Beach Convention Center",
+      "startDate": "2026-10-09",
+      "endDate": "2026-10-09",
+      "category": "Convention Center Event",
+      "attendance": null,
+      "sourceKey": "miami",
+      "sourceUrl": "https://www.miamibeachconvention.com/events"
+    },
+    {
       "title": "USA Fencing Association 2026",
       "city": "Orlando",
       "venue": "Orange County Convention Center",
@@ -462,6 +660,50 @@
       "attendance": null,
       "sourceKey": "orlando",
       "sourceUrl": "https://events.occc.net/event/usa-fencing-association-2026/916/"
+    },
+    {
+      "title": "GUJARATI CULTURAL DANCE OCTOBER 2026",
+      "city": "San Diego",
+      "venue": "San Diego Convention Center",
+      "startDate": "2026-10-10",
+      "endDate": "2026-10-10",
+      "category": "Community Event",
+      "attendance": 1200,
+      "sourceKey": "sandiego",
+      "sourceUrl": "https://www.visitsandiego.com/calendar?page=1"
+    },
+    {
+      "title": "ATHX Games",
+      "city": "Miami Beach",
+      "venue": "Miami Beach Convention Center",
+      "startDate": "2026-10-10",
+      "endDate": "2026-10-10",
+      "category": "Convention Center Event",
+      "attendance": null,
+      "sourceKey": "miami",
+      "sourceUrl": "https://www.miamibeachconvention.com/events"
+    },
+    {
+      "title": "WEST COAST CONFERENCE CHEER AND DANCE COMPETITION 2026",
+      "city": "San Diego",
+      "venue": "San Diego Convention Center",
+      "startDate": "2026-10-11",
+      "endDate": "2026-10-11",
+      "category": "Meeting/Seminar",
+      "attendance": 6000,
+      "sourceKey": "sandiego",
+      "sourceUrl": "https://www.visitsandiego.com/calendar?page=1"
+    },
+    {
+      "title": "CALIFORNIA BRIDAL & WEDDING EXPO FALL 2026",
+      "city": "San Diego",
+      "venue": "San Diego Convention Center",
+      "startDate": "2026-10-11",
+      "endDate": "2026-10-11",
+      "category": "Consumer Show",
+      "attendance": 5000,
+      "sourceKey": "sandiego",
+      "sourceUrl": "https://www.visitsandiego.com/calendar?page=1"
     },
     {
       "title": "2026 GFS Orlando Sho",
@@ -505,7 +747,29 @@
       "category": "Convention with Trade Show",
       "attendance": 16000,
       "sourceKey": "sandiego",
-      "sourceUrl": "https://www.visitsandiego.com/calendar"
+      "sourceUrl": "https://www.visitsandiego.com/calendar?page=1"
+    },
+    {
+      "title": "NTX Universe",
+      "city": "Dallas",
+      "venue": "Kay Bailey Hutchison Convention Center Dallas",
+      "startDate": "2026-10-16",
+      "endDate": "2026-10-18",
+      "category": "Consumer Show",
+      "attendance": null,
+      "sourceKey": "dallas",
+      "sourceUrl": "https://www.dallasconventioncenter.com/events"
+    },
+    {
+      "title": "Jewelers International Showcase Fall 2026",
+      "city": "Miami Beach",
+      "venue": "Miami Beach Convention Center",
+      "startDate": "2026-10-16",
+      "endDate": "2026-10-19",
+      "category": "Convention Center Event",
+      "attendance": null,
+      "sourceKey": "miami",
+      "sourceUrl": "https://www.miamibeachconvention.com/events"
     },
     {
       "title": "RTAG National Conven",
@@ -530,6 +794,28 @@
       "sourceUrl": "https://events.occc.net/event/tedxorlando/891/"
     },
     {
+      "title": "PACK EXPO International 2026",
+      "city": "Chicago",
+      "venue": "Chicago convention market",
+      "startDate": "2026-10-18",
+      "endDate": "2026-10-21",
+      "category": "Major Chicago Convention",
+      "attendance": null,
+      "sourceKey": "chicago",
+      "sourceUrl": "https://www.choosechicago.com/meeting-planners/chicago-updates-for-meeting-planners/chicago-convention-calendar/"
+    },
+    {
+      "title": "Jewelers International Showcase Fall 2026",
+      "city": "Miami Beach",
+      "venue": "Miami Beach Convention Center",
+      "startDate": "2026-10-19",
+      "endDate": "2026-10-19",
+      "category": "Convention Center Event",
+      "attendance": null,
+      "sourceKey": "miami",
+      "sourceUrl": "https://www.miamibeachconvention.com/events"
+    },
+    {
       "title": "Procore Groundbreak",
       "city": "Orlando",
       "venue": "Orange County Convention Center",
@@ -539,6 +825,28 @@
       "attendance": null,
       "sourceKey": "orlando",
       "sourceUrl": "https://events.occc.net/event/procore-groundbreak/890/"
+    },
+    {
+      "title": "PlantCon Dallas",
+      "city": "Dallas",
+      "venue": "Kay Bailey Hutchison Convention Center Dallas",
+      "startDate": "2026-10-24",
+      "endDate": "2026-10-25",
+      "category": "Consumer Show",
+      "attendance": null,
+      "sourceKey": "dallas",
+      "sourceUrl": "https://www.dallasconventioncenter.com/events"
+    },
+    {
+      "title": "Collect-A-Con Dallas 2026",
+      "city": "Dallas",
+      "venue": "Kay Bailey Hutchison Convention Center Dallas",
+      "startDate": "2026-10-24",
+      "endDate": "2026-10-25",
+      "category": "Consumer Show",
+      "attendance": null,
+      "sourceKey": "dallas",
+      "sourceUrl": "https://www.dallasconventioncenter.com/events"
     },
     {
       "title": "IACP 2026",
@@ -563,6 +871,105 @@
       "sourceUrl": "https://events.occc.net/event/pizza-tomorrow-summi/895/"
     },
     {
+      "title": "ULI Fall Meeting 2026",
+      "city": "Miami Beach",
+      "venue": "Miami Beach Convention Center",
+      "startDate": "2026-10-26",
+      "endDate": "2026-10-28",
+      "category": "Convention Center Event",
+      "attendance": null,
+      "sourceKey": "miami",
+      "sourceUrl": "https://www.miamibeachconvention.com/events"
+    },
+    {
+      "title": "Air Cargo Forum and Exhibition",
+      "city": "Miami Beach",
+      "venue": "Miami Beach Convention Center",
+      "startDate": "2026-10-26",
+      "endDate": "2026-10-29",
+      "category": "Convention Center Event",
+      "attendance": null,
+      "sourceKey": "miami",
+      "sourceUrl": "https://www.miamibeachconvention.com/events"
+    },
+    {
+      "title": "WTE Miami 2026",
+      "city": "Miami Beach",
+      "venue": "Miami Beach Convention Center",
+      "startDate": "2026-10-27",
+      "endDate": "2026-10-28",
+      "category": "Convention Center Event",
+      "attendance": null,
+      "sourceKey": "miami",
+      "sourceUrl": "https://www.miamibeachconvention.com/events"
+    },
+    {
+      "title": "Win the Storm 2026",
+      "city": "Dallas",
+      "venue": "Kay Bailey Hutchison Convention Center Dallas",
+      "startDate": "2026-10-28",
+      "endDate": "2026-10-30",
+      "category": "Consumer Show",
+      "attendance": null,
+      "sourceKey": "dallas",
+      "sourceUrl": "https://www.dallasconventioncenter.com/events"
+    },
+    {
+      "title": "ULI Fall Meeting 2026",
+      "city": "Miami Beach",
+      "venue": "Miami Beach Convention Center",
+      "startDate": "2026-10-28",
+      "endDate": "2026-10-28",
+      "category": "Convention Center Event",
+      "attendance": null,
+      "sourceKey": "miami",
+      "sourceUrl": "https://www.miamibeachconvention.com/events"
+    },
+    {
+      "title": "WTE Miami 2026",
+      "city": "Miami Beach",
+      "venue": "Miami Beach Convention Center",
+      "startDate": "2026-10-28",
+      "endDate": "2026-10-28",
+      "category": "Convention Center Event",
+      "attendance": null,
+      "sourceKey": "miami",
+      "sourceUrl": "https://www.miamibeachconvention.com/events"
+    },
+    {
+      "title": "The Miami Beach Food and Beverage Expo",
+      "city": "Miami Beach",
+      "venue": "Miami Beach Convention Center",
+      "startDate": "2026-10-28",
+      "endDate": "2026-10-29",
+      "category": "Convention Center Event",
+      "attendance": null,
+      "sourceKey": "miami",
+      "sourceUrl": "https://www.miamibeachconvention.com/events"
+    },
+    {
+      "title": "Air Cargo Forum and Exhibition",
+      "city": "Miami Beach",
+      "venue": "Miami Beach Convention Center",
+      "startDate": "2026-10-29",
+      "endDate": "2026-10-29",
+      "category": "Convention Center Event",
+      "attendance": null,
+      "sourceKey": "miami",
+      "sourceUrl": "https://www.miamibeachconvention.com/events"
+    },
+    {
+      "title": "The Miami Beach Food and Beverage Expo",
+      "city": "Miami Beach",
+      "venue": "Miami Beach Convention Center",
+      "startDate": "2026-10-29",
+      "endDate": "2026-10-29",
+      "category": "Convention Center Event",
+      "attendance": null,
+      "sourceKey": "miami",
+      "sourceUrl": "https://www.miamibeachconvention.com/events"
+    },
+    {
       "title": "Florida Association",
       "city": "Orlando",
       "venue": "Orange County Convention Center",
@@ -574,6 +981,28 @@
       "sourceUrl": "https://events.occc.net/event/florida-association/898/"
     },
     {
+      "title": "ANCC 2026 Magnet & Pathway Conference",
+      "city": "Chicago",
+      "venue": "Chicago convention market",
+      "startDate": "2026-10-29",
+      "endDate": "2026-10-31",
+      "category": "Major Chicago Convention",
+      "attendance": null,
+      "sourceKey": "chicago",
+      "sourceUrl": "https://www.choosechicago.com/meeting-planners/chicago-updates-for-meeting-planners/chicago-convention-calendar/"
+    },
+    {
+      "title": "Longhorn State Tattoo Expo 2026",
+      "city": "Dallas",
+      "venue": "Kay Bailey Hutchison Convention Center Dallas",
+      "startDate": "2026-10-30",
+      "endDate": "2026-11-01",
+      "category": "Consumer Show",
+      "attendance": null,
+      "sourceKey": "dallas",
+      "sourceUrl": "https://www.dallasconventioncenter.com/events"
+    },
+    {
       "title": "CRF 2026 TRANSCATHETER CARDIOVASCULAR THERAPEUTICS",
       "city": "San Diego",
       "venue": "San Diego Convention Center",
@@ -582,7 +1011,18 @@
       "category": "Convention with Trade Show",
       "attendance": 11000,
       "sourceKey": "sandiego",
-      "sourceUrl": "https://www.visitsandiego.com/calendar"
+      "sourceUrl": "https://www.visitsandiego.com/calendar?page=1"
+    },
+    {
+      "title": "The Hospitality Show 2026",
+      "city": "Miami Beach",
+      "venue": "Miami Beach Convention Center",
+      "startDate": "2026-11-02",
+      "endDate": "2026-11-04",
+      "category": "Convention Center Event",
+      "attendance": null,
+      "sourceKey": "miami",
+      "sourceUrl": "https://www.miamibeachconvention.com/events"
     },
     {
       "title": "Advanced Textiles Expo / Sun Shading Expo 2026",
@@ -607,6 +1047,17 @@
       "sourceUrl": "https://events.occc.net/event/cheney-brothers-fo/899/"
     },
     {
+      "title": "The Hospitality Show 2026",
+      "city": "Miami Beach",
+      "venue": "Miami Beach Convention Center",
+      "startDate": "2026-11-04",
+      "endDate": "2026-11-04",
+      "category": "Convention Center Event",
+      "attendance": null,
+      "sourceKey": "miami",
+      "sourceUrl": "https://www.miamibeachconvention.com/events"
+    },
+    {
       "title": "Yu-Gi-Oh! Championship Series Orlando 2026",
       "city": "Orlando",
       "venue": "Orange County Convention Center",
@@ -618,6 +1069,28 @@
       "sourceUrl": "https://events.occc.net/event/yu-gi-oh!-championship-series-orlando-2026/905/"
     },
     {
+      "title": "AHA 2026 Scientific Sessions",
+      "city": "Chicago",
+      "venue": "Chicago convention market",
+      "startDate": "2026-11-06",
+      "endDate": "2026-11-09",
+      "category": "Major Chicago Convention",
+      "attendance": null,
+      "sourceKey": "chicago",
+      "sourceUrl": "https://www.choosechicago.com/meeting-planners/chicago-updates-for-meeting-planners/chicago-convention-calendar/"
+    },
+    {
+      "title": "WESCON REGIONAL CHEER AND DANCE CHAMPIONSHIPS",
+      "city": "San Diego",
+      "venue": "San Diego Convention Center",
+      "startDate": "2026-11-08",
+      "endDate": "2026-11-08",
+      "category": "Meeting/Seminar",
+      "attendance": 6000,
+      "sourceKey": "sandiego",
+      "sourceUrl": "https://www.visitsandiego.com/calendar?page=1"
+    },
+    {
       "title": "ACR Annual Meeting 2026",
       "city": "Orlando",
       "venue": "Orange County Convention Center",
@@ -627,6 +1100,28 @@
       "attendance": null,
       "sourceKey": "orlando",
       "sourceUrl": "https://events.occc.net/event/acr-annual-meeting-2026/902/"
+    },
+    {
+      "title": "Adobe MAX - The Creative Conference",
+      "city": "Miami Beach",
+      "venue": "Miami Beach Convention Center",
+      "startDate": "2026-11-10",
+      "endDate": "2026-11-12",
+      "category": "Convention Center Event",
+      "attendance": null,
+      "sourceKey": "miami",
+      "sourceUrl": "https://www.miamibeachconvention.com/events"
+    },
+    {
+      "title": "Adobe MAX - The Creative Conference",
+      "city": "Miami Beach",
+      "venue": "Miami Beach Convention Center",
+      "startDate": "2026-11-12",
+      "endDate": "2026-11-12",
+      "category": "Convention Center Event",
+      "attendance": null,
+      "sourceKey": "miami",
+      "sourceUrl": "https://www.miamibeachconvention.com/events"
     },
     {
       "title": "AARM&R Annual Assemb",
@@ -648,7 +1143,29 @@
       "category": "Convention with Trade Show",
       "attendance": 25000,
       "sourceKey": "sandiego",
-      "sourceUrl": "https://www.visitsandiego.com/calendar"
+      "sourceUrl": "https://www.visitsandiego.com/calendar?page=1"
+    },
+    {
+      "title": "JVA Chi-Town Boys Challenge 2026",
+      "city": "Chicago",
+      "venue": "Chicago convention market",
+      "startDate": "2026-11-13",
+      "endDate": "2026-11-15",
+      "category": "Major Chicago Convention",
+      "attendance": null,
+      "sourceKey": "chicago",
+      "sourceUrl": "https://www.choosechicago.com/meeting-planners/chicago-updates-for-meeting-planners/chicago-convention-calendar/"
+    },
+    {
+      "title": "IEEE SC26 International Conference",
+      "city": "Chicago",
+      "venue": "Chicago convention market",
+      "startDate": "2026-11-15",
+      "endDate": "2026-11-20",
+      "category": "Major Chicago Convention",
+      "attendance": null,
+      "sourceKey": "chicago",
+      "sourceUrl": "https://www.choosechicago.com/meeting-planners/chicago-updates-for-meeting-planners/chicago-convention-calendar/"
     },
     {
       "title": "IAAPA Expo",
@@ -673,6 +1190,17 @@
       "sourceUrl": "https://events.occc.net/event/athletic-business-sh/910/"
     },
     {
+      "title": "FINTECH NERDCON",
+      "city": "San Diego",
+      "venue": "San Diego Convention Center",
+      "startDate": "2026-11-19",
+      "endDate": "2026-11-20",
+      "category": "Convention with Trade Show",
+      "attendance": 1500,
+      "sourceKey": "sandiego",
+      "sourceUrl": "https://www.visitsandiego.com/calendar?page=1"
+    },
+    {
       "title": "APS 79th Annual Meeting of the Division of Fluid Dynamics",
       "city": "Orlando",
       "venue": "Orange County Convention Center",
@@ -689,10 +1217,21 @@
       "venue": "San Diego Convention Center",
       "startDate": "2026-11-27",
       "endDate": "2026-11-29",
-      "category": "Convention",
+      "category": "Convention Only",
       "attendance": 30000,
       "sourceKey": "sandiego",
-      "sourceUrl": "https://www.visitsandiego.com/calendar"
+      "sourceUrl": "https://www.visitsandiego.com/calendar?page=1"
+    },
+    {
+      "title": "RSNA 2026 Annual Meeting",
+      "city": "Chicago",
+      "venue": "Chicago convention market",
+      "startDate": "2026-11-29",
+      "endDate": "2026-12-03",
+      "category": "Major Chicago Convention",
+      "attendance": null,
+      "sourceKey": "chicago",
+      "sourceUrl": "https://www.choosechicago.com/meeting-planners/chicago-updates-for-meeting-planners/chicago-convention-calendar/"
     },
     {
       "title": "I/ITSEC The Interservice/Industry Training, Simulation & Education Conference 2026",
@@ -706,6 +1245,39 @@
       "sourceUrl": "https://events.occc.net/event/i-itsec-the-interservice-industry-training-simulation-%26-education-conference-2026/912/"
     },
     {
+      "title": "X-STEM WORKSHOPS SAN DIEGO 2026",
+      "city": "San Diego",
+      "venue": "San Diego Convention Center",
+      "startDate": "2026-12-01",
+      "endDate": "2026-12-01",
+      "category": "Meeting/Seminar",
+      "attendance": 800,
+      "sourceKey": "sandiego",
+      "sourceUrl": "https://www.visitsandiego.com/calendar?page=1"
+    },
+    {
+      "title": "Art Basel Miami Beach",
+      "city": "Miami Beach",
+      "venue": "Miami Beach Convention Center",
+      "startDate": "2026-12-02",
+      "endDate": "2026-12-06",
+      "category": "Convention Center Event",
+      "attendance": null,
+      "sourceKey": "miami",
+      "sourceUrl": "https://www.miamibeachconvention.com/events"
+    },
+    {
+      "title": "Design Miami",
+      "city": "Miami Beach",
+      "venue": "Miami Beach Convention Center",
+      "startDate": "2026-12-02",
+      "endDate": "2026-12-06",
+      "category": "Convention Center Event",
+      "attendance": null,
+      "sourceKey": "miami",
+      "sourceUrl": "https://www.miamibeachconvention.com/events"
+    },
+    {
       "title": "CSBA 2026 ANNUAL EDUCATION CONFERENCE & TRADE SHOW",
       "city": "San Diego",
       "venue": "San Diego Convention Center",
@@ -714,7 +1286,7 @@
       "category": "Convention with Trade Show",
       "attendance": 4500,
       "sourceKey": "sandiego",
-      "sourceUrl": "https://www.visitsandiego.com/calendar"
+      "sourceUrl": "https://www.visitsandiego.com/calendar?page=1"
     },
     {
       "title": "ASHP Midyear Clinical Meeting",
@@ -726,6 +1298,28 @@
       "attendance": null,
       "sourceKey": "orlando",
       "sourceUrl": "https://events.occc.net/event/ashp-midyear-clinical-meeting/914/"
+    },
+    {
+      "title": "Art Basel Miami Beach",
+      "city": "Miami Beach",
+      "venue": "Miami Beach Convention Center",
+      "startDate": "2026-12-06",
+      "endDate": "2026-12-06",
+      "category": "Convention Center Event",
+      "attendance": null,
+      "sourceKey": "miami",
+      "sourceUrl": "https://www.miamibeachconvention.com/events"
+    },
+    {
+      "title": "Design Miami",
+      "city": "Miami Beach",
+      "venue": "Miami Beach Convention Center",
+      "startDate": "2026-12-06",
+      "endDate": "2026-12-06",
+      "category": "Convention Center Event",
+      "attendance": null,
+      "sourceKey": "miami",
+      "sourceUrl": "https://www.miamibeachconvention.com/events"
     },
     {
       "title": "AKC National Championship presented by Royal Canin",
@@ -747,7 +1341,18 @@
       "category": "Convention with Trade Show",
       "attendance": 6000,
       "sourceKey": "sandiego",
-      "sourceUrl": "https://www.visitsandiego.com/calendar"
+      "sourceUrl": "https://www.visitsandiego.com/calendar?page=1"
+    },
+    {
+      "title": "USA CARD SHOW",
+      "city": "San Diego",
+      "venue": "San Diego Convention Center",
+      "startDate": "2026-12-12",
+      "endDate": "2026-12-13",
+      "category": "Consumer Show",
+      "attendance": 4000,
+      "sourceKey": "sandiego",
+      "sourceUrl": "https://www.visitsandiego.com/calendar?page=1"
     },
     {
       "title": "Spirit Cheer 2026",
@@ -761,6 +1366,17 @@
       "sourceUrl": "https://events.occc.net/event/spirit-cheer-2026/917/"
     },
     {
+      "title": "The Midwest Clinic 2026 International Band & Orchestra Conference",
+      "city": "Chicago",
+      "venue": "Chicago convention market",
+      "startDate": "2026-12-16",
+      "endDate": "2026-12-18",
+      "category": "Major Chicago Convention",
+      "attendance": null,
+      "sourceKey": "chicago",
+      "sourceUrl": "https://www.choosechicago.com/meeting-planners/chicago-updates-for-meeting-planners/chicago-convention-calendar/"
+    },
+    {
       "title": "Holiday Matsuri 2026",
       "city": "Orlando",
       "venue": "Orange County Convention Center",
@@ -772,6 +1388,17 @@
       "sourceUrl": "https://events.occc.net/event/holiday-matsuri-2026/919/"
     },
     {
+      "title": "Xenom Miami",
+      "city": "Miami Beach",
+      "venue": "Miami Beach Convention Center",
+      "startDate": "2026-12-19",
+      "endDate": "2026-12-20",
+      "category": "Convention Center Event",
+      "attendance": null,
+      "sourceKey": "miami",
+      "sourceUrl": "https://www.miamibeachconvention.com/events"
+    },
+    {
       "title": "NBA G League Fall To",
       "city": "Orlando",
       "venue": "Orange County Convention Center",
@@ -781,6 +1408,28 @@
       "attendance": null,
       "sourceKey": "orlando",
       "sourceUrl": "https://events.occc.net/event/nba-g-league-fall-to/918/"
+    },
+    {
+      "title": "Xenom Miami",
+      "city": "Miami Beach",
+      "venue": "Miami Beach Convention Center",
+      "startDate": "2026-12-20",
+      "endDate": "2026-12-20",
+      "category": "Convention Center Event",
+      "attendance": null,
+      "sourceKey": "miami",
+      "sourceUrl": "https://www.miamibeachconvention.com/events"
+    },
+    {
+      "title": "MASCON 26 Annual Convention",
+      "city": "Chicago",
+      "venue": "Chicago convention market",
+      "startDate": "2026-12-26",
+      "endDate": "2026-12-28",
+      "category": "Major Chicago Convention",
+      "attendance": null,
+      "sourceKey": "chicago",
+      "sourceUrl": "https://www.choosechicago.com/meeting-planners/chicago-updates-for-meeting-planners/chicago-convention-calendar/"
     },
     {
       "title": "ASI Show 2027",
@@ -860,6 +1509,17 @@
       "sourceUrl": "https://events.occc.net/event/central-florida-home/924/"
     },
     {
+      "title": "PCMA Convening Leaders",
+      "city": "Miami Beach",
+      "venue": "Miami Beach Convention Center",
+      "startDate": "2027-01-10",
+      "endDate": "2027-01-13",
+      "category": "Convention Center Event",
+      "attendance": null,
+      "sourceKey": "miami",
+      "sourceUrl": "https://www.miamibeachconvention.com/events"
+    },
+    {
       "title": "Commercial Space Week",
       "city": "Orlando",
       "venue": "Orange County Convention Center",
@@ -869,6 +1529,17 @@
       "attendance": null,
       "sourceKey": "orlando",
       "sourceUrl": "https://events.occc.net/event/commercial-space-week/926/"
+    },
+    {
+      "title": "PCMA Convening Leaders",
+      "city": "Miami Beach",
+      "venue": "Miami Beach Convention Center",
+      "startDate": "2027-01-13",
+      "endDate": "2027-01-13",
+      "category": "Convention Center Event",
+      "attendance": null,
+      "sourceKey": "miami",
+      "sourceUrl": "https://www.miamibeachconvention.com/events"
     },
     {
       "title": "Presidential Classic",
@@ -882,6 +1553,28 @@
       "sourceUrl": "https://events.occc.net/event/presidential-classic/929/"
     },
     {
+      "title": "ELITE RYC/RJCC FENCING TOURNAMENT",
+      "city": "San Diego",
+      "venue": "San Diego Convention Center",
+      "startDate": "2027-01-16",
+      "endDate": "2027-01-17",
+      "category": "Meeting/Seminar",
+      "attendance": 4000,
+      "sourceKey": "sandiego",
+      "sourceUrl": "https://www.visitsandiego.com/calendar?page=1"
+    },
+    {
+      "title": "MLK Volleyball Summit",
+      "city": "Miami Beach",
+      "venue": "Miami Beach Convention Center",
+      "startDate": "2027-01-16",
+      "endDate": "2027-01-18",
+      "category": "Convention Center Event",
+      "attendance": null,
+      "sourceKey": "miami",
+      "sourceUrl": "https://www.miamibeachconvention.com/events"
+    },
+    {
       "title": "All Out Grand Nation",
       "city": "Orlando",
       "venue": "Orange County Convention Center",
@@ -891,6 +1584,28 @@
       "attendance": null,
       "sourceKey": "orlando",
       "sourceUrl": "https://events.occc.net/event/all-out-grand-nation/928/"
+    },
+    {
+      "title": "ASCEND AGENCY GROWTH & LEADERSHIP SUMMIT",
+      "city": "San Diego",
+      "venue": "San Diego Convention Center",
+      "startDate": "2027-01-18",
+      "endDate": "2027-01-21",
+      "category": "Meeting/Seminar",
+      "attendance": 350,
+      "sourceKey": "sandiego",
+      "sourceUrl": "https://www.visitsandiego.com/calendar?page=1"
+    },
+    {
+      "title": "MLK Volleyball Summit",
+      "city": "Miami Beach",
+      "venue": "Miami Beach Convention Center",
+      "startDate": "2027-01-18",
+      "endDate": "2027-01-18",
+      "category": "Convention Center Event",
+      "attendance": null,
+      "sourceKey": "miami",
+      "sourceUrl": "https://www.miamibeachconvention.com/events"
     },
     {
       "title": "MLK Day of Service Million Meal Pack",
@@ -904,6 +1619,17 @@
       "sourceUrl": "https://events.occc.net/event/mlk-day-of-service-million-meal-pack/931/"
     },
     {
+      "title": "ADVANCED THERAPIES WEEK 2027",
+      "city": "San Diego",
+      "venue": "San Diego Convention Center",
+      "startDate": "2027-01-19",
+      "endDate": "2027-01-21",
+      "category": "Convention with Trade Show",
+      "attendance": 2000,
+      "sourceKey": "sandiego",
+      "sourceUrl": "https://www.visitsandiego.com/calendar?page=1"
+    },
+    {
       "title": "Florida Fest JNQ in",
       "city": "Orlando",
       "venue": "Orange County Convention Center",
@@ -913,6 +1639,17 @@
       "attendance": null,
       "sourceKey": "orlando",
       "sourceUrl": "https://events.occc.net/event/florida-fest-jnq-in/933/"
+    },
+    {
+      "title": "Cosmoprof North America Miami 2027",
+      "city": "Miami Beach",
+      "venue": "Miami Beach Convention Center",
+      "startDate": "2027-01-26",
+      "endDate": "2027-01-28",
+      "category": "Convention Center Event",
+      "attendance": null,
+      "sourceKey": "miami",
+      "sourceUrl": "https://www.miamibeachconvention.com/events"
     },
     {
       "title": "FETC 2027",
@@ -937,6 +1674,39 @@
       "sourceUrl": "https://events.occc.net/event/pga-show-2027/932/"
     },
     {
+      "title": "SOCIETY OF THORACIC SURGEONS 2027 ANNUAL MEETING",
+      "city": "San Diego",
+      "venue": "San Diego Convention Center",
+      "startDate": "2027-01-28",
+      "endDate": "2027-01-31",
+      "category": "Convention with Trade Show",
+      "attendance": 5000,
+      "sourceKey": "sandiego",
+      "sourceUrl": "https://www.visitsandiego.com/calendar?page=1"
+    },
+    {
+      "title": "Cosmoprof North America Miami 2027",
+      "city": "Miami Beach",
+      "venue": "Miami Beach Convention Center",
+      "startDate": "2027-01-28",
+      "endDate": "2027-01-28",
+      "category": "Convention Center Event",
+      "attendance": null,
+      "sourceKey": "miami",
+      "sourceUrl": "https://www.miamibeachconvention.com/events"
+    },
+    {
+      "title": "SOCIETY FOR LABORATORY AUTOMATION & SCREENING 2027 ANNUAL",
+      "city": "San Diego",
+      "venue": "San Diego Convention Center",
+      "startDate": "2027-01-30",
+      "endDate": "2027-02-03",
+      "category": "Convention with Trade Show",
+      "attendance": 7500,
+      "sourceKey": "sandiego",
+      "sourceUrl": "https://www.visitsandiego.com/calendar?page=1"
+    },
+    {
       "title": "Sherwin Williams Nat",
       "city": "Orlando",
       "venue": "Orange County Convention Center",
@@ -959,6 +1729,61 @@
       "sourceUrl": "https://events.occc.net/event/orlando-hoa-%26-condo-show-2027/944/"
     },
     {
+      "title": "Miami Rum Congress",
+      "city": "Miami Beach",
+      "venue": "Miami Beach Convention Center",
+      "startDate": "2027-02-05",
+      "endDate": "2027-02-07",
+      "category": "Convention Center Event",
+      "attendance": null,
+      "sourceKey": "miami",
+      "sourceUrl": "https://www.miamibeachconvention.com/events"
+    },
+    {
+      "title": "AZARIAN TEAM CUP CLASSIC",
+      "city": "San Diego",
+      "venue": "San Diego Convention Center",
+      "startDate": "2027-02-06",
+      "endDate": "2027-02-07",
+      "category": "Meeting/Seminar",
+      "attendance": 4000,
+      "sourceKey": "sandiego",
+      "sourceUrl": "https://www.visitsandiego.com/calendar?page=1"
+    },
+    {
+      "title": "WORLD CLASS CHAMPIONSHIPS LEGACY CROWN",
+      "city": "San Diego",
+      "venue": "San Diego Convention Center",
+      "startDate": "2027-02-06",
+      "endDate": "2027-02-07",
+      "category": "Meeting/Seminar",
+      "attendance": 3000,
+      "sourceKey": "sandiego",
+      "sourceUrl": "https://www.visitsandiego.com/calendar?page=1"
+    },
+    {
+      "title": "Miami Rum Congress",
+      "city": "Miami Beach",
+      "venue": "Miami Beach Convention Center",
+      "startDate": "2027-02-07",
+      "endDate": "2027-02-07",
+      "category": "Convention Center Event",
+      "attendance": null,
+      "sourceKey": "miami",
+      "sourceUrl": "https://www.miamibeachconvention.com/events"
+    },
+    {
+      "title": "INTERSOLAR & ENERGY STORAGE NORTH AMERICA 2027",
+      "city": "San Diego",
+      "venue": "San Diego Convention Center",
+      "startDate": "2027-02-08",
+      "endDate": "2027-02-11",
+      "category": "Convention with Trade Show",
+      "attendance": 10000,
+      "sourceKey": "sandiego",
+      "sourceUrl": "https://www.visitsandiego.com/calendar?page=1"
+    },
+    {
       "title": "The NAFEM Show 2027",
       "city": "Orlando",
       "venue": "Orange County Convention Center",
@@ -968,6 +1793,17 @@
       "attendance": null,
       "sourceKey": "orlando",
       "sourceUrl": "https://events.occc.net/event/the-nafem-show-2027/938/"
+    },
+    {
+      "title": "NATIONAL RURAL ELECTRIC COOPERATIVE ASSOCIATION ANNUAL CONVENTION",
+      "city": "San Diego",
+      "venue": "San Diego Convention Center",
+      "startDate": "2027-02-12",
+      "endDate": "2027-02-17",
+      "category": "Convention with Trade Show",
+      "attendance": 9000,
+      "sourceKey": "sandiego",
+      "sourceUrl": "https://www.visitsandiego.com/calendar?page=1"
     },
     {
       "title": "U.S. Dance/Drill Tea",
@@ -992,6 +1828,17 @@
       "sourceUrl": "https://events.occc.net/event/bicsi-2027-winter-conference/940/"
     },
     {
+      "title": "WEST 2027 - AFCEA INTERNATIONAL & U.S. NAVAL INSTITUTE",
+      "city": "San Diego",
+      "venue": "San Diego Convention Center",
+      "startDate": "2027-02-16",
+      "endDate": "2027-02-18",
+      "category": "Convention with Trade Show",
+      "attendance": 8000,
+      "sourceKey": "sandiego",
+      "sourceUrl": "https://www.visitsandiego.com/calendar?page=1"
+    },
+    {
       "title": "National Automobile Dealers Association NADA 2027",
       "city": "Orlando",
       "venue": "Orange County Convention Center",
@@ -1001,6 +1848,17 @@
       "attendance": null,
       "sourceKey": "orlando",
       "sourceUrl": "https://events.occc.net/event/national-automobile-dealers-association-nada-2027/939/"
+    },
+    {
+      "title": "TAP CANCER OUT SAN DIEGO BJJ OPEN",
+      "city": "San Diego",
+      "venue": "San Diego Convention Center",
+      "startDate": "2027-02-21",
+      "endDate": "2027-02-21",
+      "category": "Meeting/Seminar",
+      "attendance": 1000,
+      "sourceKey": "sandiego",
+      "sourceUrl": "https://www.visitsandiego.com/calendar?page=1"
     },
     {
       "title": "Exhibition Service and Contractors Association",
@@ -1047,6 +1905,17 @@
       "sourceUrl": "https://events.occc.net/event/stamp-%26-scrapbook-ex/946/"
     },
     {
+      "title": "REVOLUTION TALENT COMPETITION 2027",
+      "city": "San Diego",
+      "venue": "San Diego Convention Center",
+      "startDate": "2027-02-26",
+      "endDate": "2027-02-28",
+      "category": "Meeting/Seminar",
+      "attendance": 600,
+      "sourceKey": "sandiego",
+      "sourceUrl": "https://www.visitsandiego.com/calendar?page=1"
+    },
+    {
       "title": "Everything Under the Sun Expo",
       "city": "Orlando",
       "venue": "Orange County Convention Center",
@@ -1056,6 +1925,512 @@
       "attendance": null,
       "sourceKey": "orlando",
       "sourceUrl": "https://events.occc.net/event/everything-under-the-sun-expo/943/"
+    },
+    {
+      "title": "TED27",
+      "city": "San Diego",
+      "venue": "San Diego Convention Center",
+      "startDate": "2027-03-01",
+      "endDate": "2027-03-04",
+      "category": "Convention Only",
+      "attendance": 3000,
+      "sourceKey": "sandiego",
+      "sourceUrl": "https://www.visitsandiego.com/calendar?page=1"
+    },
+    {
+      "title": "eMerge Americas Technology Conference",
+      "city": "Miami Beach",
+      "venue": "Miami Beach Convention Center",
+      "startDate": "2027-03-03",
+      "endDate": "2027-03-04",
+      "category": "Convention Center Event",
+      "attendance": null,
+      "sourceKey": "miami",
+      "sourceUrl": "https://www.miamibeachconvention.com/events"
+    },
+    {
+      "title": "ABA White Collar Crime Institute",
+      "city": "Miami Beach",
+      "venue": "Miami Beach Convention Center",
+      "startDate": "2027-03-03",
+      "endDate": "2027-03-05",
+      "category": "Convention Center Event",
+      "attendance": null,
+      "sourceKey": "miami",
+      "sourceUrl": "https://www.miamibeachconvention.com/events"
+    },
+    {
+      "title": "eMerge Americas Technology Conference",
+      "city": "Miami Beach",
+      "venue": "Miami Beach Convention Center",
+      "startDate": "2027-03-04",
+      "endDate": "2027-03-04",
+      "category": "Convention Center Event",
+      "attendance": null,
+      "sourceKey": "miami",
+      "sourceUrl": "https://www.miamibeachconvention.com/events"
+    },
+    {
+      "title": "ABA White Collar Crime Institute",
+      "city": "Miami Beach",
+      "venue": "Miami Beach Convention Center",
+      "startDate": "2027-03-05",
+      "endDate": "2027-03-05",
+      "category": "Convention Center Event",
+      "attendance": null,
+      "sourceKey": "miami",
+      "sourceUrl": "https://www.miamibeachconvention.com/events"
+    },
+    {
+      "title": "TSN MARQUEE MAIN EVENT",
+      "city": "San Diego",
+      "venue": "San Diego Convention Center",
+      "startDate": "2027-03-06",
+      "endDate": "2027-03-07",
+      "category": "Meeting/Seminar",
+      "attendance": 5000,
+      "sourceKey": "sandiego",
+      "sourceUrl": "https://www.visitsandiego.com/calendar?page=1"
+    },
+    {
+      "title": "PB Expo",
+      "city": "Miami Beach",
+      "venue": "Miami Beach Convention Center",
+      "startDate": "2027-03-10",
+      "endDate": "2027-03-11",
+      "category": "Convention Center Event",
+      "attendance": null,
+      "sourceKey": "miami",
+      "sourceUrl": "https://www.miamibeachconvention.com/events"
+    },
+    {
+      "title": "AO ANNUAL MEETING 2027",
+      "city": "San Diego",
+      "venue": "San Diego Convention Center",
+      "startDate": "2027-03-11",
+      "endDate": "2027-03-13",
+      "category": "Convention with Trade Show",
+      "attendance": 1000,
+      "sourceKey": "sandiego",
+      "sourceUrl": "https://www.visitsandiego.com/calendar?page=1"
+    },
+    {
+      "title": "PB Expo",
+      "city": "Miami Beach",
+      "venue": "Miami Beach Convention Center",
+      "startDate": "2027-03-11",
+      "endDate": "2027-03-11",
+      "category": "Convention Center Event",
+      "attendance": null,
+      "sourceKey": "miami",
+      "sourceUrl": "https://www.miamibeachconvention.com/events"
+    },
+    {
+      "title": "SCCM 2027 CRITICAL CARE CONGRESS",
+      "city": "San Diego",
+      "venue": "San Diego Convention Center",
+      "startDate": "2027-03-14",
+      "endDate": "2027-03-16",
+      "category": "Convention with Trade Show",
+      "attendance": 4800,
+      "sourceKey": "sandiego",
+      "sourceUrl": "https://www.visitsandiego.com/calendar?page=1"
+    },
+    {
+      "title": "BPI WEST 2027",
+      "city": "San Diego",
+      "venue": "San Diego Convention Center",
+      "startDate": "2027-03-16",
+      "endDate": "2027-03-18",
+      "category": "Convention with Trade Show",
+      "attendance": 1000,
+      "sourceKey": "sandiego",
+      "sourceUrl": "https://www.visitsandiego.com/calendar?page=1"
+    },
+    {
+      "title": "CONFERENCE ON RETROVIRUSES AND OPPORTUNISTIC INFECTIONS (CROI) 2027",
+      "city": "San Diego",
+      "venue": "San Diego Convention Center",
+      "startDate": "2027-03-21",
+      "endDate": "2027-03-24",
+      "category": "Convention with Trade Show",
+      "attendance": 4000,
+      "sourceKey": "sandiego",
+      "sourceUrl": "https://www.visitsandiego.com/calendar?page=1"
+    },
+    {
+      "title": "ASCRS 2027 ANNUAL MEETING",
+      "city": "San Diego",
+      "venue": "San Diego Convention Center",
+      "startDate": "2027-04-02",
+      "endDate": "2027-04-05",
+      "category": "Convention with Trade Show",
+      "attendance": 11000,
+      "sourceKey": "sandiego",
+      "sourceUrl": "https://www.visitsandiego.com/calendar?page=1"
+    },
+    {
+      "title": "Seatrade Cruise Global 2027",
+      "city": "Miami Beach",
+      "venue": "Miami Beach Convention Center",
+      "startDate": "2027-04-05",
+      "endDate": "2027-04-08",
+      "category": "Convention Center Event",
+      "attendance": null,
+      "sourceKey": "miami",
+      "sourceUrl": "https://www.miamibeachconvention.com/events"
+    },
+    {
+      "title": "AN EVENING WITH DR. ZAHI HAWASS AND DR. KATHLEEN MARTINEZ",
+      "city": "San Diego",
+      "venue": "San Diego Convention Center",
+      "startDate": "2027-04-08",
+      "endDate": "2027-04-08",
+      "category": "Meeting/Seminar",
+      "attendance": 2000,
+      "sourceKey": "sandiego",
+      "sourceUrl": "https://www.visitsandiego.com/calendar?page=1"
+    },
+    {
+      "title": "Seatrade Cruise Global 2027",
+      "city": "Miami Beach",
+      "venue": "Miami Beach Convention Center",
+      "startDate": "2027-04-08",
+      "endDate": "2027-04-08",
+      "category": "Convention Center Event",
+      "attendance": null,
+      "sourceKey": "miami",
+      "sourceUrl": "https://www.miamibeachconvention.com/events"
+    },
+    {
+      "title": "AMERICAN ASSOCIATION OF NEUROLOGICAL SURGEONS / AANS 2027",
+      "city": "San Diego",
+      "venue": "San Diego Convention Center",
+      "startDate": "2027-04-09",
+      "endDate": "2027-04-12",
+      "category": "Convention with Trade Show",
+      "attendance": 5000,
+      "sourceKey": "sandiego",
+      "sourceUrl": "https://www.visitsandiego.com/calendar?page=1"
+    },
+    {
+      "title": "GLOBAL CHEER CHAMPIONSHIPS",
+      "city": "San Diego",
+      "venue": "San Diego Convention Center",
+      "startDate": "2027-04-10",
+      "endDate": "2027-04-11",
+      "category": "Meeting/Seminar",
+      "attendance": 4000,
+      "sourceKey": "sandiego",
+      "sourceUrl": "https://www.visitsandiego.com/calendar?page=1"
+    },
+    {
+      "title": "The Business Show & B2B Marketing Expo Miami 2027",
+      "city": "Miami Beach",
+      "venue": "Miami Beach Convention Center",
+      "startDate": "2027-04-14",
+      "endDate": "2027-04-15",
+      "category": "Convention Center Event",
+      "attendance": null,
+      "sourceKey": "miami",
+      "sourceUrl": "https://www.miamibeachconvention.com/events"
+    },
+    {
+      "title": "The Business Show & B2B Marketing Expo Miami 2027",
+      "city": "Miami Beach",
+      "venue": "Miami Beach Convention Center",
+      "startDate": "2027-04-15",
+      "endDate": "2027-04-15",
+      "category": "Convention Center Event",
+      "attendance": null,
+      "sourceKey": "miami",
+      "sourceUrl": "https://www.miamibeachconvention.com/events"
+    },
+    {
+      "title": "The Aesthetic Society Meeting 2027",
+      "city": "Miami Beach",
+      "venue": "Miami Beach Convention Center",
+      "startDate": "2027-04-15",
+      "endDate": "2027-04-18",
+      "category": "Convention Center Event",
+      "attendance": null,
+      "sourceKey": "miami",
+      "sourceUrl": "https://www.miamibeachconvention.com/events"
+    },
+    {
+      "title": "The Aesthetic Society Meeting 2027",
+      "city": "Miami Beach",
+      "venue": "Miami Beach Convention Center",
+      "startDate": "2027-04-18",
+      "endDate": "2027-04-18",
+      "category": "Convention Center Event",
+      "attendance": null,
+      "sourceKey": "miami",
+      "sourceUrl": "https://www.miamibeachconvention.com/events"
+    },
+    {
+      "title": "Consensus Miami 2027",
+      "city": "Miami Beach",
+      "venue": "Miami Beach Convention Center",
+      "startDate": "2027-04-30",
+      "endDate": "2027-05-07",
+      "category": "Convention Center Event",
+      "attendance": null,
+      "sourceKey": "miami",
+      "sourceUrl": "https://www.miamibeachconvention.com/events"
+    },
+    {
+      "title": "ASSOCIATION FOR RESEARCH IN VISION & OPHTHALMOLOGY ANNUAL",
+      "city": "San Diego",
+      "venue": "San Diego Convention Center",
+      "startDate": "2027-05-02",
+      "endDate": "2027-05-06",
+      "category": "Convention with Trade Show",
+      "attendance": 10600,
+      "sourceKey": "sandiego",
+      "sourceUrl": "https://www.visitsandiego.com/calendar?page=1"
+    },
+    {
+      "title": "Consensus Miami 2027",
+      "city": "Miami Beach",
+      "venue": "Miami Beach Convention Center",
+      "startDate": "2027-05-07",
+      "endDate": "2027-05-07",
+      "category": "Convention Center Event",
+      "attendance": null,
+      "sourceKey": "miami",
+      "sourceUrl": "https://www.miamibeachconvention.com/events"
+    },
+    {
+      "title": "CARV EXPO",
+      "city": "San Diego",
+      "venue": "San Diego Convention Center",
+      "startDate": "2027-05-13",
+      "endDate": "2027-05-14",
+      "category": "Local Trade Show",
+      "attendance": 600,
+      "sourceKey": "sandiego",
+      "sourceUrl": "https://www.visitsandiego.com/calendar?page=1"
+    },
+    {
+      "title": "CALIFORNIA BRIDAL & WEDDING EXPO-SPRING 2027",
+      "city": "San Diego",
+      "venue": "San Diego Convention Center",
+      "startDate": "2027-05-16",
+      "endDate": "2027-05-16",
+      "category": "Consumer Show",
+      "attendance": 4000,
+      "sourceKey": "sandiego",
+      "sourceUrl": "https://www.visitsandiego.com/calendar?page=1"
+    },
+    {
+      "title": "Xponential 2027",
+      "city": "Miami Beach",
+      "venue": "Miami Beach Convention Center",
+      "startDate": "2027-05-17",
+      "endDate": "2027-05-20",
+      "category": "Convention Center Event",
+      "attendance": null,
+      "sourceKey": "miami",
+      "sourceUrl": "https://www.miamibeachconvention.com/events"
+    },
+    {
+      "title": "Xponential 2027",
+      "city": "Miami Beach",
+      "venue": "Miami Beach Convention Center",
+      "startDate": "2027-05-20",
+      "endDate": "2027-05-20",
+      "category": "Convention Center Event",
+      "attendance": null,
+      "sourceKey": "miami",
+      "sourceUrl": "https://www.miamibeachconvention.com/events"
+    },
+    {
+      "title": "AMERICAN UROLOGICAL ASSOCIATION 2027 ANNUAL CONVENTION",
+      "city": "San Diego",
+      "venue": "San Diego Convention Center",
+      "startDate": "2027-05-21",
+      "endDate": "2027-05-24",
+      "category": "Convention with Trade Show",
+      "attendance": 18000,
+      "sourceKey": "sandiego",
+      "sourceUrl": "https://www.visitsandiego.com/calendar?page=1"
+    },
+    {
+      "title": "Miami Build Expo 2027",
+      "city": "Miami Beach",
+      "venue": "Miami Beach Convention Center",
+      "startDate": "2027-05-26",
+      "endDate": "2027-05-27",
+      "category": "Convention Center Event",
+      "attendance": null,
+      "sourceKey": "miami",
+      "sourceUrl": "https://www.miamibeachconvention.com/events"
+    },
+    {
+      "title": "Miami Build Expo 2027",
+      "city": "Miami Beach",
+      "venue": "Miami Beach Convention Center",
+      "startDate": "2027-05-27",
+      "endDate": "2027-05-27",
+      "category": "Convention Center Event",
+      "attendance": null,
+      "sourceKey": "miami",
+      "sourceUrl": "https://www.miamibeachconvention.com/events"
+    },
+    {
+      "title": "SOCIETY FOR VASCULAR SURGERY 2027 ANNUAL MEETING",
+      "city": "San Diego",
+      "venue": "San Diego Convention Center",
+      "startDate": "2027-06-02",
+      "endDate": "2027-06-05",
+      "category": "Convention with Trade Show",
+      "attendance": 2700,
+      "sourceKey": "sandiego",
+      "sourceUrl": "https://www.visitsandiego.com/calendar?page=1"
+    },
+    {
+      "title": "2027 ANNUAL MEETING OF CONSORTIUM OF MULTIPLE SCLEROSIS CENTERS",
+      "city": "San Diego",
+      "venue": "San Diego Convention Center",
+      "startDate": "2027-06-02",
+      "endDate": "2027-06-05",
+      "category": "Convention with Trade Show",
+      "attendance": 1200,
+      "sourceKey": "sandiego",
+      "sourceUrl": "https://www.visitsandiego.com/calendar?page=1"
+    },
+    {
+      "title": "ROCK N ROLL MARATHON HEALTH & FITNESS EXPO 2027",
+      "city": "San Diego",
+      "venue": "San Diego Convention Center",
+      "startDate": "2027-06-05",
+      "endDate": "2027-06-06",
+      "category": "Convention with Trade Show",
+      "attendance": 35000,
+      "sourceKey": "sandiego",
+      "sourceUrl": "https://www.visitsandiego.com/calendar?page=1"
+    },
+    {
+      "title": "LE Miami",
+      "city": "Miami Beach",
+      "venue": "Miami Beach Convention Center",
+      "startDate": "2027-06-08",
+      "endDate": "2027-06-10",
+      "category": "Convention Center Event",
+      "attendance": null,
+      "sourceKey": "miami",
+      "sourceUrl": "https://www.miamibeachconvention.com/events"
+    },
+    {
+      "title": "LE Miami",
+      "city": "Miami Beach",
+      "venue": "Miami Beach Convention Center",
+      "startDate": "2027-06-10",
+      "endDate": "2027-06-10",
+      "category": "Convention Center Event",
+      "attendance": null,
+      "sourceKey": "miami",
+      "sourceUrl": "https://www.miamibeachconvention.com/events"
+    },
+    {
+      "title": "AMERICAN WATER WORKS ASSOCIATION ANNUAL CONFERENCE & EXPO",
+      "city": "San Diego",
+      "venue": "San Diego Convention Center",
+      "startDate": "2027-06-13",
+      "endDate": "2027-06-16",
+      "category": "Convention with Trade Show",
+      "attendance": 13000,
+      "sourceKey": "sandiego",
+      "sourceUrl": "https://www.visitsandiego.com/calendar?page=1"
+    },
+    {
+      "title": "AVID SUMMER INSTITUTE 2027 - PROGRAM 1",
+      "city": "San Diego",
+      "venue": "San Diego Convention Center",
+      "startDate": "2027-06-14",
+      "endDate": "2027-06-16",
+      "category": "Corporate & Incentive",
+      "attendance": 4700,
+      "sourceKey": "sandiego",
+      "sourceUrl": "https://www.visitsandiego.com/calendar?page=1"
+    },
+    {
+      "title": "NASFAA 2027",
+      "city": "San Diego",
+      "venue": "San Diego Convention Center",
+      "startDate": "2027-06-20",
+      "endDate": "2027-06-23",
+      "category": "Convention with Trade Show",
+      "attendance": 2500,
+      "sourceKey": "sandiego",
+      "sourceUrl": "https://www.visitsandiego.com/calendar?page=1"
+    },
+    {
+      "title": "DRUG INFORMATION ASSOCIATION / DIA GLOBAL ANNUAL MEETING 2027",
+      "city": "San Diego",
+      "venue": "San Diego Convention Center",
+      "startDate": "2027-06-28",
+      "endDate": "2027-07-01",
+      "category": "Convention with Trade Show",
+      "attendance": 7500,
+      "sourceKey": "sandiego",
+      "sourceUrl": "https://www.visitsandiego.com/calendar?page=1"
+    },
+    {
+      "title": "ESRI / ENVIRONMENTAL SYSTEMS RESEARCH INSTITUTE",
+      "city": "San Diego",
+      "venue": "San Diego Convention Center",
+      "startDate": "2027-07-12",
+      "endDate": "2027-07-16",
+      "category": "Convention with Trade Show",
+      "attendance": 21000,
+      "sourceKey": "sandiego",
+      "sourceUrl": "https://www.visitsandiego.com/calendar?page=1"
+    },
+    {
+      "title": "IGLTA 2027",
+      "city": "Miami Beach",
+      "venue": "Miami Beach Convention Center",
+      "startDate": "2027-09-27",
+      "endDate": "2027-09-30",
+      "category": "Convention Center Event",
+      "attendance": null,
+      "sourceKey": "miami",
+      "sourceUrl": "https://www.miamibeachconvention.com/events"
+    },
+    {
+      "title": "IGLTA 2027",
+      "city": "Miami Beach",
+      "venue": "Miami Beach Convention Center",
+      "startDate": "2027-09-30",
+      "endDate": "2027-09-30",
+      "category": "Convention Center Event",
+      "attendance": null,
+      "sourceKey": "miami",
+      "sourceUrl": "https://www.miamibeachconvention.com/events"
+    },
+    {
+      "title": "Design Miami 2027",
+      "city": "Miami Beach",
+      "venue": "Miami Beach Convention Center",
+      "startDate": "2027-12-01",
+      "endDate": "2027-12-05",
+      "category": "Convention Center Event",
+      "attendance": null,
+      "sourceKey": "miami",
+      "sourceUrl": "https://www.miamibeachconvention.com/events"
+    },
+    {
+      "title": "Design Miami 2027",
+      "city": "Miami Beach",
+      "venue": "Miami Beach Convention Center",
+      "startDate": "2027-12-05",
+      "endDate": "2027-12-05",
+      "category": "Convention Center Event",
+      "attendance": null,
+      "sourceKey": "miami",
+      "sourceUrl": "https://www.miamibeachconvention.com/events"
     }
   ],
   "sources": [
@@ -1064,36 +2439,40 @@
       "city": "Dallas",
       "venue": "Kay Bailey Hutchison Convention Center Dallas",
       "url": "https://www.dallasconventioncenter.com/events",
-      "ok": false,
-      "lastSuccess": "2026-08-29T07:30:00Z",
-      "error": "No parsable upcoming events returned"
+      "ok": true,
+      "mode": "reader",
+      "lastSuccess": "2026-08-29T08:29:39.890Z",
+      "error": null
     },
     {
       "key": "miami",
       "city": "Miami Beach",
       "venue": "Miami Beach Convention Center",
       "url": "https://www.miamibeachconvention.com/events",
-      "ok": false,
-      "lastSuccess": "2026-08-29T07:30:00Z",
-      "error": "No parsable upcoming events returned"
+      "ok": true,
+      "mode": "reader",
+      "lastSuccess": "2026-08-29T08:30:23.954Z",
+      "error": null
     },
     {
       "key": "sandiego",
       "city": "San Diego",
       "venue": "San Diego Convention Center",
       "url": "https://www.visitsandiego.com/calendar?page=1",
-      "ok": false,
-      "lastSuccess": "2026-08-29T07:30:00Z",
-      "error": "No parsable upcoming events returned"
+      "ok": true,
+      "mode": "reader",
+      "lastSuccess": "2026-08-29T08:30:29.518Z",
+      "error": null
     },
     {
       "key": "anaheim",
       "city": "Anaheim",
       "venue": "Anaheim Convention Center",
-      "url": "https://www.visitanaheim.org/listing/anaheim-convention-center/2959/amp/",
-      "ok": true,
+      "url": "https://www.visitanaheim.org/listing/anaheim-convention-center/2959/",
+      "ok": false,
+      "mode": "fallback",
       "lastSuccess": "2026-08-29T08:11:17.348Z",
-      "error": null
+      "error": "Rendered page contained no parsable upcoming events"
     },
     {
       "key": "orlando",
@@ -1101,7 +2480,8 @@
       "venue": "Orange County Convention Center",
       "url": "https://events.occc.net/",
       "ok": true,
-      "lastSuccess": "2026-08-29T08:11:24.837Z",
+      "mode": "direct",
+      "lastSuccess": "2026-08-29T08:30:37.051Z",
       "error": null
     },
     {
@@ -1110,26 +2490,29 @@
       "venue": "Las Vegas Convention Center",
       "url": "https://www.vegasmeansbusiness.com/destination-calendar/",
       "ok": false,
+      "mode": "fallback",
       "lastSuccess": null,
-      "error": "No parsable upcoming events returned"
+      "error": "Rendered page contained no parsable upcoming events"
     },
     {
       "key": "chicago",
       "city": "Chicago",
-      "venue": "McCormick Place",
-      "url": "https://www.mccormickplace.com/events/",
-      "ok": false,
-      "lastSuccess": null,
-      "error": "No parsable upcoming events returned"
+      "venue": "Chicago major convention market",
+      "url": "https://www.choosechicago.com/meeting-planners/chicago-updates-for-meeting-planners/chicago-convention-calendar/",
+      "ok": true,
+      "mode": "direct",
+      "lastSuccess": "2026-08-29T08:30:47.175Z",
+      "error": null
     },
     {
       "key": "nyc",
       "city": "New York",
       "venue": "Jacob K. Javits Convention Center",
-      "url": "https://www.javitscenter.com/calendar/",
+      "url": "https://javitscenter.com/calendar/",
       "ok": false,
+      "mode": "fallback",
       "lastSuccess": null,
-      "error": "HTTP 429"
+      "error": "Rendered page contained no parsable upcoming events; direct=HTTP 403"
     }
   ]
 }
