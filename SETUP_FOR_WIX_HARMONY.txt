@@ -1,0 +1,94 @@
+WIX HARMONY — FREE AUTO-UPDATING CONVENTION FEED
+
+You do NOT need Wix Dev Mode, Velo, a paid API, or any Wix account connection.
+
+PART A — PUT THE FEED ON FREE GITHUB PAGES
+
+1. Go to github.com and sign in or create a free account.
+
+2. Click the + in the upper-right corner > New repository.
+
+3. Repository name:
+   convention-calendar
+
+4. Choose PUBLIC.
+   The repository contains only public convention-feed code and public event information.
+   Do not add Wix passwords, customer lists, API keys, payment information, or private data.
+
+5. Click Create repository.
+
+6. Extract this ZIP on your computer.
+
+7. In the new GitHub repository click:
+   Add file > Upload files
+
+   Upload:
+   index.html
+   styles.css
+   app.js
+   .nojekyll
+   .last-refresh
+   data/events.json
+   scripts/update-events.mjs
+
+8. CREATE THE WORKFLOW FILE
+   Click Add file > Create new file.
+
+   In the filename box enter EXACTLY:
+   .github/workflows/update-and-deploy.yml
+
+   Paste the contents of the included file with that same path and commit it to main.
+
+9. ENABLE GITHUB PAGES
+   Repository > Settings > Pages
+
+   Under Build and deployment choose:
+   Source: GitHub Actions
+
+10. Click the Actions tab.
+    Open "Refresh convention feed and deploy".
+    If GitHub asks you to enable workflows, enable them.
+    Click "Run workflow" once.
+
+11. When it finishes, return to Settings > Pages.
+    GitHub will show your live URL. It normally looks like:
+    https://YOUR-GITHUB-USERNAME.github.io/convention-calendar/
+
+PART B — PUT IT ON YOUR WIX HARMONY SITE
+
+1. Open the page in Wix Harmony where you want the list.
+2. Click + Add.
+3. Add an Embed / Embed a site element.
+4. Paste your GitHub Pages URL.
+5. Make the embed wide and tall enough to show the list cleanly.
+   Start around full section width and 1000–1400 px high, then adjust.
+6. Publish the Wix site.
+
+HOW IT UPDATES
+- GitHub runs the updater three times per day.
+- It reads public convention/event pages only.
+- It removes expired events automatically.
+- If an official calendar temporarily fails, the last good event data stays visible.
+- The workflow writes a refresh marker so the repository stays active and the scheduled updater does not get disabled by GitHub's 60-day inactivity rule.
+
+CURRENT MARKETS
+- Orlando / Orange County Convention Center
+- Dallas / Kay Bailey Hutchison Convention Center
+- Miami Beach Convention Center
+- San Diego Convention Center
+- Anaheim Convention Center
+- Las Vegas Convention Center
+- Chicago / McCormick Place
+- New York / Javits Center
+
+Some venue sites are easier to refresh automatically than others. If a venue blocks automated access or changes its website format, the feed retains its last good data and shows a direct official-calendar link instead of inventing event information.
+
+SECURITY
+This code:
+- has no Wix login
+- has no Wix customer access
+- has no payment access
+- has no API keys
+- does not accept form submissions
+- does not store visitor information
+- performs read-only requests to public event calendars

@@ -1,0 +1,35 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <title>Upcoming Conventions & Trade Shows</title>
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+<main class="feed">
+  <section class="intro">
+    <div>
+      <p class="kicker">CORPORATE TRAVEL & EVENT DEMAND</p>
+      <h1>Upcoming Conventions & Trade Shows</h1>
+      <p class="lede">Browse major convention markets, dates and venues. Attendance is shown when an official source publishes it.</p>
+    </div>
+    <div id="updated" class="updated">Loading current calendar…</div>
+  </section>
+
+  <section class="toolbar" aria-label="Convention filters">
+    <label><span>Market</span><select id="market"><option value="all">All markets</option></select></label>
+    <label><span>Minimum size</span><select id="attendance"><option value="0">All event sizes</option><option value="1000">1,000+ attendees</option><option value="5000">5,000+ attendees</option><option value="10000">10,000+ attendees</option></select></label>
+    <label class="search"><span>Search</span><input id="search" type="search" placeholder="Convention, city or venue"></label>
+  </section>
+
+  <section class="summary"><strong id="count">0 upcoming events</strong><span id="sourceSummary"></span></section>
+  <section id="cards" class="cards" aria-live="polite"></section>
+  <section id="empty" class="empty" hidden>No upcoming events match those filters.</section>
+
+  <section class="sources"><details><summary>Official calendar sources & feed status</summary><div id="sourceList" class="source-list"></div></details></section>
+  <p class="fineprint">Dates and attendance can change. Always verify details with the event organizer or official venue calendar before making travel or inventory decisions.</p>
+</main>
+<script src="app.js" defer></script>
+</body>
+</html>

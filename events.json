@@ -1,0 +1,467 @@
+{
+  "updatedAt": "2026-08-29T07:30:00Z",
+  "events": [
+    {
+      "title": "National Baptist Convention Annual Session",
+      "city": "Orlando",
+      "venue": "Orange County Convention Center",
+      "startDate": "2026-09-07",
+      "endDate": "2026-09-11",
+      "category": "Convention",
+      "attendance": null,
+      "sourceKey": "orlando",
+      "sourceUrl": "https://events.occc.net/"
+    },
+    {
+      "title": "HumanCon 2026",
+      "city": "Orlando",
+      "venue": "Orange County Convention Center",
+      "startDate": "2026-09-17",
+      "endDate": "2026-09-18",
+      "category": "Convention / Conference",
+      "attendance": null,
+      "sourceKey": "orlando",
+      "sourceUrl": "https://events.occc.net/"
+    },
+    {
+      "title": "doTERRA Global Convention",
+      "city": "Orlando",
+      "venue": "Orange County Convention Center",
+      "startDate": "2026-09-22",
+      "endDate": "2026-09-26",
+      "category": "Convention",
+      "attendance": null,
+      "sourceKey": "orlando",
+      "sourceUrl": "https://events.occc.net/"
+    },
+    {
+      "title": "NACAC National College Fair 2026",
+      "city": "Orlando",
+      "venue": "Orange County Convention Center",
+      "startDate": "2026-10-04",
+      "endDate": "2026-10-04",
+      "category": "Consumer / College Fair",
+      "attendance": null,
+      "sourceKey": "orlando",
+      "sourceUrl": "https://events.occc.net/"
+    },
+    {
+      "title": "METALCON 2026",
+      "city": "Orlando",
+      "venue": "Orange County Convention Center",
+      "startDate": "2026-10-07",
+      "endDate": "2026-10-09",
+      "category": "Trade Show",
+      "attendance": null,
+      "sourceKey": "orlando",
+      "sourceUrl": "https://events.occc.net/"
+    },
+    {
+      "title": "2026 GFS Orlando Show",
+      "city": "Orlando",
+      "venue": "Orange County Convention Center",
+      "startDate": "2026-10-14",
+      "endDate": "2026-10-14",
+      "category": "Trade Show",
+      "attendance": null,
+      "sourceKey": "orlando",
+      "sourceUrl": "https://events.occc.net/"
+    },
+    {
+      "title": "IACP 2026",
+      "city": "Orlando",
+      "venue": "Orange County Convention Center",
+      "startDate": "2026-10-25",
+      "endDate": "2026-10-27",
+      "category": "Convention",
+      "attendance": null,
+      "sourceKey": "orlando",
+      "sourceUrl": "https://events.occc.net/"
+    },
+    {
+      "title": "ACR Annual Meeting 2026",
+      "city": "Orlando",
+      "venue": "Orange County Convention Center",
+      "startDate": "2026-11-08",
+      "endDate": "2026-11-10",
+      "category": "Annual Meeting",
+      "attendance": null,
+      "sourceKey": "orlando",
+      "sourceUrl": "https://events.occc.net/"
+    },
+    {
+      "title": "I/ITSEC 2026",
+      "city": "Orlando",
+      "venue": "Orange County Convention Center",
+      "startDate": "2026-11-30",
+      "endDate": "2026-12-03",
+      "category": "Conference / Trade Show",
+      "attendance": null,
+      "sourceKey": "orlando",
+      "sourceUrl": "https://events.occc.net/"
+    },
+    {
+      "title": "FAN EXPO Dallas 2026",
+      "city": "Dallas",
+      "venue": "Kay Bailey Hutchison Convention Center Dallas",
+      "startDate": "2026-09-11",
+      "endDate": "2026-09-13",
+      "category": "Consumer Show",
+      "attendance": null,
+      "sourceKey": "dallas",
+      "sourceUrl": "https://www.dallasconventioncenter.com/events"
+    },
+    {
+      "title": "Future of Work USA",
+      "city": "Dallas",
+      "venue": "Kay Bailey Hutchison Convention Center Dallas",
+      "startDate": "2026-09-15",
+      "endDate": "2026-09-16",
+      "category": "Meeting",
+      "attendance": null,
+      "sourceKey": "dallas",
+      "sourceUrl": "https://www.dallasconventioncenter.com/events"
+    },
+    {
+      "title": "IntraLogisteX Dallas 2026",
+      "city": "Dallas",
+      "venue": "Kay Bailey Hutchison Convention Center Dallas",
+      "startDate": "2026-09-16",
+      "endDate": "2026-09-17",
+      "category": "Trade Show",
+      "attendance": null,
+      "sourceKey": "dallas",
+      "sourceUrl": "https://www.dallasconventioncenter.com/events"
+    },
+    {
+      "title": "BCG Fest 26-27 feat. One Piece Card Game",
+      "city": "Dallas",
+      "venue": "Kay Bailey Hutchison Convention Center Dallas",
+      "startDate": "2026-09-18",
+      "endDate": "2026-09-20",
+      "category": "Consumer Show",
+      "attendance": null,
+      "sourceKey": "dallas",
+      "sourceUrl": "https://www.dallasconventioncenter.com/events"
+    },
+    {
+      "title": "Taiwan EXPO USA 2026",
+      "city": "Dallas",
+      "venue": "Kay Bailey Hutchison Convention Center Dallas",
+      "startDate": "2026-09-24",
+      "endDate": "2026-09-26",
+      "category": "Consumer Show",
+      "attendance": null,
+      "sourceKey": "dallas",
+      "sourceUrl": "https://www.dallasconventioncenter.com/events"
+    },
+    {
+      "title": "Oddities & Curiosities Expo 2026",
+      "city": "Dallas",
+      "venue": "Kay Bailey Hutchison Convention Center Dallas",
+      "startDate": "2026-09-26",
+      "endDate": "2026-09-27",
+      "category": "Consumer Show",
+      "attendance": null,
+      "sourceKey": "dallas",
+      "sourceUrl": "https://www.dallasconventioncenter.com/events"
+    },
+    {
+      "title": "IOScholarships STEAM Summit",
+      "city": "Miami Beach",
+      "venue": "Miami Beach Convention Center",
+      "startDate": "2026-08-29",
+      "endDate": "2026-08-29",
+      "category": "Summit",
+      "attendance": null,
+      "sourceKey": "miami",
+      "sourceUrl": "https://www.miamibeachconvention.com/events"
+    },
+    {
+      "title": "2026 NASDA Buyers Mission",
+      "city": "Miami Beach",
+      "venue": "Miami Beach Convention Center",
+      "startDate": "2026-09-13",
+      "endDate": "2026-09-15",
+      "category": "Trade / Buyers Mission",
+      "attendance": null,
+      "sourceKey": "miami",
+      "sourceUrl": "https://www.miamibeachconvention.com/events"
+    },
+    {
+      "title": "Americas Food & Beverage Show",
+      "city": "Miami Beach",
+      "venue": "Miami Beach Convention Center",
+      "startDate": "2026-09-14",
+      "endDate": "2026-09-16",
+      "category": "Trade Show",
+      "attendance": null,
+      "sourceKey": "miami",
+      "sourceUrl": "https://www.miamibeachconvention.com/events"
+    },
+    {
+      "title": "EcoShield Pro Bowl 2026",
+      "city": "Miami Beach",
+      "venue": "Miami Beach Convention Center",
+      "startDate": "2026-09-14",
+      "endDate": "2026-09-15",
+      "category": "Event",
+      "attendance": null,
+      "sourceKey": "miami",
+      "sourceUrl": "https://www.miamibeachconvention.com/events"
+    },
+    {
+      "title": "Independent Hotel Show",
+      "city": "Miami Beach",
+      "venue": "Miami Beach Convention Center",
+      "startDate": "2026-09-16",
+      "endDate": "2026-09-17",
+      "category": "Trade Show",
+      "attendance": null,
+      "sourceKey": "miami",
+      "sourceUrl": "https://www.miamibeachconvention.com/events"
+    },
+    {
+      "title": "SIBOS 2026",
+      "city": "Miami Beach",
+      "venue": "Miami Beach Convention Center",
+      "startDate": "2026-09-28",
+      "endDate": "2026-10-01",
+      "category": "Conference / Exhibition",
+      "attendance": null,
+      "sourceKey": "miami",
+      "sourceUrl": "https://www.miamibeachconvention.com/events"
+    },
+    {
+      "title": "TheFitExpo",
+      "city": "Anaheim",
+      "venue": "Anaheim Convention Center",
+      "startDate": "2026-08-29",
+      "endDate": "2026-08-30",
+      "category": "Expo",
+      "attendance": null,
+      "sourceKey": "anaheim",
+      "sourceUrl": "https://www.visitanaheim.org/listing/anaheim-convention-center/2959/amp/"
+    },
+    {
+      "title": "BlizzCon",
+      "city": "Anaheim",
+      "venue": "Anaheim Convention Center",
+      "startDate": "2026-09-12",
+      "endDate": "2026-09-13",
+      "category": "Convention",
+      "attendance": null,
+      "sourceKey": "anaheim",
+      "sourceUrl": "https://www.visitanaheim.org/listing/anaheim-convention-center/2959/amp/"
+    },
+    {
+      "title": "Reptile Super Show",
+      "city": "Anaheim",
+      "venue": "Anaheim Convention Center",
+      "startDate": "2026-10-03",
+      "endDate": "2026-10-04",
+      "category": "Consumer Show",
+      "attendance": null,
+      "sourceKey": "anaheim",
+      "sourceUrl": "https://www.visitanaheim.org/listing/anaheim-convention-center/2959/amp/"
+    },
+    {
+      "title": "ANIME SAN DIEGO 2026",
+      "city": "San Diego",
+      "venue": "San Diego Convention Center",
+      "startDate": "2026-09-05",
+      "endDate": "2026-09-06",
+      "category": "Consumer Show",
+      "attendance": 14000,
+      "sourceKey": "sandiego",
+      "sourceUrl": "https://www.visitsandiego.com/calendar"
+    },
+    {
+      "title": "10TH ANNUAL WELLNESS TOGETHER CONFERENCE",
+      "city": "San Diego",
+      "venue": "San Diego Convention Center",
+      "startDate": "2026-09-09",
+      "endDate": "2026-09-11",
+      "category": "Convention with Trade Show",
+      "attendance": 2000,
+      "sourceKey": "sandiego",
+      "sourceUrl": "https://www.visitsandiego.com/calendar"
+    },
+    {
+      "title": "ICSC@WESTERN 2026",
+      "city": "San Diego",
+      "venue": "San Diego Convention Center",
+      "startDate": "2026-09-15",
+      "endDate": "2026-09-16",
+      "category": "Convention with Trade Show",
+      "attendance": 3000,
+      "sourceKey": "sandiego",
+      "sourceUrl": "https://www.visitsandiego.com/calendar"
+    },
+    {
+      "title": "BRIGHTONSEO SAN DIEGO & HERO CONF SAN DIEGO",
+      "city": "San Diego",
+      "venue": "San Diego Convention Center",
+      "startDate": "2026-09-15",
+      "endDate": "2026-09-16",
+      "category": "Convention with Trade Show",
+      "attendance": 4000,
+      "sourceKey": "sandiego",
+      "sourceUrl": "https://www.visitsandiego.com/calendar"
+    },
+    {
+      "title": "41ST IBEW INTERNATIONAL CONVENTION",
+      "city": "San Diego",
+      "venue": "San Diego Convention Center",
+      "startDate": "2026-09-21",
+      "endDate": "2026-09-25",
+      "category": "Convention with Trade Show",
+      "attendance": 5000,
+      "sourceKey": "sandiego",
+      "sourceUrl": "https://www.visitsandiego.com/calendar"
+    },
+    {
+      "title": "AAP 2026 NATIONAL CONFERENCE & EXHIBITION",
+      "city": "San Diego",
+      "venue": "San Diego Convention Center",
+      "startDate": "2026-10-02",
+      "endDate": "2026-10-06",
+      "category": "Convention with Trade Show",
+      "attendance": 11000,
+      "sourceKey": "sandiego",
+      "sourceUrl": "https://www.visitsandiego.com/calendar"
+    },
+    {
+      "title": "AMERICAN SOCIETY OF ANESTHESIOLOGISTS ANNUAL MEETING",
+      "city": "San Diego",
+      "venue": "San Diego Convention Center",
+      "startDate": "2026-10-16",
+      "endDate": "2026-10-20",
+      "category": "Convention with Trade Show",
+      "attendance": 16000,
+      "sourceKey": "sandiego",
+      "sourceUrl": "https://www.visitsandiego.com/calendar"
+    },
+    {
+      "title": "CRF 2026 TRANSCATHETER CARDIOVASCULAR THERAPEUTICS",
+      "city": "San Diego",
+      "venue": "San Diego Convention Center",
+      "startDate": "2026-10-31",
+      "endDate": "2026-11-03",
+      "category": "Convention with Trade Show",
+      "attendance": 11000,
+      "sourceKey": "sandiego",
+      "sourceUrl": "https://www.visitsandiego.com/calendar"
+    },
+    {
+      "title": "TWITCHCON 2026",
+      "city": "San Diego",
+      "venue": "San Diego Convention Center",
+      "startDate": "2026-11-13",
+      "endDate": "2026-11-15",
+      "category": "Convention with Trade Show",
+      "attendance": 25000,
+      "sourceKey": "sandiego",
+      "sourceUrl": "https://www.visitsandiego.com/calendar"
+    },
+    {
+      "title": "2026 SAN DIEGO INTERNATIONAL CONVENTION",
+      "city": "San Diego",
+      "venue": "San Diego Convention Center",
+      "startDate": "2026-11-27",
+      "endDate": "2026-11-29",
+      "category": "Convention",
+      "attendance": 30000,
+      "sourceKey": "sandiego",
+      "sourceUrl": "https://www.visitsandiego.com/calendar"
+    },
+    {
+      "title": "CSBA 2026 ANNUAL EDUCATION CONFERENCE & TRADE SHOW",
+      "city": "San Diego",
+      "venue": "San Diego Convention Center",
+      "startDate": "2026-12-03",
+      "endDate": "2026-12-05",
+      "category": "Convention with Trade Show",
+      "attendance": 4500,
+      "sourceKey": "sandiego",
+      "sourceUrl": "https://www.visitsandiego.com/calendar"
+    },
+    {
+      "title": "AMERICAN SOCIETY FOR CELL BIOLOGY ANNUAL",
+      "city": "San Diego",
+      "venue": "San Diego Convention Center",
+      "startDate": "2026-12-12",
+      "endDate": "2026-12-16",
+      "category": "Convention with Trade Show",
+      "attendance": 6000,
+      "sourceKey": "sandiego",
+      "sourceUrl": "https://www.visitsandiego.com/calendar"
+    }
+  ],
+  "sources": [
+    {
+      "key": "orlando",
+      "city": "Orlando",
+      "venue": "Orange County Convention Center",
+      "url": "https://events.occc.net/",
+      "lastSuccess": "2026-08-29T07:30:00Z",
+      "ok": true
+    },
+    {
+      "key": "dallas",
+      "city": "Dallas",
+      "venue": "Kay Bailey Hutchison Convention Center Dallas",
+      "url": "https://www.dallasconventioncenter.com/events",
+      "lastSuccess": "2026-08-29T07:30:00Z",
+      "ok": true
+    },
+    {
+      "key": "miami",
+      "city": "Miami Beach",
+      "venue": "Miami Beach Convention Center",
+      "url": "https://www.miamibeachconvention.com/events",
+      "lastSuccess": "2026-08-29T07:30:00Z",
+      "ok": true
+    },
+    {
+      "key": "sandiego",
+      "city": "San Diego",
+      "venue": "San Diego Convention Center",
+      "url": "https://www.visitsandiego.com/calendar",
+      "lastSuccess": "2026-08-29T07:30:00Z",
+      "ok": true
+    },
+    {
+      "key": "anaheim",
+      "city": "Anaheim",
+      "venue": "Anaheim Convention Center",
+      "url": "https://www.visitanaheim.org/listing/anaheim-convention-center/2959/amp/",
+      "lastSuccess": "2026-08-29T07:30:00Z",
+      "ok": true
+    },
+    {
+      "key": "vegas",
+      "city": "Las Vegas",
+      "venue": "Las Vegas Convention Center",
+      "url": "https://www.vegasmeansbusiness.com/destination-calendar/",
+      "lastSuccess": null,
+      "ok": false
+    },
+    {
+      "key": "chicago",
+      "city": "Chicago",
+      "venue": "McCormick Place",
+      "url": "https://www.mccormickplace.com/events/",
+      "lastSuccess": null,
+      "ok": false
+    },
+    {
+      "key": "nyc",
+      "city": "New York",
+      "venue": "Jacob K. Javits Convention Center",
+      "url": "https://www.javitscenter.com/calendar/",
+      "lastSuccess": null,
+      "ok": false
+    }
+  ]
+}
