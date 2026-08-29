@@ -1,6 +1,28 @@
 {
-  "updatedAt": "2026-08-29T08:30:48.689Z",
+  "updatedAt": "2026-08-29T15:23:14.538Z",
   "events": [
+    {
+      "title": "International Union of Police Associations - International Convention 2026",
+      "city": "Las Vegas",
+      "venue": "Paris Las Vegas",
+      "startDate": "2026-08-25",
+      "endDate": "2026-08-29",
+      "category": "Convention / Trade Show",
+      "attendance": 350,
+      "sourceKey": "vegas",
+      "sourceUrl": "https://www.vegasmeansbusiness.com/destination-calendar/"
+    },
+    {
+      "title": "CHAMPS Trade Show Summer 2026",
+      "city": "Las Vegas",
+      "venue": "Las Vegas Convention Center",
+      "startDate": "2026-08-26",
+      "endDate": "2026-08-29",
+      "category": "Convention / Trade Show",
+      "attendance": 10000,
+      "sourceKey": "vegas",
+      "sourceUrl": "https://www.vegasmeansbusiness.com/destination-calendar/"
+    },
     {
       "title": "Orlando Boat Show",
       "city": "Orlando",
@@ -24,7 +46,7 @@
       "sourceUrl": "https://www.miamibeachconvention.com/events"
     },
     {
-      "title": "Anaheim Convention Center",
+      "title": "TheFitExpo",
       "city": "Anaheim",
       "venue": "Anaheim Convention Center",
       "startDate": "2026-08-29",
@@ -32,7 +54,29 @@
       "category": "Convention Center Event",
       "attendance": null,
       "sourceKey": "anaheim",
-      "sourceUrl": "https://www.visitanaheim.org/listing/anaheim-convention-center/2959/amp/"
+      "sourceUrl": "https://www.visitanaheim.org/listing/anaheim-convention-center/2959/"
+    },
+    {
+      "title": "VMware Explore 2026",
+      "city": "Las Vegas",
+      "venue": "The Venetian Expo",
+      "startDate": "2026-08-31",
+      "endDate": "2026-09-02",
+      "category": "Convention / Trade Show",
+      "attendance": 7000,
+      "sourceKey": "vegas",
+      "sourceUrl": "https://www.vegasmeansbusiness.com/destination-calendar/"
+    },
+    {
+      "title": "Star Franchisee Association Conference 2026",
+      "city": "Las Vegas",
+      "venue": "Bellagio",
+      "startDate": "2026-08-31",
+      "endDate": "2026-09-03",
+      "category": "Convention / Trade Show",
+      "attendance": 250,
+      "sourceKey": "vegas",
+      "sourceUrl": "https://www.vegasmeansbusiness.com/destination-calendar/"
     },
     {
       "title": "ICSC@FLORIDA 2026",
@@ -57,6 +101,28 @@
       "sourceUrl": "https://www.visitsandiego.com/calendar?page=1"
     },
     {
+      "title": "The Grimoire Exhibition 2026",
+      "city": "Las Vegas",
+      "venue": "Las Vegas Convention Center",
+      "startDate": "2026-09-05",
+      "endDate": "2026-09-06",
+      "category": "Convention / Trade Show",
+      "attendance": 3000,
+      "sourceKey": "vegas",
+      "sourceUrl": "https://www.vegasmeansbusiness.com/destination-calendar/"
+    },
+    {
+      "title": "Northwest Anesthesia Seminars - 2026 Topics in Anesthesia",
+      "city": "Las Vegas",
+      "venue": "The Venetian Resort Las Vegas",
+      "startDate": "2026-09-07",
+      "endDate": "2026-09-10",
+      "category": "Convention / Trade Show",
+      "attendance": 75,
+      "sourceKey": "vegas",
+      "sourceUrl": "https://www.vegasmeansbusiness.com/destination-calendar/"
+    },
+    {
       "title": "National Baptist Convention Annual Session",
       "city": "Orlando",
       "venue": "Orange County Convention Center",
@@ -66,6 +132,28 @@
       "attendance": null,
       "sourceKey": "orlando",
       "sourceUrl": "https://events.occc.net/event/national-baptist-convention-annual-session/859/"
+    },
+    {
+      "title": "JCTrans 2026 US Regional Conference",
+      "city": "Las Vegas",
+      "venue": "The Venetian Resort Las Vegas",
+      "startDate": "2026-09-08",
+      "endDate": "2026-09-09",
+      "category": "Convention / Trade Show",
+      "attendance": 300,
+      "sourceKey": "vegas",
+      "sourceUrl": "https://www.vegasmeansbusiness.com/destination-calendar/"
+    },
+    {
+      "title": "National Association of Hispanic Real Estate Professionals National Convention 2026",
+      "city": "Las Vegas",
+      "venue": "Bellagio",
+      "startDate": "2026-09-09",
+      "endDate": "2026-09-13",
+      "category": "Convention / Trade Show",
+      "attendance": 7000,
+      "sourceKey": "vegas",
+      "sourceUrl": "https://www.vegasmeansbusiness.com/destination-calendar/"
     },
     {
       "title": "10TH ANNUAL WELLNESS TOGETHER CONFERENCE",
@@ -79,6 +167,17 @@
       "sourceUrl": "https://www.visitsandiego.com/calendar?page=1"
     },
     {
+      "title": "Clark County Government - Public Sector Job Fair - September 2026",
+      "city": "Las Vegas",
+      "venue": "Las Vegas Convention Center",
+      "startDate": "2026-09-09",
+      "endDate": "2026-09-13",
+      "category": "Convention / Trade Show",
+      "attendance": 500,
+      "sourceKey": "vegas",
+      "sourceUrl": "https://www.vegasmeansbusiness.com/destination-calendar/"
+    },
+    {
       "title": "FAN EXPO Dallas 2026",
       "city": "Dallas",
       "venue": "Kay Bailey Hutchison Convention Center Dallas",
@@ -90,7 +189,7 @@
       "sourceUrl": "https://www.dallasconventioncenter.com/events"
     },
     {
-      "title": "Anaheim Convention Center",
+      "title": "Blizzcon",
       "city": "Anaheim",
       "venue": "Anaheim Convention Center",
       "startDate": "2026-09-12",
@@ -98,7 +197,7 @@
       "category": "Convention Center Event",
       "attendance": null,
       "sourceKey": "anaheim",
-      "sourceUrl": "https://www.visitanaheim.org/listing/anaheim-convention-center/2959/amp/"
+      "sourceUrl": "https://www.visitanaheim.org/listing/anaheim-convention-center/2959/"
     },
     {
       "title": "Import Expo 2026",
@@ -110,6 +209,39 @@
       "attendance": null,
       "sourceKey": "orlando",
       "sourceUrl": "https://events.occc.net/event/import-expo-2026/868/"
+    },
+    {
+      "title": "Lowrider Las Vegas Super Show 2026",
+      "city": "Las Vegas",
+      "venue": "Las Vegas Convention Center",
+      "startDate": "2026-09-13",
+      "endDate": "2026-09-16",
+      "category": "Convention / Trade Show",
+      "attendance": 10000,
+      "sourceKey": "vegas",
+      "sourceUrl": "https://www.vegasmeansbusiness.com/destination-calendar/"
+    },
+    {
+      "title": "25th Annual Anti-Money Laundering & Financial Crime Conference 2026",
+      "city": "Las Vegas",
+      "venue": "ARIA Resort & Casino",
+      "startDate": "2026-09-13",
+      "endDate": "2026-09-16",
+      "category": "Convention / Trade Show",
+      "attendance": 4000,
+      "sourceKey": "vegas",
+      "sourceUrl": "https://www.vegasmeansbusiness.com/destination-calendar/"
+    },
+    {
+      "title": "TRAVCON 2026",
+      "city": "Las Vegas",
+      "venue": "Paris Las Vegas",
+      "startDate": "2026-09-13",
+      "endDate": "2026-09-16",
+      "category": "Convention / Trade Show",
+      "attendance": 1200,
+      "sourceKey": "vegas",
+      "sourceUrl": "https://www.vegasmeansbusiness.com/destination-calendar/"
     },
     {
       "title": "2026 NASDA Buyers Mission",
@@ -475,7 +607,7 @@
       "sourceUrl": "https://events.occc.net/event/orlando-home-%26-garde/872/"
     },
     {
-      "title": "Anaheim Convention Center",
+      "title": "Reptile Super Show",
       "city": "Anaheim",
       "venue": "Anaheim Convention Center",
       "startDate": "2026-10-03",
@@ -483,7 +615,7 @@
       "category": "Convention Center Event",
       "attendance": null,
       "sourceKey": "anaheim",
-      "sourceUrl": "https://www.visitanaheim.org/listing/anaheim-convention-center/2959/amp/"
+      "sourceUrl": "https://www.visitanaheim.org/listing/anaheim-convention-center/2959/"
     },
     {
       "title": "Tonight's Conversation Live & Uncut '26",
@@ -2441,7 +2573,7 @@
       "url": "https://www.dallasconventioncenter.com/events",
       "ok": true,
       "mode": "reader",
-      "lastSuccess": "2026-08-29T08:29:39.890Z",
+      "lastSuccess": "2026-08-29T15:22:20.396Z",
       "error": null
     },
     {
@@ -2451,7 +2583,7 @@
       "url": "https://www.miamibeachconvention.com/events",
       "ok": true,
       "mode": "reader",
-      "lastSuccess": "2026-08-29T08:30:23.954Z",
+      "lastSuccess": "2026-08-29T15:22:46.941Z",
       "error": null
     },
     {
@@ -2461,7 +2593,7 @@
       "url": "https://www.visitsandiego.com/calendar?page=1",
       "ok": true,
       "mode": "reader",
-      "lastSuccess": "2026-08-29T08:30:29.518Z",
+      "lastSuccess": "2026-08-29T15:22:49.502Z",
       "error": null
     },
     {
@@ -2469,10 +2601,10 @@
       "city": "Anaheim",
       "venue": "Anaheim Convention Center",
       "url": "https://www.visitanaheim.org/listing/anaheim-convention-center/2959/",
-      "ok": false,
-      "mode": "fallback",
-      "lastSuccess": "2026-08-29T08:11:17.348Z",
-      "error": "Rendered page contained no parsable upcoming events"
+      "ok": true,
+      "mode": "reader",
+      "lastSuccess": "2026-08-29T15:22:56.874Z",
+      "error": null
     },
     {
       "key": "orlando",
@@ -2481,7 +2613,7 @@
       "url": "https://events.occc.net/",
       "ok": true,
       "mode": "direct",
-      "lastSuccess": "2026-08-29T08:30:37.051Z",
+      "lastSuccess": "2026-08-29T15:23:03.695Z",
       "error": null
     },
     {
@@ -2489,10 +2621,10 @@
       "city": "Las Vegas",
       "venue": "Las Vegas Convention Center",
       "url": "https://www.vegasmeansbusiness.com/destination-calendar/",
-      "ok": false,
-      "mode": "fallback",
-      "lastSuccess": null,
-      "error": "Rendered page contained no parsable upcoming events"
+      "ok": true,
+      "mode": "reader",
+      "lastSuccess": "2026-08-29T15:23:11.928Z",
+      "error": null
     },
     {
       "key": "chicago",
@@ -2501,7 +2633,7 @@
       "url": "https://www.choosechicago.com/meeting-planners/chicago-updates-for-meeting-planners/chicago-convention-calendar/",
       "ok": true,
       "mode": "direct",
-      "lastSuccess": "2026-08-29T08:30:47.175Z",
+      "lastSuccess": "2026-08-29T15:23:12.484Z",
       "error": null
     },
     {
