@@ -1,28 +1,6 @@
 {
-  "updatedAt": "2026-08-29T23:23:20.813Z",
+  "updatedAt": "2026-08-30T07:23:29.940Z",
   "events": [
-    {
-      "title": "International Union of Police Associations - International Convention 2026",
-      "city": "Las Vegas",
-      "venue": "Paris Las Vegas",
-      "startDate": "2026-08-25",
-      "endDate": "2026-08-29",
-      "category": "Convention / Trade Show",
-      "attendance": 350,
-      "sourceKey": "vegas",
-      "sourceUrl": "https://www.vegasmeansbusiness.com/destination-calendar/"
-    },
-    {
-      "title": "CHAMPS Trade Show Summer 2026",
-      "city": "Las Vegas",
-      "venue": "Las Vegas Convention Center",
-      "startDate": "2026-08-26",
-      "endDate": "2026-08-29",
-      "category": "Convention / Trade Show",
-      "attendance": 10000,
-      "sourceKey": "vegas",
-      "sourceUrl": "https://www.vegasmeansbusiness.com/destination-calendar/"
-    },
     {
       "title": "Orlando Boat Show",
       "city": "Orlando",
@@ -33,17 +11,6 @@
       "attendance": null,
       "sourceKey": "orlando",
       "sourceUrl": "https://events.occc.net/event/orlando-boat-show/855/"
-    },
-    {
-      "title": "IOScholarships STEAM Summit",
-      "city": "Miami Beach",
-      "venue": "Miami Beach Convention Center",
-      "startDate": "2026-08-29",
-      "endDate": "2026-08-29",
-      "category": "Convention Center Event",
-      "attendance": null,
-      "sourceKey": "miami",
-      "sourceUrl": "https://www.miamibeachconvention.com/events"
     },
     {
       "title": "TheFitExpo",
@@ -2582,10 +2549,10 @@
       "city": "Dallas",
       "venue": "Kay Bailey Hutchison Convention Center Dallas",
       "url": "https://www.dallasconventioncenter.com/events",
-      "ok": true,
-      "mode": "reader",
+      "ok": false,
+      "mode": "fallback",
       "lastSuccess": "2026-08-29T23:22:28.329Z",
-      "error": null
+      "error": "Rendered page contained no parsable upcoming events"
     },
     {
       "key": "miami",
@@ -2594,7 +2561,7 @@
       "url": "https://www.miamibeachconvention.com/events",
       "ok": true,
       "mode": "reader",
-      "lastSuccess": "2026-08-29T23:22:53.770Z",
+      "lastSuccess": "2026-08-30T07:23:00.176Z",
       "error": null
     },
     {
@@ -2604,7 +2571,7 @@
       "url": "https://www.visitsandiego.com/calendar?page=1",
       "ok": true,
       "mode": "reader",
-      "lastSuccess": "2026-08-29T23:22:59.545Z",
+      "lastSuccess": "2026-08-30T07:23:03.221Z",
       "error": null
     },
     {
@@ -2612,10 +2579,10 @@
       "city": "Anaheim",
       "venue": "Anaheim Convention Center",
       "url": "https://www.visitanaheim.org/listing/anaheim-convention-center/2959/",
-      "ok": true,
-      "mode": "reader",
+      "ok": false,
+      "mode": "fallback",
       "lastSuccess": "2026-08-29T23:23:07.708Z",
-      "error": null
+      "error": "Rendered page contained no parsable upcoming events"
     },
     {
       "key": "orlando",
@@ -2624,7 +2591,7 @@
       "url": "https://events.occc.net/",
       "ok": true,
       "mode": "direct",
-      "lastSuccess": "2026-08-29T23:23:11.603Z",
+      "lastSuccess": "2026-08-30T07:23:16.696Z",
       "error": null
     },
     {
@@ -2634,7 +2601,7 @@
       "url": "https://www.vegasmeansbusiness.com/destination-calendar/",
       "ok": true,
       "mode": "reader",
-      "lastSuccess": "2026-08-29T23:23:18.269Z",
+      "lastSuccess": "2026-08-30T07:23:27.337Z",
       "error": null
     },
     {
@@ -2644,7 +2611,7 @@
       "url": "https://www.choosechicago.com/meeting-planners/chicago-updates-for-meeting-planners/chicago-convention-calendar/",
       "ok": true,
       "mode": "direct",
-      "lastSuccess": "2026-08-29T23:23:19.179Z",
+      "lastSuccess": "2026-08-30T07:23:27.573Z",
       "error": null
     },
     {
