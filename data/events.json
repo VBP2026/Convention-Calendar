@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-30T15:23:30.212Z",
+  "updatedAt": "2026-08-30T23:23:35.616Z",
   "events": [
     {
       "title": "Orlando Boat Show",
@@ -2059,6 +2059,17 @@
       "sourceUrl": "https://events.occc.net/event/reach-2027/948/"
     },
     {
+      "title": "Florida Bridal & Wed",
+      "city": "Orlando",
+      "venue": "Orange County Convention Center",
+      "startDate": "2027-02-27",
+      "endDate": "2027-02-27",
+      "category": "Event",
+      "attendance": null,
+      "sourceKey": "orlando",
+      "sourceUrl": "https://events.occc.net/event/florida-bridal-%26-wed/949/"
+    },
+    {
       "title": "TED27",
       "city": "San Diego",
       "venue": "San Diego Convention Center",
@@ -2573,7 +2584,7 @@
       "url": "https://www.dallasconventioncenter.com/events",
       "ok": true,
       "mode": "reader",
-      "lastSuccess": "2026-08-30T15:22:24.364Z",
+      "lastSuccess": "2026-08-30T23:22:21.373Z",
       "error": null
     },
     {
@@ -2583,7 +2594,7 @@
       "url": "https://www.miamibeachconvention.com/events",
       "ok": true,
       "mode": "reader",
-      "lastSuccess": "2026-08-30T15:22:54.302Z",
+      "lastSuccess": "2026-08-30T23:22:52.688Z",
       "error": null
     },
     {
@@ -2593,7 +2604,7 @@
       "url": "https://www.visitsandiego.com/calendar?page=1",
       "ok": true,
       "mode": "reader",
-      "lastSuccess": "2026-08-30T15:23:01.529Z",
+      "lastSuccess": "2026-08-30T23:22:55.468Z",
       "error": null
     },
     {
@@ -2603,7 +2614,7 @@
       "url": "https://www.visitanaheim.org/listing/anaheim-convention-center/2959/",
       "ok": true,
       "mode": "reader",
-      "lastSuccess": "2026-08-30T15:23:10.024Z",
+      "lastSuccess": "2026-08-30T23:23:03.541Z",
       "error": null
     },
     {
@@ -2613,7 +2624,7 @@
       "url": "https://events.occc.net/",
       "ok": true,
       "mode": "direct",
-      "lastSuccess": "2026-08-30T15:23:22.021Z",
+      "lastSuccess": "2026-08-30T23:23:11.936Z",
       "error": null
     },
     {
@@ -2623,7 +2634,7 @@
       "url": "https://www.vegasmeansbusiness.com/destination-calendar/",
       "ok": true,
       "mode": "reader",
-      "lastSuccess": "2026-08-30T15:23:27.887Z",
+      "lastSuccess": "2026-08-30T23:23:19.795Z",
       "error": null
     },
     {
@@ -2633,7 +2644,7 @@
       "url": "https://www.choosechicago.com/meeting-planners/chicago-updates-for-meeting-planners/chicago-convention-calendar/",
       "ok": true,
       "mode": "direct",
-      "lastSuccess": "2026-08-30T15:23:28.315Z",
+      "lastSuccess": "2026-08-30T23:23:20.193Z",
       "error": null
     },
     {
