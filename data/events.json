@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-30T07:23:29.940Z",
+  "updatedAt": "2026-08-30T15:23:30.212Z",
   "events": [
     {
       "title": "Orlando Boat Show",
@@ -440,6 +440,28 @@
       "attendance": 5000,
       "sourceKey": "sandiego",
       "sourceUrl": "https://www.visitsandiego.com/calendar?page=1"
+    },
+    {
+      "title": "ITC Vegas 2026",
+      "city": "Las Vegas",
+      "venue": "Mandalay Bay Convention Center, Resort and Casino",
+      "startDate": "2026-09-22",
+      "endDate": "2026-09-24",
+      "category": "Convention / Trade Show",
+      "attendance": 9000,
+      "sourceKey": "vegas",
+      "sourceUrl": "https://www.vegasmeansbusiness.com/destination-calendar/"
+    },
+    {
+      "title": "Groceryshop 2026",
+      "city": "Las Vegas",
+      "venue": "Mandalay Bay Convention Center, Resort and Casino",
+      "startDate": "2026-09-22",
+      "endDate": "2026-09-24",
+      "category": "Convention / Trade Show",
+      "attendance": 6000,
+      "sourceKey": "vegas",
+      "sourceUrl": "https://www.vegasmeansbusiness.com/destination-calendar/"
     },
     {
       "title": "Ace Hardware Fall Event 2026",
@@ -2549,10 +2571,10 @@
       "city": "Dallas",
       "venue": "Kay Bailey Hutchison Convention Center Dallas",
       "url": "https://www.dallasconventioncenter.com/events",
-      "ok": false,
-      "mode": "fallback",
-      "lastSuccess": "2026-08-29T23:22:28.329Z",
-      "error": "Rendered page contained no parsable upcoming events"
+      "ok": true,
+      "mode": "reader",
+      "lastSuccess": "2026-08-30T15:22:24.364Z",
+      "error": null
     },
     {
       "key": "miami",
@@ -2561,7 +2583,7 @@
       "url": "https://www.miamibeachconvention.com/events",
       "ok": true,
       "mode": "reader",
-      "lastSuccess": "2026-08-30T07:23:00.176Z",
+      "lastSuccess": "2026-08-30T15:22:54.302Z",
       "error": null
     },
     {
@@ -2571,7 +2593,7 @@
       "url": "https://www.visitsandiego.com/calendar?page=1",
       "ok": true,
       "mode": "reader",
-      "lastSuccess": "2026-08-30T07:23:03.221Z",
+      "lastSuccess": "2026-08-30T15:23:01.529Z",
       "error": null
     },
     {
@@ -2579,10 +2601,10 @@
       "city": "Anaheim",
       "venue": "Anaheim Convention Center",
       "url": "https://www.visitanaheim.org/listing/anaheim-convention-center/2959/",
-      "ok": false,
-      "mode": "fallback",
-      "lastSuccess": "2026-08-29T23:23:07.708Z",
-      "error": "Rendered page contained no parsable upcoming events"
+      "ok": true,
+      "mode": "reader",
+      "lastSuccess": "2026-08-30T15:23:10.024Z",
+      "error": null
     },
     {
       "key": "orlando",
@@ -2591,7 +2613,7 @@
       "url": "https://events.occc.net/",
       "ok": true,
       "mode": "direct",
-      "lastSuccess": "2026-08-30T07:23:16.696Z",
+      "lastSuccess": "2026-08-30T15:23:22.021Z",
       "error": null
     },
     {
@@ -2601,7 +2623,7 @@
       "url": "https://www.vegasmeansbusiness.com/destination-calendar/",
       "ok": true,
       "mode": "reader",
-      "lastSuccess": "2026-08-30T07:23:27.337Z",
+      "lastSuccess": "2026-08-30T15:23:27.887Z",
       "error": null
     },
     {
@@ -2611,7 +2633,7 @@
       "url": "https://www.choosechicago.com/meeting-planners/chicago-updates-for-meeting-planners/chicago-convention-calendar/",
       "ok": true,
       "mode": "direct",
-      "lastSuccess": "2026-08-30T07:23:27.573Z",
+      "lastSuccess": "2026-08-30T15:23:28.315Z",
       "error": null
     },
     {
