@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-31T07:23:31.549Z",
+  "updatedAt": "2026-08-31T15:23:21.328Z",
   "events": [
     {
       "title": "VMware Explore 2026",
@@ -992,6 +992,17 @@
       "sourceUrl": "https://www.miamibeachconvention.com/events"
     },
     {
+      "title": "WTE Miami 2026",
+      "city": "Miami Beach",
+      "venue": "Miami Beach Convention Center",
+      "startDate": "2026-10-27",
+      "endDate": "2026-10-28",
+      "category": "Convention Center Event",
+      "attendance": null,
+      "sourceKey": "miami",
+      "sourceUrl": "https://www.miamibeachconvention.com/events"
+    },
+    {
       "title": "Win the Storm 2026",
       "city": "Dallas",
       "venue": "Kay Bailey Hutchison Convention Center Dallas",
@@ -1014,7 +1025,40 @@
       "sourceUrl": "https://www.miamibeachconvention.com/events"
     },
     {
+      "title": "WTE Miami 2026",
+      "city": "Miami Beach",
+      "venue": "Miami Beach Convention Center",
+      "startDate": "2026-10-28",
+      "endDate": "2026-10-28",
+      "category": "Convention Center Event",
+      "attendance": null,
+      "sourceKey": "miami",
+      "sourceUrl": "https://www.miamibeachconvention.com/events"
+    },
+    {
+      "title": "The Miami Beach Food and Beverage Expo",
+      "city": "Miami Beach",
+      "venue": "Miami Beach Convention Center",
+      "startDate": "2026-10-28",
+      "endDate": "2026-10-29",
+      "category": "Convention Center Event",
+      "attendance": null,
+      "sourceKey": "miami",
+      "sourceUrl": "https://www.miamibeachconvention.com/events"
+    },
+    {
       "title": "Air Cargo Forum and Exhibition",
+      "city": "Miami Beach",
+      "venue": "Miami Beach Convention Center",
+      "startDate": "2026-10-29",
+      "endDate": "2026-10-29",
+      "category": "Convention Center Event",
+      "attendance": null,
+      "sourceKey": "miami",
+      "sourceUrl": "https://www.miamibeachconvention.com/events"
+    },
+    {
+      "title": "The Miami Beach Food and Beverage Expo",
       "city": "Miami Beach",
       "venue": "Miami Beach Convention Center",
       "startDate": "2026-10-29",
@@ -1069,6 +1113,17 @@
       "sourceUrl": "https://www.visitsandiego.com/calendar?page=1"
     },
     {
+      "title": "The Hospitality Show 2026",
+      "city": "Miami Beach",
+      "venue": "Miami Beach Convention Center",
+      "startDate": "2026-11-02",
+      "endDate": "2026-11-04",
+      "category": "Convention Center Event",
+      "attendance": null,
+      "sourceKey": "miami",
+      "sourceUrl": "https://www.miamibeachconvention.com/events"
+    },
+    {
       "title": "Advanced Textiles Expo / Sun Shading Expo 2026",
       "city": "Orlando",
       "venue": "Orange County Convention Center",
@@ -1089,6 +1144,17 @@
       "attendance": null,
       "sourceKey": "orlando",
       "sourceUrl": "https://events.occc.net/event/cheney-brothers-fo/899/"
+    },
+    {
+      "title": "The Hospitality Show 2026",
+      "city": "Miami Beach",
+      "venue": "Miami Beach Convention Center",
+      "startDate": "2026-11-04",
+      "endDate": "2026-11-04",
+      "category": "Convention Center Event",
+      "attendance": null,
+      "sourceKey": "miami",
+      "sourceUrl": "https://www.miamibeachconvention.com/events"
     },
     {
       "title": "Yu-Gi-Oh! Championship Series Orlando 2026",
@@ -1133,6 +1199,28 @@
       "attendance": null,
       "sourceKey": "orlando",
       "sourceUrl": "https://events.occc.net/event/acr-annual-meeting-2026/902/"
+    },
+    {
+      "title": "Adobe MAX - The Creative Conference",
+      "city": "Miami Beach",
+      "venue": "Miami Beach Convention Center",
+      "startDate": "2026-11-10",
+      "endDate": "2026-11-12",
+      "category": "Convention Center Event",
+      "attendance": null,
+      "sourceKey": "miami",
+      "sourceUrl": "https://www.miamibeachconvention.com/events"
+    },
+    {
+      "title": "Adobe MAX - The Creative Conference",
+      "city": "Miami Beach",
+      "venue": "Miami Beach Convention Center",
+      "startDate": "2026-11-12",
+      "endDate": "2026-11-12",
+      "category": "Convention Center Event",
+      "attendance": null,
+      "sourceKey": "miami",
+      "sourceUrl": "https://www.miamibeachconvention.com/events"
     },
     {
       "title": "AARM&R Annual Assemb",
@@ -1267,6 +1355,28 @@
       "sourceUrl": "https://www.visitsandiego.com/calendar?page=1"
     },
     {
+      "title": "Art Basel Miami Beach",
+      "city": "Miami Beach",
+      "venue": "Miami Beach Convention Center",
+      "startDate": "2026-12-02",
+      "endDate": "2026-12-06",
+      "category": "Convention Center Event",
+      "attendance": null,
+      "sourceKey": "miami",
+      "sourceUrl": "https://www.miamibeachconvention.com/events"
+    },
+    {
+      "title": "Design Miami",
+      "city": "Miami Beach",
+      "venue": "Miami Beach Convention Center",
+      "startDate": "2026-12-02",
+      "endDate": "2026-12-06",
+      "category": "Convention Center Event",
+      "attendance": null,
+      "sourceKey": "miami",
+      "sourceUrl": "https://www.miamibeachconvention.com/events"
+    },
+    {
       "title": "CSBA 2026 ANNUAL EDUCATION CONFERENCE & TRADE SHOW",
       "city": "San Diego",
       "venue": "San Diego Convention Center",
@@ -1287,6 +1397,28 @@
       "attendance": null,
       "sourceKey": "orlando",
       "sourceUrl": "https://events.occc.net/event/ashp-midyear-clinical-meeting/914/"
+    },
+    {
+      "title": "Art Basel Miami Beach",
+      "city": "Miami Beach",
+      "venue": "Miami Beach Convention Center",
+      "startDate": "2026-12-06",
+      "endDate": "2026-12-06",
+      "category": "Convention Center Event",
+      "attendance": null,
+      "sourceKey": "miami",
+      "sourceUrl": "https://www.miamibeachconvention.com/events"
+    },
+    {
+      "title": "Design Miami",
+      "city": "Miami Beach",
+      "venue": "Miami Beach Convention Center",
+      "startDate": "2026-12-06",
+      "endDate": "2026-12-06",
+      "category": "Convention Center Event",
+      "attendance": null,
+      "sourceKey": "miami",
+      "sourceUrl": "https://www.miamibeachconvention.com/events"
     },
     {
       "title": "AKC National Championship presented by Royal Canin",
@@ -2430,7 +2562,7 @@
       "url": "https://www.dallasconventioncenter.com/events",
       "ok": true,
       "mode": "reader",
-      "lastSuccess": "2026-08-31T07:22:26.643Z",
+      "lastSuccess": "2026-08-31T15:22:18.046Z",
       "error": null
     },
     {
@@ -2440,7 +2572,7 @@
       "url": "https://www.miamibeachconvention.com/events",
       "ok": true,
       "mode": "reader",
-      "lastSuccess": "2026-08-31T07:23:01.208Z",
+      "lastSuccess": "2026-08-31T15:22:52.857Z",
       "error": null
     },
     {
@@ -2450,7 +2582,7 @@
       "url": "https://www.visitsandiego.com/calendar?page=1",
       "ok": true,
       "mode": "reader",
-      "lastSuccess": "2026-08-31T07:23:07.087Z",
+      "lastSuccess": "2026-08-31T15:22:55.425Z",
       "error": null
     },
     {
@@ -2460,7 +2592,7 @@
       "url": "https://www.visitanaheim.org/listing/anaheim-convention-center/2959/",
       "ok": true,
       "mode": "reader",
-      "lastSuccess": "2026-08-31T07:23:14.898Z",
+      "lastSuccess": "2026-08-31T15:23:03.604Z",
       "error": null
     },
     {
@@ -2470,7 +2602,7 @@
       "url": "https://events.occc.net/",
       "ok": true,
       "mode": "direct",
-      "lastSuccess": "2026-08-31T07:23:24.395Z",
+      "lastSuccess": "2026-08-31T15:23:11.648Z",
       "error": null
     },
     {
@@ -2480,7 +2612,7 @@
       "url": "https://www.vegasmeansbusiness.com/destination-calendar/",
       "ok": true,
       "mode": "reader",
-      "lastSuccess": "2026-08-31T07:23:29.644Z",
+      "lastSuccess": "2026-08-31T15:23:18.786Z",
       "error": null
     },
     {
@@ -2490,7 +2622,7 @@
       "url": "https://www.choosechicago.com/meeting-planners/chicago-updates-for-meeting-planners/chicago-convention-calendar/",
       "ok": true,
       "mode": "direct",
-      "lastSuccess": "2026-08-31T07:23:30.066Z",
+      "lastSuccess": "2026-08-31T15:23:19.668Z",
       "error": null
     },
     {
