@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-31T23:23:26.362Z",
+  "updatedAt": "2026-09-01T07:28:57.414Z",
   "events": [
     {
       "title": "VMware Explore 2026",
@@ -2573,7 +2573,7 @@
       "url": "https://www.dallasconventioncenter.com/events",
       "ok": true,
       "mode": "reader",
-      "lastSuccess": "2026-08-31T23:22:31.142Z",
+      "lastSuccess": "2026-09-01T07:27:58.916Z",
       "error": null
     },
     {
@@ -2583,7 +2583,7 @@
       "url": "https://www.miamibeachconvention.com/events",
       "ok": true,
       "mode": "reader",
-      "lastSuccess": "2026-08-31T23:22:56.765Z",
+      "lastSuccess": "2026-09-01T07:28:30.153Z",
       "error": null
     },
     {
@@ -2593,7 +2593,7 @@
       "url": "https://www.visitsandiego.com/calendar?page=1",
       "ok": true,
       "mode": "reader",
-      "lastSuccess": "2026-08-31T23:23:02.046Z",
+      "lastSuccess": "2026-09-01T07:28:33.579Z",
       "error": null
     },
     {
@@ -2603,7 +2603,7 @@
       "url": "https://www.visitanaheim.org/listing/anaheim-convention-center/2959/",
       "ok": true,
       "mode": "reader",
-      "lastSuccess": "2026-08-31T23:23:09.480Z",
+      "lastSuccess": "2026-09-01T07:28:41.527Z",
       "error": null
     },
     {
@@ -2613,7 +2613,7 @@
       "url": "https://events.occc.net/",
       "ok": true,
       "mode": "direct",
-      "lastSuccess": "2026-08-31T23:23:18.229Z",
+      "lastSuccess": "2026-09-01T07:28:49.963Z",
       "error": null
     },
     {
@@ -2623,7 +2623,7 @@
       "url": "https://www.vegasmeansbusiness.com/destination-calendar/",
       "ok": true,
       "mode": "reader",
-      "lastSuccess": "2026-08-31T23:23:24.239Z",
+      "lastSuccess": "2026-09-01T07:28:55.237Z",
       "error": null
     },
     {
@@ -2633,7 +2633,7 @@
       "url": "https://www.choosechicago.com/meeting-planners/chicago-updates-for-meeting-planners/chicago-convention-calendar/",
       "ok": true,
       "mode": "direct",
-      "lastSuccess": "2026-08-31T23:23:24.860Z",
+      "lastSuccess": "2026-09-01T07:28:56.138Z",
       "error": null
     },
     {
