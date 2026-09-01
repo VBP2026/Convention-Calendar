@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-01T15:49:36.005Z",
+  "updatedAt": "2026-09-01T23:24:18.159Z",
   "events": [
     {
       "title": "VMware Explore 2026",
@@ -2114,6 +2114,17 @@
       "sourceUrl": "https://www.miamibeachconvention.com/events"
     },
     {
+      "title": "Do it Best Spring Market 2027",
+      "city": "Orlando",
+      "venue": "Orange County Convention Center",
+      "startDate": "2027-03-05",
+      "endDate": "2027-03-07",
+      "category": "Event",
+      "attendance": null,
+      "sourceKey": "orlando",
+      "sourceUrl": "https://events.occc.net/event/do-it-best-spring-market-2027/951/"
+    },
+    {
       "title": "TSN MARQUEE MAIN EVENT",
       "city": "San Diego",
       "venue": "San Diego Convention Center",
@@ -2573,7 +2584,7 @@
       "url": "https://www.dallasconventioncenter.com/events",
       "ok": true,
       "mode": "reader",
-      "lastSuccess": "2026-09-01T15:48:28.537Z",
+      "lastSuccess": "2026-09-01T23:23:29.842Z",
       "error": null
     },
     {
@@ -2583,7 +2594,7 @@
       "url": "https://www.miamibeachconvention.com/events",
       "ok": true,
       "mode": "reader",
-      "lastSuccess": "2026-09-01T15:49:01.701Z",
+      "lastSuccess": "2026-09-01T23:23:59.067Z",
       "error": null
     },
     {
@@ -2593,7 +2604,7 @@
       "url": "https://www.visitsandiego.com/calendar?page=1",
       "ok": true,
       "mode": "reader",
-      "lastSuccess": "2026-09-01T15:49:08.905Z",
+      "lastSuccess": "2026-09-01T23:24:01.652Z",
       "error": null
     },
     {
@@ -2601,10 +2612,10 @@
       "city": "Anaheim",
       "venue": "Anaheim Convention Center",
       "url": "https://www.visitanaheim.org/listing/anaheim-convention-center/2959/",
-      "ok": true,
-      "mode": "reader",
+      "ok": false,
+      "mode": "fallback",
       "lastSuccess": "2026-09-01T15:49:17.540Z",
-      "error": null
+      "error": "Rendered page contained no parsable upcoming events"
     },
     {
       "key": "orlando",
@@ -2613,7 +2624,7 @@
       "url": "https://events.occc.net/",
       "ok": true,
       "mode": "direct",
-      "lastSuccess": "2026-09-01T15:49:25.844Z",
+      "lastSuccess": "2026-09-01T23:24:09.287Z",
       "error": null
     },
     {
@@ -2623,7 +2634,7 @@
       "url": "https://www.vegasmeansbusiness.com/destination-calendar/",
       "ok": true,
       "mode": "reader",
-      "lastSuccess": "2026-09-01T15:49:32.428Z",
+      "lastSuccess": "2026-09-01T23:24:15.975Z",
       "error": null
     },
     {
@@ -2633,7 +2644,7 @@
       "url": "https://www.choosechicago.com/meeting-planners/chicago-updates-for-meeting-planners/chicago-convention-calendar/",
       "ok": true,
       "mode": "direct",
-      "lastSuccess": "2026-09-01T15:49:32.825Z",
+      "lastSuccess": "2026-09-01T23:24:16.360Z",
       "error": null
     },
     {
