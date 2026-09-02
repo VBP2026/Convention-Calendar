@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-01T23:24:18.159Z",
+  "updatedAt": "2026-09-02T07:28:23.960Z",
   "events": [
     {
       "title": "VMware Explore 2026",
@@ -22,17 +22,6 @@
       "attendance": 250,
       "sourceKey": "vegas",
       "sourceUrl": "https://www.vegasmeansbusiness.com/destination-calendar/"
-    },
-    {
-      "title": "ICSC@FLORIDA 2026",
-      "city": "Orlando",
-      "venue": "Orange County Convention Center",
-      "startDate": "2026-08-31",
-      "endDate": "2026-09-01",
-      "category": "Event",
-      "attendance": null,
-      "sourceKey": "orlando",
-      "sourceUrl": "https://events.occc.net/event/icsc%40florida-2026/857/"
     },
     {
       "title": "ELVIS Bowling Tournament 2026",
@@ -2584,7 +2573,7 @@
       "url": "https://www.dallasconventioncenter.com/events",
       "ok": true,
       "mode": "reader",
-      "lastSuccess": "2026-09-01T23:23:29.842Z",
+      "lastSuccess": "2026-09-02T07:27:31.321Z",
       "error": null
     },
     {
@@ -2594,7 +2583,7 @@
       "url": "https://www.miamibeachconvention.com/events",
       "ok": true,
       "mode": "reader",
-      "lastSuccess": "2026-09-01T23:23:59.067Z",
+      "lastSuccess": "2026-09-02T07:27:56.957Z",
       "error": null
     },
     {
@@ -2604,7 +2593,7 @@
       "url": "https://www.visitsandiego.com/calendar?page=1",
       "ok": true,
       "mode": "reader",
-      "lastSuccess": "2026-09-01T23:24:01.652Z",
+      "lastSuccess": "2026-09-02T07:28:01.064Z",
       "error": null
     },
     {
@@ -2612,10 +2601,10 @@
       "city": "Anaheim",
       "venue": "Anaheim Convention Center",
       "url": "https://www.visitanaheim.org/listing/anaheim-convention-center/2959/",
-      "ok": false,
-      "mode": "fallback",
-      "lastSuccess": "2026-09-01T15:49:17.540Z",
-      "error": "Rendered page contained no parsable upcoming events"
+      "ok": true,
+      "mode": "reader",
+      "lastSuccess": "2026-09-02T07:28:08.598Z",
+      "error": null
     },
     {
       "key": "orlando",
@@ -2624,7 +2613,7 @@
       "url": "https://events.occc.net/",
       "ok": true,
       "mode": "direct",
-      "lastSuccess": "2026-09-01T23:24:09.287Z",
+      "lastSuccess": "2026-09-02T07:28:16.375Z",
       "error": null
     },
     {
@@ -2634,7 +2623,7 @@
       "url": "https://www.vegasmeansbusiness.com/destination-calendar/",
       "ok": true,
       "mode": "reader",
-      "lastSuccess": "2026-09-01T23:24:15.975Z",
+      "lastSuccess": "2026-09-02T07:28:21.775Z",
       "error": null
     },
     {
@@ -2644,7 +2633,7 @@
       "url": "https://www.choosechicago.com/meeting-planners/chicago-updates-for-meeting-planners/chicago-convention-calendar/",
       "ok": true,
       "mode": "direct",
-      "lastSuccess": "2026-09-01T23:24:16.360Z",
+      "lastSuccess": "2026-09-02T07:28:22.238Z",
       "error": null
     },
     {
