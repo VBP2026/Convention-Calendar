@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-02T07:28:23.960Z",
+  "updatedAt": "2026-09-02T15:33:29.818Z",
   "events": [
     {
       "title": "VMware Explore 2026",
@@ -2573,7 +2573,7 @@
       "url": "https://www.dallasconventioncenter.com/events",
       "ok": true,
       "mode": "reader",
-      "lastSuccess": "2026-09-02T07:27:31.321Z",
+      "lastSuccess": "2026-09-02T15:32:21.815Z",
       "error": null
     },
     {
@@ -2583,7 +2583,7 @@
       "url": "https://www.miamibeachconvention.com/events",
       "ok": true,
       "mode": "reader",
-      "lastSuccess": "2026-09-02T07:27:56.957Z",
+      "lastSuccess": "2026-09-02T15:32:51.893Z",
       "error": null
     },
     {
@@ -2593,7 +2593,7 @@
       "url": "https://www.visitsandiego.com/calendar?page=1",
       "ok": true,
       "mode": "reader",
-      "lastSuccess": "2026-09-02T07:28:01.064Z",
+      "lastSuccess": "2026-09-02T15:32:54.623Z",
       "error": null
     },
     {
@@ -2601,10 +2601,10 @@
       "city": "Anaheim",
       "venue": "Anaheim Convention Center",
       "url": "https://www.visitanaheim.org/listing/anaheim-convention-center/2959/",
-      "ok": true,
-      "mode": "reader",
+      "ok": false,
+      "mode": "fallback",
       "lastSuccess": "2026-09-02T07:28:08.598Z",
-      "error": null
+      "error": "Rendered page contained no parsable upcoming events"
     },
     {
       "key": "orlando",
@@ -2613,7 +2613,7 @@
       "url": "https://events.occc.net/",
       "ok": true,
       "mode": "direct",
-      "lastSuccess": "2026-09-02T07:28:16.375Z",
+      "lastSuccess": "2026-09-02T15:33:07.895Z",
       "error": null
     },
     {
@@ -2623,7 +2623,7 @@
       "url": "https://www.vegasmeansbusiness.com/destination-calendar/",
       "ok": true,
       "mode": "reader",
-      "lastSuccess": "2026-09-02T07:28:21.775Z",
+      "lastSuccess": "2026-09-02T15:33:15.113Z",
       "error": null
     },
     {
@@ -2633,7 +2633,7 @@
       "url": "https://www.choosechicago.com/meeting-planners/chicago-updates-for-meeting-planners/chicago-convention-calendar/",
       "ok": true,
       "mode": "direct",
-      "lastSuccess": "2026-09-02T07:28:22.238Z",
+      "lastSuccess": "2026-09-02T15:33:15.449Z",
       "error": null
     },
     {
