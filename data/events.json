@@ -1,17 +1,6 @@
 {
-  "updatedAt": "2026-09-02T23:26:04.446Z",
+  "updatedAt": "2026-09-03T07:29:44.127Z",
   "events": [
-    {
-      "title": "VMware Explore 2026",
-      "city": "Las Vegas",
-      "venue": "The Venetian Expo",
-      "startDate": "2026-08-31",
-      "endDate": "2026-09-02",
-      "category": "Convention / Trade Show",
-      "attendance": 7000,
-      "sourceKey": "vegas",
-      "sourceUrl": "https://www.vegasmeansbusiness.com/destination-calendar/"
-    },
     {
       "title": "Star Franchisee Association Conference 2026",
       "city": "Las Vegas",
@@ -2595,7 +2584,7 @@
       "url": "https://www.dallasconventioncenter.com/events",
       "ok": true,
       "mode": "reader",
-      "lastSuccess": "2026-09-02T23:25:12.922Z",
+      "lastSuccess": "2026-09-03T07:28:42.100Z",
       "error": null
     },
     {
@@ -2605,7 +2594,7 @@
       "url": "https://www.miamibeachconvention.com/events",
       "ok": true,
       "mode": "reader",
-      "lastSuccess": "2026-09-02T23:25:37.112Z",
+      "lastSuccess": "2026-09-03T07:29:09.497Z",
       "error": null
     },
     {
@@ -2615,7 +2604,7 @@
       "url": "https://www.visitsandiego.com/calendar?page=1",
       "ok": true,
       "mode": "reader",
-      "lastSuccess": "2026-09-02T23:25:41.925Z",
+      "lastSuccess": "2026-09-03T07:29:12.733Z",
       "error": null
     },
     {
@@ -2625,7 +2614,7 @@
       "url": "https://www.visitanaheim.org/listing/anaheim-convention-center/2959/",
       "ok": true,
       "mode": "reader",
-      "lastSuccess": "2026-09-02T23:25:48.310Z",
+      "lastSuccess": "2026-09-03T07:29:20.347Z",
       "error": null
     },
     {
@@ -2635,7 +2624,7 @@
       "url": "https://events.occc.net/",
       "ok": true,
       "mode": "direct",
-      "lastSuccess": "2026-09-02T23:25:56.581Z",
+      "lastSuccess": "2026-09-03T07:29:31.185Z",
       "error": null
     },
     {
@@ -2643,10 +2632,10 @@
       "city": "Las Vegas",
       "venue": "Las Vegas Convention Center",
       "url": "https://www.vegasmeansbusiness.com/destination-calendar/",
-      "ok": false,
-      "mode": "fallback",
-      "lastSuccess": "2026-09-02T15:33:15.113Z",
-      "error": "Rendered page contained no parsable upcoming events"
+      "ok": true,
+      "mode": "reader",
+      "lastSuccess": "2026-09-03T07:29:40.222Z",
+      "error": null
     },
     {
       "key": "chicago",
@@ -2655,7 +2644,7 @@
       "url": "https://www.choosechicago.com/meeting-planners/chicago-updates-for-meeting-planners/chicago-convention-calendar/",
       "ok": true,
       "mode": "direct",
-      "lastSuccess": "2026-09-02T23:26:03.002Z",
+      "lastSuccess": "2026-09-03T07:29:41.364Z",
       "error": null
     },
     {
