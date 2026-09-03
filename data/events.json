@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-03T07:29:44.127Z",
+  "updatedAt": "2026-09-03T15:32:04.328Z",
   "events": [
     {
       "title": "Star Franchisee Association Conference 2026",
@@ -288,7 +288,7 @@
       "sourceUrl": "https://www.miamibeachconvention.com/events"
     },
     {
-      "title": "FLVS Professional Le",
+      "title": "FLVS 2026",
       "city": "Orlando",
       "venue": "Orange County Convention Center",
       "startDate": "2026-09-15",
@@ -296,7 +296,7 @@
       "category": "Event",
       "attendance": null,
       "sourceKey": "orlando",
-      "sourceUrl": "https://events.occc.net/event/flvs-professional-le/865/"
+      "sourceUrl": "https://events.occc.net/event/flvs-2026/865/"
     },
     {
       "title": "IntraLogisteX Dallas 2026",
@@ -407,6 +407,17 @@
       "attendance": 5000,
       "sourceKey": "sandiego",
       "sourceUrl": "https://www.visitsandiego.com/calendar?page=1"
+    },
+    {
+      "title": "ITC Vegas 2026",
+      "city": "Las Vegas",
+      "venue": "Mandalay Bay Convention Center, Resort and Casino",
+      "startDate": "2026-09-22",
+      "endDate": "2026-09-24",
+      "category": "Convention / Trade Show",
+      "attendance": 9000,
+      "sourceKey": "vegas",
+      "sourceUrl": "https://www.vegasmeansbusiness.com/destination-calendar/"
     },
     {
       "title": "Groceryshop 2026",
@@ -2584,7 +2595,7 @@
       "url": "https://www.dallasconventioncenter.com/events",
       "ok": true,
       "mode": "reader",
-      "lastSuccess": "2026-09-03T07:28:42.100Z",
+      "lastSuccess": "2026-09-03T15:30:47.372Z",
       "error": null
     },
     {
@@ -2594,7 +2605,7 @@
       "url": "https://www.miamibeachconvention.com/events",
       "ok": true,
       "mode": "reader",
-      "lastSuccess": "2026-09-03T07:29:09.497Z",
+      "lastSuccess": "2026-09-03T15:31:27.291Z",
       "error": null
     },
     {
@@ -2604,7 +2615,7 @@
       "url": "https://www.visitsandiego.com/calendar?page=1",
       "ok": true,
       "mode": "reader",
-      "lastSuccess": "2026-09-03T07:29:12.733Z",
+      "lastSuccess": "2026-09-03T15:31:34.211Z",
       "error": null
     },
     {
@@ -2614,7 +2625,7 @@
       "url": "https://www.visitanaheim.org/listing/anaheim-convention-center/2959/",
       "ok": true,
       "mode": "reader",
-      "lastSuccess": "2026-09-03T07:29:20.347Z",
+      "lastSuccess": "2026-09-03T15:31:44.058Z",
       "error": null
     },
     {
@@ -2624,7 +2635,7 @@
       "url": "https://events.occc.net/",
       "ok": true,
       "mode": "direct",
-      "lastSuccess": "2026-09-03T07:29:31.185Z",
+      "lastSuccess": "2026-09-03T15:31:53.917Z",
       "error": null
     },
     {
@@ -2634,7 +2645,7 @@
       "url": "https://www.vegasmeansbusiness.com/destination-calendar/",
       "ok": true,
       "mode": "reader",
-      "lastSuccess": "2026-09-03T07:29:40.222Z",
+      "lastSuccess": "2026-09-03T15:32:01.545Z",
       "error": null
     },
     {
@@ -2644,7 +2655,7 @@
       "url": "https://www.choosechicago.com/meeting-planners/chicago-updates-for-meeting-planners/chicago-convention-calendar/",
       "ok": true,
       "mode": "direct",
-      "lastSuccess": "2026-09-03T07:29:41.364Z",
+      "lastSuccess": "2026-09-03T15:32:01.758Z",
       "error": null
     },
     {
