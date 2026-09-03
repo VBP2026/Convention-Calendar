@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-03T15:32:04.328Z",
+  "updatedAt": "2026-09-03T23:24:55.282Z",
   "events": [
     {
       "title": "Star Franchisee Association Conference 2026",
@@ -1179,6 +1179,17 @@
       "sourceUrl": "https://www.choosechicago.com/meeting-planners/chicago-updates-for-meeting-planners/chicago-convention-calendar/"
     },
     {
+      "title": "ECKHART TOLLE WEEKEND INTENSIVE",
+      "city": "San Diego",
+      "venue": "San Diego Convention Center",
+      "startDate": "2026-11-07",
+      "endDate": "2026-11-08",
+      "category": "Meeting/Seminar",
+      "attendance": 900,
+      "sourceKey": "sandiego",
+      "sourceUrl": "https://www.visitsandiego.com/calendar?page=1"
+    },
+    {
       "title": "WESCON REGIONAL CHEER AND DANCE CHAMPIONSHIPS",
       "city": "San Diego",
       "venue": "San Diego Convention Center",
@@ -1828,6 +1839,17 @@
       "sourceUrl": "https://events.occc.net/event/orlando-hoa-%26-condo-show-2027/944/"
     },
     {
+      "title": "SCG CON",
+      "city": "San Diego",
+      "venue": "San Diego Convention Center",
+      "startDate": "2027-02-05",
+      "endDate": "2027-02-07",
+      "category": "Meeting/Seminar",
+      "attendance": 2500,
+      "sourceKey": "sandiego",
+      "sourceUrl": "https://www.visitsandiego.com/calendar?page=1"
+    },
+    {
       "title": "Miami Rum Congress",
       "city": "Miami Beach",
       "venue": "Miami Beach Convention Center",
@@ -2048,7 +2070,7 @@
       "sourceUrl": "https://events.occc.net/event/florida-bridal-%26-wed/949/"
     },
     {
-      "title": "TED27",
+      "title": "TED2027",
       "city": "San Diego",
       "venue": "San Diego Convention Center",
       "startDate": "2027-03-01",
@@ -2356,6 +2378,17 @@
       "sourceUrl": "https://www.miamibeachconvention.com/events"
     },
     {
+      "title": "HYROX SAN DIEGO",
+      "city": "San Diego",
+      "venue": "San Diego Convention Center",
+      "startDate": "2027-05-13",
+      "endDate": "2027-05-16",
+      "category": "Meeting/Seminar",
+      "attendance": 35000,
+      "sourceKey": "sandiego",
+      "sourceUrl": "https://www.visitsandiego.com/calendar?page=1"
+    },
+    {
       "title": "CARV EXPO",
       "city": "San Diego",
       "venue": "San Diego Convention Center",
@@ -2543,6 +2576,61 @@
       "sourceUrl": "https://www.visitsandiego.com/calendar?page=1"
     },
     {
+      "title": "SAN DIEGO COMIC-CON / CCI 2027 COMIC-CON INTERNATIONAL",
+      "city": "San Diego",
+      "venue": "San Diego Convention Center",
+      "startDate": "2027-07-22",
+      "endDate": "2027-07-25",
+      "category": "Convention with Trade Show",
+      "attendance": 135000,
+      "sourceKey": "sandiego",
+      "sourceUrl": "https://www.visitsandiego.com/calendar?page=1"
+    },
+    {
+      "title": "GLOBAL BUSINESS TRAVEL ASSOCIATION ANNUAL",
+      "city": "San Diego",
+      "venue": "San Diego Convention Center",
+      "startDate": "2027-08-02",
+      "endDate": "2027-08-04",
+      "category": "Convention with Trade Show",
+      "attendance": 5500,
+      "sourceKey": "sandiego",
+      "sourceUrl": "https://www.visitsandiego.com/calendar?page=1"
+    },
+    {
+      "title": "NATIONAL ASSOCIATION OF CHAIN DRUG STORES - TOTAL STORE EXPO 2027",
+      "city": "San Diego",
+      "venue": "San Diego Convention Center",
+      "startDate": "2027-08-15",
+      "endDate": "2027-08-17",
+      "category": "Convention with Trade Show",
+      "attendance": 5500,
+      "sourceKey": "sandiego",
+      "sourceUrl": "https://www.visitsandiego.com/calendar?page=1"
+    },
+    {
+      "title": "AMERICAN CHEMICAL SOCIETY 2027 FALL NATIONAL MEETING & EXPO",
+      "city": "San Diego",
+      "venue": "San Diego Convention Center",
+      "startDate": "2027-08-22",
+      "endDate": "2027-08-26",
+      "category": "Convention with Trade Show",
+      "attendance": 17000,
+      "sourceKey": "sandiego",
+      "sourceUrl": "https://www.visitsandiego.com/calendar?page=1"
+    },
+    {
+      "title": "SPIE 2027 OPTICS + PHOTONICS",
+      "city": "San Diego",
+      "venue": "San Diego Convention Center",
+      "startDate": "2027-08-29",
+      "endDate": "2027-09-02",
+      "category": "Convention with Trade Show",
+      "attendance": 4000,
+      "sourceKey": "sandiego",
+      "sourceUrl": "https://www.visitsandiego.com/calendar?page=1"
+    },
+    {
       "title": "IGLTA 2027",
       "city": "Miami Beach",
       "venue": "Miami Beach Convention Center",
@@ -2595,7 +2683,7 @@
       "url": "https://www.dallasconventioncenter.com/events",
       "ok": true,
       "mode": "reader",
-      "lastSuccess": "2026-09-03T15:30:47.372Z",
+      "lastSuccess": "2026-09-03T23:23:49.956Z",
       "error": null
     },
     {
@@ -2605,7 +2693,7 @@
       "url": "https://www.miamibeachconvention.com/events",
       "ok": true,
       "mode": "reader",
-      "lastSuccess": "2026-09-03T15:31:27.291Z",
+      "lastSuccess": "2026-09-03T23:24:21.862Z",
       "error": null
     },
     {
@@ -2615,7 +2703,7 @@
       "url": "https://www.visitsandiego.com/calendar?page=1",
       "ok": true,
       "mode": "reader",
-      "lastSuccess": "2026-09-03T15:31:34.211Z",
+      "lastSuccess": "2026-09-03T23:24:25.634Z",
       "error": null
     },
     {
@@ -2625,7 +2713,7 @@
       "url": "https://www.visitanaheim.org/listing/anaheim-convention-center/2959/",
       "ok": true,
       "mode": "reader",
-      "lastSuccess": "2026-09-03T15:31:44.058Z",
+      "lastSuccess": "2026-09-03T23:24:33.652Z",
       "error": null
     },
     {
@@ -2635,7 +2723,7 @@
       "url": "https://events.occc.net/",
       "ok": true,
       "mode": "direct",
-      "lastSuccess": "2026-09-03T15:31:53.917Z",
+      "lastSuccess": "2026-09-03T23:24:42.817Z",
       "error": null
     },
     {
@@ -2645,7 +2733,7 @@
       "url": "https://www.vegasmeansbusiness.com/destination-calendar/",
       "ok": true,
       "mode": "reader",
-      "lastSuccess": "2026-09-03T15:32:01.545Z",
+      "lastSuccess": "2026-09-03T23:24:52.180Z",
       "error": null
     },
     {
@@ -2655,7 +2743,7 @@
       "url": "https://www.choosechicago.com/meeting-planners/chicago-updates-for-meeting-planners/chicago-convention-calendar/",
       "ok": true,
       "mode": "direct",
-      "lastSuccess": "2026-09-03T15:32:01.758Z",
+      "lastSuccess": "2026-09-03T23:24:53.333Z",
       "error": null
     },
     {
