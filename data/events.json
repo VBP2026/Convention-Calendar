@@ -1,39 +1,6 @@
 {
-  "updatedAt": "2026-09-06T23:26:16.811Z",
+  "updatedAt": "2026-09-07T07:31:15.799Z",
   "events": [
-    {
-      "title": "ELVIS Bowling Tournament 2026",
-      "city": "Las Vegas",
-      "venue": "Sam's Town Hotel and Gambling Hall",
-      "startDate": "2026-09-04",
-      "endDate": "2026-09-06",
-      "category": "Convention / Trade Show",
-      "attendance": 200,
-      "sourceKey": "vegas",
-      "sourceUrl": "https://www.vegasmeansbusiness.com/destination-calendar/"
-    },
-    {
-      "title": "ANIME SAN DIEGO 2026",
-      "city": "San Diego",
-      "venue": "San Diego Convention Center",
-      "startDate": "2026-09-05",
-      "endDate": "2026-09-06",
-      "category": "Consumer Show",
-      "attendance": 14000,
-      "sourceKey": "sandiego",
-      "sourceUrl": "https://www.visitsandiego.com/calendar?page=1"
-    },
-    {
-      "title": "The Grimoire Exhibition 2026",
-      "city": "Las Vegas",
-      "venue": "Las Vegas Convention Center",
-      "startDate": "2026-09-05",
-      "endDate": "2026-09-06",
-      "category": "Convention / Trade Show",
-      "attendance": 3000,
-      "sourceKey": "vegas",
-      "sourceUrl": "https://www.vegasmeansbusiness.com/destination-calendar/"
-    },
     {
       "title": "Northwest Anesthesia Seminars - 2026 Topics in Anesthesia",
       "city": "Las Vegas",
@@ -2705,7 +2672,7 @@
       "url": "https://www.dallasconventioncenter.com/events",
       "ok": true,
       "mode": "reader",
-      "lastSuccess": "2026-09-06T23:25:25.957Z",
+      "lastSuccess": "2026-09-07T07:30:13.719Z",
       "error": null
     },
     {
@@ -2715,7 +2682,7 @@
       "url": "https://www.miamibeachconvention.com/events",
       "ok": true,
       "mode": "reader",
-      "lastSuccess": "2026-09-06T23:25:52.163Z",
+      "lastSuccess": "2026-09-07T07:30:42.379Z",
       "error": null
     },
     {
@@ -2725,7 +2692,7 @@
       "url": "https://www.visitsandiego.com/calendar?page=1",
       "ok": true,
       "mode": "reader",
-      "lastSuccess": "2026-09-06T23:25:57.289Z",
+      "lastSuccess": "2026-09-07T07:30:45.405Z",
       "error": null
     },
     {
@@ -2735,7 +2702,7 @@
       "url": "https://www.visitanaheim.org/listing/anaheim-convention-center/2959/",
       "ok": true,
       "mode": "reader",
-      "lastSuccess": "2026-09-06T23:26:04.884Z",
+      "lastSuccess": "2026-09-07T07:30:53.276Z",
       "error": null
     },
     {
@@ -2745,7 +2712,7 @@
       "url": "https://events.occc.net/",
       "ok": true,
       "mode": "direct",
-      "lastSuccess": "2026-09-06T23:26:06.720Z",
+      "lastSuccess": "2026-09-07T07:31:04.061Z",
       "error": null
     },
     {
@@ -2755,7 +2722,7 @@
       "url": "https://www.vegasmeansbusiness.com/destination-calendar/",
       "ok": true,
       "mode": "reader",
-      "lastSuccess": "2026-09-06T23:26:14.059Z",
+      "lastSuccess": "2026-09-07T07:31:12.522Z",
       "error": null
     },
     {
@@ -2765,7 +2732,7 @@
       "url": "https://www.choosechicago.com/meeting-planners/chicago-updates-for-meeting-planners/chicago-convention-calendar/",
       "ok": true,
       "mode": "direct",
-      "lastSuccess": "2026-09-06T23:26:15.096Z",
+      "lastSuccess": "2026-09-07T07:31:13.529Z",
       "error": null
     },
     {
