@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-07T23:26:42.196Z",
+  "updatedAt": "2026-09-08T07:31:40.719Z",
   "events": [
     {
       "title": "Northwest Anesthesia Seminars - 2026 Topics in Anesthesia",
@@ -2694,7 +2694,7 @@
       "url": "https://www.dallasconventioncenter.com/events",
       "ok": true,
       "mode": "reader",
-      "lastSuccess": "2026-09-07T23:25:44.141Z",
+      "lastSuccess": "2026-09-08T07:29:30.148Z",
       "error": null
     },
     {
@@ -2704,7 +2704,7 @@
       "url": "https://www.miamibeachconvention.com/events",
       "ok": true,
       "mode": "reader",
-      "lastSuccess": "2026-09-07T23:26:09.268Z",
+      "lastSuccess": "2026-09-08T07:30:48.472Z",
       "error": null
     },
     {
@@ -2714,7 +2714,7 @@
       "url": "https://www.visitsandiego.com/calendar?page=1",
       "ok": true,
       "mode": "reader",
-      "lastSuccess": "2026-09-07T23:26:12.222Z",
+      "lastSuccess": "2026-09-08T07:30:56.576Z",
       "error": null
     },
     {
@@ -2724,7 +2724,7 @@
       "url": "https://www.visitanaheim.org/listing/anaheim-convention-center/2959/",
       "ok": true,
       "mode": "reader",
-      "lastSuccess": "2026-09-07T23:26:20.983Z",
+      "lastSuccess": "2026-09-08T07:31:16.734Z",
       "error": null
     },
     {
@@ -2734,7 +2734,7 @@
       "url": "https://events.occc.net/",
       "ok": true,
       "mode": "direct",
-      "lastSuccess": "2026-09-07T23:26:31.572Z",
+      "lastSuccess": "2026-09-08T07:31:24.720Z",
       "error": null
     },
     {
@@ -2745,7 +2745,7 @@
       "ok": false,
       "mode": "fallback",
       "lastSuccess": "2026-09-07T15:29:24.738Z",
-      "error": "Rendered page contained no parsable upcoming events"
+      "error": "HTTP 500"
     },
     {
       "key": "chicago",
@@ -2754,7 +2754,7 @@
       "url": "https://www.choosechicago.com/meeting-planners/chicago-updates-for-meeting-planners/chicago-convention-calendar/",
       "ok": true,
       "mode": "direct",
-      "lastSuccess": "2026-09-07T23:26:40.771Z",
+      "lastSuccess": "2026-09-08T07:31:25.975Z",
       "error": null
     },
     {
