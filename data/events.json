@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-08T07:31:40.719Z",
+  "updatedAt": "2026-09-08T15:32:35.358Z",
   "events": [
     {
       "title": "Northwest Anesthesia Seminars - 2026 Topics in Anesthesia",
@@ -2694,7 +2694,7 @@
       "url": "https://www.dallasconventioncenter.com/events",
       "ok": true,
       "mode": "reader",
-      "lastSuccess": "2026-09-08T07:29:30.148Z",
+      "lastSuccess": "2026-09-08T15:31:11.316Z",
       "error": null
     },
     {
@@ -2704,7 +2704,7 @@
       "url": "https://www.miamibeachconvention.com/events",
       "ok": true,
       "mode": "reader",
-      "lastSuccess": "2026-09-08T07:30:48.472Z",
+      "lastSuccess": "2026-09-08T15:31:49.470Z",
       "error": null
     },
     {
@@ -2714,7 +2714,7 @@
       "url": "https://www.visitsandiego.com/calendar?page=1",
       "ok": true,
       "mode": "reader",
-      "lastSuccess": "2026-09-08T07:30:56.576Z",
+      "lastSuccess": "2026-09-08T15:31:52.998Z",
       "error": null
     },
     {
@@ -2722,10 +2722,10 @@
       "city": "Anaheim",
       "venue": "Anaheim Convention Center",
       "url": "https://www.visitanaheim.org/listing/anaheim-convention-center/2959/",
-      "ok": true,
-      "mode": "reader",
+      "ok": false,
+      "mode": "fallback",
       "lastSuccess": "2026-09-08T07:31:16.734Z",
-      "error": null
+      "error": "Rendered page contained no parsable upcoming events"
     },
     {
       "key": "orlando",
@@ -2734,7 +2734,7 @@
       "url": "https://events.occc.net/",
       "ok": true,
       "mode": "direct",
-      "lastSuccess": "2026-09-08T07:31:24.720Z",
+      "lastSuccess": "2026-09-08T15:32:16.554Z",
       "error": null
     },
     {
@@ -2742,10 +2742,10 @@
       "city": "Las Vegas",
       "venue": "Las Vegas Convention Center",
       "url": "https://www.vegasmeansbusiness.com/destination-calendar/",
-      "ok": false,
-      "mode": "fallback",
-      "lastSuccess": "2026-09-07T15:29:24.738Z",
-      "error": "HTTP 500"
+      "ok": true,
+      "mode": "reader",
+      "lastSuccess": "2026-09-08T15:32:27.015Z",
+      "error": null
     },
     {
       "key": "chicago",
@@ -2754,7 +2754,7 @@
       "url": "https://www.choosechicago.com/meeting-planners/chicago-updates-for-meeting-planners/chicago-convention-calendar/",
       "ok": true,
       "mode": "direct",
-      "lastSuccess": "2026-09-08T07:31:25.975Z",
+      "lastSuccess": "2026-09-08T15:32:27.593Z",
       "error": null
     },
     {
