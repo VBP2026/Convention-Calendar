@@ -1,6 +1,17 @@
 {
-  "updatedAt": "2026-09-09T07:31:03.596Z",
+  "updatedAt": "2026-09-09T15:31:04.297Z",
   "events": [
+    {
+      "title": "Clark County Government - Public Sector Job Fair - September 2026",
+      "city": "Las Vegas",
+      "venue": "Las Vegas Convention Center",
+      "startDate": "2026-09-07",
+      "endDate": "2026-09-10",
+      "category": "Convention / Trade Show",
+      "attendance": 500,
+      "sourceKey": "vegas",
+      "sourceUrl": "https://www.vegasmeansbusiness.com/destination-calendar/"
+    },
     {
       "title": "Northwest Anesthesia Seminars - 2026 Topics in Anesthesia",
       "city": "Las Vegas",
@@ -55,17 +66,6 @@
       "attendance": 2000,
       "sourceKey": "sandiego",
       "sourceUrl": "https://www.visitsandiego.com/calendar?page=1"
-    },
-    {
-      "title": "Clark County Government - Public Sector Job Fair - September 2026",
-      "city": "Las Vegas",
-      "venue": "Las Vegas Convention Center",
-      "startDate": "2026-09-09",
-      "endDate": "2026-09-13",
-      "category": "Convention / Trade Show",
-      "attendance": 500,
-      "sourceKey": "vegas",
-      "sourceUrl": "https://www.vegasmeansbusiness.com/destination-calendar/"
     },
     {
       "title": "FAN EXPO Dallas 2026",
@@ -2705,7 +2705,7 @@
       "url": "https://www.dallasconventioncenter.com/events",
       "ok": true,
       "mode": "reader",
-      "lastSuccess": "2026-09-09T07:30:05.173Z",
+      "lastSuccess": "2026-09-09T15:29:57.479Z",
       "error": null
     },
     {
@@ -2715,7 +2715,7 @@
       "url": "https://www.miamibeachconvention.com/events",
       "ok": true,
       "mode": "reader",
-      "lastSuccess": "2026-09-09T07:30:32.820Z",
+      "lastSuccess": "2026-09-09T15:30:32.250Z",
       "error": null
     },
     {
@@ -2725,7 +2725,7 @@
       "url": "https://www.visitsandiego.com/calendar?page=1",
       "ok": true,
       "mode": "reader",
-      "lastSuccess": "2026-09-09T07:30:35.513Z",
+      "lastSuccess": "2026-09-09T15:30:37.031Z",
       "error": null
     },
     {
@@ -2735,7 +2735,7 @@
       "url": "https://www.visitanaheim.org/listing/anaheim-convention-center/2959/",
       "ok": true,
       "mode": "reader",
-      "lastSuccess": "2026-09-09T07:30:43.549Z",
+      "lastSuccess": "2026-09-09T15:30:44.726Z",
       "error": null
     },
     {
@@ -2745,7 +2745,7 @@
       "url": "https://events.occc.net/",
       "ok": true,
       "mode": "direct",
-      "lastSuccess": "2026-09-09T07:30:53.873Z",
+      "lastSuccess": "2026-09-09T15:30:53.512Z",
       "error": null
     },
     {
@@ -2753,10 +2753,10 @@
       "city": "Las Vegas",
       "venue": "Las Vegas Convention Center",
       "url": "https://www.vegasmeansbusiness.com/destination-calendar/",
-      "ok": false,
-      "mode": "fallback",
-      "lastSuccess": "2026-09-08T23:26:56.741Z",
-      "error": "Rendered page contained no parsable upcoming events"
+      "ok": true,
+      "mode": "reader",
+      "lastSuccess": "2026-09-09T15:31:00.425Z",
+      "error": null
     },
     {
       "key": "chicago",
@@ -2765,7 +2765,7 @@
       "url": "https://www.choosechicago.com/meeting-planners/chicago-updates-for-meeting-planners/chicago-convention-calendar/",
       "ok": true,
       "mode": "direct",
-      "lastSuccess": "2026-09-09T07:31:01.647Z",
+      "lastSuccess": "2026-09-09T15:31:01.028Z",
       "error": null
     },
     {
