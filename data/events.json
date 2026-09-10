@@ -1,17 +1,6 @@
 {
-  "updatedAt": "2026-09-10T07:30:35.349Z",
+  "updatedAt": "2026-09-10T15:30:26.664Z",
   "events": [
-    {
-      "title": "Clark County Government - Public Sector Job Fair - September 2026",
-      "city": "Las Vegas",
-      "venue": "Las Vegas Convention Center",
-      "startDate": "2026-09-07",
-      "endDate": "2026-09-10",
-      "category": "Convention / Trade Show",
-      "attendance": 500,
-      "sourceKey": "vegas",
-      "sourceUrl": "https://www.vegasmeansbusiness.com/destination-calendar/"
-    },
     {
       "title": "Northwest Anesthesia Seminars - 2026 Topics in Anesthesia",
       "city": "Las Vegas",
@@ -418,6 +407,17 @@
       "attendance": null,
       "sourceKey": "orlando",
       "sourceUrl": "https://events.occc.net/event/doterra-global-conve/870/"
+    },
+    {
+      "title": "Printing United Exposition 2026",
+      "city": "Las Vegas",
+      "venue": "Las Vegas Convention Center",
+      "startDate": "2026-09-23",
+      "endDate": "2026-09-25",
+      "category": "Convention / Trade Show",
+      "attendance": 30000,
+      "sourceKey": "vegas",
+      "sourceUrl": "https://www.vegasmeansbusiness.com/destination-calendar/"
     },
     {
       "title": "Glassbuild America 2026",
@@ -2694,7 +2694,7 @@
       "url": "https://www.dallasconventioncenter.com/events",
       "ok": true,
       "mode": "reader",
-      "lastSuccess": "2026-09-10T07:29:38.780Z",
+      "lastSuccess": "2026-09-10T15:29:26.168Z",
       "error": null
     },
     {
@@ -2704,7 +2704,7 @@
       "url": "https://www.miamibeachconvention.com/events",
       "ok": true,
       "mode": "reader",
-      "lastSuccess": "2026-09-10T07:30:05.816Z",
+      "lastSuccess": "2026-09-10T15:30:00.091Z",
       "error": null
     },
     {
@@ -2714,7 +2714,7 @@
       "url": "https://www.visitsandiego.com/calendar?page=1",
       "ok": true,
       "mode": "reader",
-      "lastSuccess": "2026-09-10T07:30:12.714Z",
+      "lastSuccess": "2026-09-10T15:30:04.017Z",
       "error": null
     },
     {
@@ -2734,7 +2734,7 @@
       "url": "https://events.occc.net/",
       "ok": true,
       "mode": "direct",
-      "lastSuccess": "2026-09-10T07:30:27.877Z",
+      "lastSuccess": "2026-09-10T15:30:15.780Z",
       "error": null
     },
     {
@@ -2744,7 +2744,7 @@
       "url": "https://www.vegasmeansbusiness.com/destination-calendar/",
       "ok": true,
       "mode": "reader",
-      "lastSuccess": "2026-09-10T07:30:32.705Z",
+      "lastSuccess": "2026-09-10T15:30:23.000Z",
       "error": null
     },
     {
@@ -2754,7 +2754,7 @@
       "url": "https://www.choosechicago.com/meeting-planners/chicago-updates-for-meeting-planners/chicago-convention-calendar/",
       "ok": true,
       "mode": "direct",
-      "lastSuccess": "2026-09-10T07:30:33.569Z",
+      "lastSuccess": "2026-09-10T15:30:23.911Z",
       "error": null
     },
     {
