@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-09T23:26:55.581Z",
+  "updatedAt": "2026-09-10T07:30:35.349Z",
   "events": [
     {
       "title": "Clark County Government - Public Sector Job Fair - September 2026",
@@ -33,17 +33,6 @@
       "attendance": null,
       "sourceKey": "orlando",
       "sourceUrl": "https://events.occc.net/event/national-baptist-convention-annual-session/859/"
-    },
-    {
-      "title": "JCTrans 2026 US Regional Conference",
-      "city": "Las Vegas",
-      "venue": "The Venetian Resort Las Vegas",
-      "startDate": "2026-09-08",
-      "endDate": "2026-09-09",
-      "category": "Convention / Trade Show",
-      "attendance": 300,
-      "sourceKey": "vegas",
-      "sourceUrl": "https://www.vegasmeansbusiness.com/destination-calendar/"
     },
     {
       "title": "National Association of Hispanic Real Estate Professionals National Convention 2026",
@@ -2705,7 +2694,7 @@
       "url": "https://www.dallasconventioncenter.com/events",
       "ok": true,
       "mode": "reader",
-      "lastSuccess": "2026-09-09T23:25:59.435Z",
+      "lastSuccess": "2026-09-10T07:29:38.780Z",
       "error": null
     },
     {
@@ -2715,7 +2704,7 @@
       "url": "https://www.miamibeachconvention.com/events",
       "ok": true,
       "mode": "reader",
-      "lastSuccess": "2026-09-09T23:26:29.933Z",
+      "lastSuccess": "2026-09-10T07:30:05.816Z",
       "error": null
     },
     {
@@ -2725,7 +2714,7 @@
       "url": "https://www.visitsandiego.com/calendar?page=1",
       "ok": true,
       "mode": "reader",
-      "lastSuccess": "2026-09-09T23:26:32.994Z",
+      "lastSuccess": "2026-09-10T07:30:12.714Z",
       "error": null
     },
     {
@@ -2733,10 +2722,10 @@
       "city": "Anaheim",
       "venue": "Anaheim Convention Center",
       "url": "https://www.visitanaheim.org/listing/anaheim-convention-center/2959/",
-      "ok": true,
-      "mode": "reader",
+      "ok": false,
+      "mode": "fallback",
       "lastSuccess": "2026-09-09T23:26:40.681Z",
-      "error": null
+      "error": "Rendered page contained no parsable upcoming events"
     },
     {
       "key": "orlando",
@@ -2745,7 +2734,7 @@
       "url": "https://events.occc.net/",
       "ok": true,
       "mode": "direct",
-      "lastSuccess": "2026-09-09T23:26:42.463Z",
+      "lastSuccess": "2026-09-10T07:30:27.877Z",
       "error": null
     },
     {
@@ -2755,7 +2744,7 @@
       "url": "https://www.vegasmeansbusiness.com/destination-calendar/",
       "ok": true,
       "mode": "reader",
-      "lastSuccess": "2026-09-09T23:26:52.410Z",
+      "lastSuccess": "2026-09-10T07:30:32.705Z",
       "error": null
     },
     {
@@ -2765,7 +2754,7 @@
       "url": "https://www.choosechicago.com/meeting-planners/chicago-updates-for-meeting-planners/chicago-convention-calendar/",
       "ok": true,
       "mode": "direct",
-      "lastSuccess": "2026-09-09T23:26:53.718Z",
+      "lastSuccess": "2026-09-10T07:30:33.569Z",
       "error": null
     },
     {
