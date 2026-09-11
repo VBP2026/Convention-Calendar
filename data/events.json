@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-11T15:29:21.778Z",
+  "updatedAt": "2026-09-11T23:25:52.372Z",
   "events": [
     {
       "title": "National Baptist Convention Annual Session",
@@ -33,6 +33,17 @@
       "attendance": 2000,
       "sourceKey": "sandiego",
       "sourceUrl": "https://www.visitsandiego.com/calendar?page=1"
+    },
+    {
+      "title": "California Mortgage Bankers Association - Annual Western States CREF Conference 2026",
+      "city": "Las Vegas",
+      "venue": "ARIA Resort & Casino",
+      "startDate": "2026-09-09",
+      "endDate": "2026-09-11",
+      "category": "Convention / Trade Show",
+      "attendance": 900,
+      "sourceKey": "vegas",
+      "sourceUrl": "https://www.vegasmeansbusiness.com/destination-calendar/"
     },
     {
       "title": "FAN EXPO Dallas 2026",
@@ -484,17 +495,6 @@
       "attendance": null,
       "sourceKey": "dallas",
       "sourceUrl": "https://www.dallasconventioncenter.com/events"
-    },
-    {
-      "title": "AFLA 2026 Corporate Fleet Conference",
-      "city": "Las Vegas",
-      "venue": "JW Marriott Las Vegas Resort & Spa",
-      "startDate": "2026-09-27",
-      "endDate": "2026-09-30",
-      "category": "Convention / Trade Show",
-      "attendance": 500,
-      "sourceKey": "vegas",
-      "sourceUrl": "https://www.vegasmeansbusiness.com/destination-calendar/"
     },
     {
       "title": "SIBOS 2026",
@@ -2235,6 +2235,17 @@
       "sourceUrl": "https://events.occc.net/event/orlando-boat-show/956/"
     },
     {
+      "title": "Orlando Home & Garden Spring 2027",
+      "city": "Orlando",
+      "venue": "Orange County Convention Center",
+      "startDate": "2027-03-12",
+      "endDate": "2027-03-14",
+      "category": "Event",
+      "attendance": null,
+      "sourceKey": "orlando",
+      "sourceUrl": "https://events.occc.net/event/orlando-home-%26-garden-spring-2027/959/"
+    },
+    {
       "title": "SCCM 2027 CRITICAL CARE CONGRESS",
       "city": "San Diego",
       "venue": "San Diego Convention Center",
@@ -2255,6 +2266,17 @@
       "attendance": 1000,
       "sourceKey": "sandiego",
       "sourceUrl": "https://www.visitsandiego.com/calendar?page=1"
+    },
+    {
+      "title": "Global Pet Expo 2027",
+      "city": "Orlando",
+      "venue": "Orange County Convention Center",
+      "startDate": "2027-03-17",
+      "endDate": "2027-03-19",
+      "category": "Event",
+      "attendance": null,
+      "sourceKey": "orlando",
+      "sourceUrl": "https://events.occc.net/event/global-pet-expo-2027/958/"
     },
     {
       "title": "CONFERENCE ON RETROVIRUSES AND OPPORTUNISTIC INFECTIONS (CROI) 2027",
@@ -2716,7 +2738,7 @@
       "url": "https://www.dallasconventioncenter.com/events",
       "ok": true,
       "mode": "reader",
-      "lastSuccess": "2026-09-11T15:28:05.445Z",
+      "lastSuccess": "2026-09-11T23:24:53.736Z",
       "error": null
     },
     {
@@ -2726,7 +2748,7 @@
       "url": "https://www.miamibeachconvention.com/events",
       "ok": true,
       "mode": "reader",
-      "lastSuccess": "2026-09-11T15:28:51.223Z",
+      "lastSuccess": "2026-09-11T23:25:31.255Z",
       "error": null
     },
     {
@@ -2736,7 +2758,7 @@
       "url": "https://www.visitsandiego.com/calendar?page=1",
       "ok": true,
       "mode": "reader",
-      "lastSuccess": "2026-09-11T15:28:56.939Z",
+      "lastSuccess": "2026-09-11T23:25:33.934Z",
       "error": null
     },
     {
@@ -2744,10 +2766,10 @@
       "city": "Anaheim",
       "venue": "Anaheim Convention Center",
       "url": "https://www.visitanaheim.org/listing/anaheim-convention-center/2959/",
-      "ok": false,
-      "mode": "fallback",
-      "lastSuccess": "2026-09-11T07:29:26.617Z",
-      "error": "Rendered page contained no parsable upcoming events"
+      "ok": true,
+      "mode": "reader",
+      "lastSuccess": "2026-09-11T23:25:40.873Z",
+      "error": null
     },
     {
       "key": "orlando",
@@ -2756,7 +2778,7 @@
       "url": "https://events.occc.net/",
       "ok": true,
       "mode": "direct",
-      "lastSuccess": "2026-09-11T15:29:12.511Z",
+      "lastSuccess": "2026-09-11T23:25:42.040Z",
       "error": null
     },
     {
@@ -2766,7 +2788,7 @@
       "url": "https://www.vegasmeansbusiness.com/destination-calendar/",
       "ok": true,
       "mode": "reader",
-      "lastSuccess": "2026-09-11T15:29:19.709Z",
+      "lastSuccess": "2026-09-11T23:25:49.878Z",
       "error": null
     },
     {
@@ -2776,7 +2798,7 @@
       "url": "https://www.choosechicago.com/meeting-planners/chicago-updates-for-meeting-planners/chicago-convention-calendar/",
       "ok": true,
       "mode": "direct",
-      "lastSuccess": "2026-09-11T15:29:19.945Z",
+      "lastSuccess": "2026-09-11T23:25:50.499Z",
       "error": null
     },
     {
