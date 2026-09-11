@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-11T07:29:47.592Z",
+  "updatedAt": "2026-09-11T15:29:21.778Z",
   "events": [
     {
       "title": "National Baptist Convention Annual Session",
@@ -431,6 +431,17 @@
       "sourceUrl": "https://events.occc.net/event/aromatools-pop-up-ev/953/"
     },
     {
+      "title": "The Olympia Fitness and Performance Weekend 2026",
+      "city": "Las Vegas",
+      "venue": "Las Vegas Convention Center",
+      "startDate": "2026-09-24",
+      "endDate": "2026-09-27",
+      "category": "Convention / Trade Show",
+      "attendance": 25000,
+      "sourceKey": "vegas",
+      "sourceUrl": "https://www.vegasmeansbusiness.com/destination-calendar/"
+    },
+    {
       "title": "Taiwan EXPO USA 2026",
       "city": "Dallas",
       "venue": "Kay Bailey Hutchison Convention Center Dallas",
@@ -473,6 +484,17 @@
       "attendance": null,
       "sourceKey": "dallas",
       "sourceUrl": "https://www.dallasconventioncenter.com/events"
+    },
+    {
+      "title": "AFLA 2026 Corporate Fleet Conference",
+      "city": "Las Vegas",
+      "venue": "JW Marriott Las Vegas Resort & Spa",
+      "startDate": "2026-09-27",
+      "endDate": "2026-09-30",
+      "category": "Convention / Trade Show",
+      "attendance": 500,
+      "sourceKey": "vegas",
+      "sourceUrl": "https://www.vegasmeansbusiness.com/destination-calendar/"
     },
     {
       "title": "SIBOS 2026",
@@ -2694,7 +2716,7 @@
       "url": "https://www.dallasconventioncenter.com/events",
       "ok": true,
       "mode": "reader",
-      "lastSuccess": "2026-09-11T07:28:48.615Z",
+      "lastSuccess": "2026-09-11T15:28:05.445Z",
       "error": null
     },
     {
@@ -2704,7 +2726,7 @@
       "url": "https://www.miamibeachconvention.com/events",
       "ok": true,
       "mode": "reader",
-      "lastSuccess": "2026-09-11T07:29:16.806Z",
+      "lastSuccess": "2026-09-11T15:28:51.223Z",
       "error": null
     },
     {
@@ -2714,7 +2736,7 @@
       "url": "https://www.visitsandiego.com/calendar?page=1",
       "ok": true,
       "mode": "reader",
-      "lastSuccess": "2026-09-11T07:29:19.277Z",
+      "lastSuccess": "2026-09-11T15:28:56.939Z",
       "error": null
     },
     {
@@ -2722,10 +2744,10 @@
       "city": "Anaheim",
       "venue": "Anaheim Convention Center",
       "url": "https://www.visitanaheim.org/listing/anaheim-convention-center/2959/",
-      "ok": true,
-      "mode": "reader",
+      "ok": false,
+      "mode": "fallback",
       "lastSuccess": "2026-09-11T07:29:26.617Z",
-      "error": null
+      "error": "Rendered page contained no parsable upcoming events"
     },
     {
       "key": "orlando",
@@ -2734,7 +2756,7 @@
       "url": "https://events.occc.net/",
       "ok": true,
       "mode": "direct",
-      "lastSuccess": "2026-09-11T07:29:36.141Z",
+      "lastSuccess": "2026-09-11T15:29:12.511Z",
       "error": null
     },
     {
@@ -2744,7 +2766,7 @@
       "url": "https://www.vegasmeansbusiness.com/destination-calendar/",
       "ok": true,
       "mode": "reader",
-      "lastSuccess": "2026-09-11T07:29:43.032Z",
+      "lastSuccess": "2026-09-11T15:29:19.709Z",
       "error": null
     },
     {
@@ -2754,7 +2776,7 @@
       "url": "https://www.choosechicago.com/meeting-planners/chicago-updates-for-meeting-planners/chicago-convention-calendar/",
       "ok": true,
       "mode": "direct",
-      "lastSuccess": "2026-09-11T07:29:43.222Z",
+      "lastSuccess": "2026-09-11T15:29:19.945Z",
       "error": null
     },
     {
