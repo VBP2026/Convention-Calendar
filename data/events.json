@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-12T15:26:51.380Z",
+  "updatedAt": "2026-09-12T23:26:20.236Z",
   "events": [
     {
       "title": "National Association of Hispanic Real Estate Professionals National Convention 2026",
@@ -464,6 +464,17 @@
       "sourceUrl": "https://www.dallasconventioncenter.com/events"
     },
     {
+      "title": "AFLA 2026 Corporate Fleet Conference",
+      "city": "Las Vegas",
+      "venue": "JW Marriott Las Vegas Resort & Spa",
+      "startDate": "2026-09-27",
+      "endDate": "2026-09-30",
+      "category": "Convention / Trade Show",
+      "attendance": 500,
+      "sourceKey": "vegas",
+      "sourceUrl": "https://www.vegasmeansbusiness.com/destination-calendar/"
+    },
+    {
       "title": "SIBOS 2026",
       "city": "Miami Beach",
       "venue": "Miami Beach Convention Center",
@@ -704,6 +715,17 @@
       "attendance": null,
       "sourceKey": "miami",
       "sourceUrl": "https://www.miamibeachconvention.com/events"
+    },
+    {
+      "title": "Herzing University Florida Nurse Pinning and Commencement",
+      "city": "Orlando",
+      "venue": "Orange County Convention Center",
+      "startDate": "2026-10-09",
+      "endDate": "2026-10-09",
+      "category": "Event",
+      "attendance": null,
+      "sourceKey": "orlando",
+      "sourceUrl": "https://events.occc.net/event/herzing-university-florida-nurse-pinning-and-commencement/961/"
     },
     {
       "title": "USA Fencing Association 2026",
@@ -2180,6 +2202,17 @@
       "sourceUrl": "https://www.miamibeachconvention.com/events"
     },
     {
+      "title": "AAU Spring Tournamen",
+      "city": "Orlando",
+      "venue": "Orange County Convention Center",
+      "startDate": "2027-03-12",
+      "endDate": "2027-03-14",
+      "category": "Event",
+      "attendance": null,
+      "sourceKey": "orlando",
+      "sourceUrl": "https://events.occc.net/event/aau-spring-tournamen/960/"
+    },
+    {
       "title": "American College of",
       "city": "Orlando",
       "venue": "Orange County Convention Center",
@@ -2705,7 +2738,7 @@
       "url": "https://www.dallasconventioncenter.com/events",
       "ok": true,
       "mode": "reader",
-      "lastSuccess": "2026-09-12T15:25:57.654Z",
+      "lastSuccess": "2026-09-12T23:25:19.226Z",
       "error": null
     },
     {
@@ -2715,7 +2748,7 @@
       "url": "https://www.miamibeachconvention.com/events",
       "ok": true,
       "mode": "reader",
-      "lastSuccess": "2026-09-12T15:26:26.683Z",
+      "lastSuccess": "2026-09-12T23:25:47.498Z",
       "error": null
     },
     {
@@ -2725,7 +2758,7 @@
       "url": "https://www.visitsandiego.com/calendar?page=1",
       "ok": true,
       "mode": "reader",
-      "lastSuccess": "2026-09-12T15:26:29.166Z",
+      "lastSuccess": "2026-09-12T23:25:53.074Z",
       "error": null
     },
     {
@@ -2733,10 +2766,10 @@
       "city": "Anaheim",
       "venue": "Anaheim Convention Center",
       "url": "https://www.visitanaheim.org/listing/anaheim-convention-center/2959/",
-      "ok": true,
-      "mode": "reader",
+      "ok": false,
+      "mode": "fallback",
       "lastSuccess": "2026-09-12T15:26:36.496Z",
-      "error": null
+      "error": "Rendered page contained no parsable upcoming events"
     },
     {
       "key": "orlando",
@@ -2745,7 +2778,7 @@
       "url": "https://events.occc.net/",
       "ok": true,
       "mode": "direct",
-      "lastSuccess": "2026-09-12T15:26:44.155Z",
+      "lastSuccess": "2026-09-12T23:26:09.316Z",
       "error": null
     },
     {
@@ -2753,10 +2786,10 @@
       "city": "Las Vegas",
       "venue": "Las Vegas Convention Center",
       "url": "https://www.vegasmeansbusiness.com/destination-calendar/",
-      "ok": false,
-      "mode": "fallback",
-      "lastSuccess": "2026-09-11T23:25:49.878Z",
-      "error": "Rendered page contained no parsable upcoming events"
+      "ok": true,
+      "mode": "reader",
+      "lastSuccess": "2026-09-12T23:26:18.228Z",
+      "error": null
     },
     {
       "key": "chicago",
@@ -2765,7 +2798,7 @@
       "url": "https://www.choosechicago.com/meeting-planners/chicago-updates-for-meeting-planners/chicago-convention-calendar/",
       "ok": true,
       "mode": "direct",
-      "lastSuccess": "2026-09-12T15:26:49.944Z",
+      "lastSuccess": "2026-09-12T23:26:18.403Z",
       "error": null
     },
     {
