@@ -1,17 +1,6 @@
 {
-  "updatedAt": "2026-09-11T23:25:52.372Z",
+  "updatedAt": "2026-09-12T07:26:36.358Z",
   "events": [
-    {
-      "title": "National Baptist Convention Annual Session",
-      "city": "Orlando",
-      "venue": "Orange County Convention Center",
-      "startDate": "2026-09-07",
-      "endDate": "2026-09-11",
-      "category": "Event",
-      "attendance": null,
-      "sourceKey": "orlando",
-      "sourceUrl": "https://events.occc.net/event/national-baptist-convention-annual-session/859/"
-    },
     {
       "title": "National Association of Hispanic Real Estate Professionals National Convention 2026",
       "city": "Las Vegas",
@@ -24,32 +13,10 @@
       "sourceUrl": "https://www.vegasmeansbusiness.com/destination-calendar/"
     },
     {
-      "title": "10TH ANNUAL WELLNESS TOGETHER CONFERENCE",
-      "city": "San Diego",
-      "venue": "San Diego Convention Center",
-      "startDate": "2026-09-09",
-      "endDate": "2026-09-11",
-      "category": "Convention with Trade Show",
-      "attendance": 2000,
-      "sourceKey": "sandiego",
-      "sourceUrl": "https://www.visitsandiego.com/calendar?page=1"
-    },
-    {
-      "title": "California Mortgage Bankers Association - Annual Western States CREF Conference 2026",
-      "city": "Las Vegas",
-      "venue": "ARIA Resort & Casino",
-      "startDate": "2026-09-09",
-      "endDate": "2026-09-11",
-      "category": "Convention / Trade Show",
-      "attendance": 900,
-      "sourceKey": "vegas",
-      "sourceUrl": "https://www.vegasmeansbusiness.com/destination-calendar/"
-    },
-    {
       "title": "FAN EXPO Dallas 2026",
       "city": "Dallas",
       "venue": "Kay Bailey Hutchison Convention Center Dallas",
-      "startDate": "2026-09-11",
+      "startDate": "2026-09-12",
       "endDate": "2026-09-13",
       "category": "Consumer Show",
       "attendance": null,
@@ -2738,7 +2705,7 @@
       "url": "https://www.dallasconventioncenter.com/events",
       "ok": true,
       "mode": "reader",
-      "lastSuccess": "2026-09-11T23:24:53.736Z",
+      "lastSuccess": "2026-09-12T07:25:29.504Z",
       "error": null
     },
     {
@@ -2748,7 +2715,7 @@
       "url": "https://www.miamibeachconvention.com/events",
       "ok": true,
       "mode": "reader",
-      "lastSuccess": "2026-09-11T23:25:31.255Z",
+      "lastSuccess": "2026-09-12T07:26:00.331Z",
       "error": null
     },
     {
@@ -2758,7 +2725,7 @@
       "url": "https://www.visitsandiego.com/calendar?page=1",
       "ok": true,
       "mode": "reader",
-      "lastSuccess": "2026-09-11T23:25:33.934Z",
+      "lastSuccess": "2026-09-12T07:26:04.960Z",
       "error": null
     },
     {
@@ -2768,7 +2735,7 @@
       "url": "https://www.visitanaheim.org/listing/anaheim-convention-center/2959/",
       "ok": true,
       "mode": "reader",
-      "lastSuccess": "2026-09-11T23:25:40.873Z",
+      "lastSuccess": "2026-09-12T07:26:13.015Z",
       "error": null
     },
     {
@@ -2778,7 +2745,7 @@
       "url": "https://events.occc.net/",
       "ok": true,
       "mode": "direct",
-      "lastSuccess": "2026-09-11T23:25:42.040Z",
+      "lastSuccess": "2026-09-12T07:26:23.797Z",
       "error": null
     },
     {
@@ -2786,10 +2753,10 @@
       "city": "Las Vegas",
       "venue": "Las Vegas Convention Center",
       "url": "https://www.vegasmeansbusiness.com/destination-calendar/",
-      "ok": true,
-      "mode": "reader",
+      "ok": false,
+      "mode": "fallback",
       "lastSuccess": "2026-09-11T23:25:49.878Z",
-      "error": null
+      "error": "Rendered page contained no parsable upcoming events"
     },
     {
       "key": "chicago",
@@ -2798,7 +2765,7 @@
       "url": "https://www.choosechicago.com/meeting-planners/chicago-updates-for-meeting-planners/chicago-convention-calendar/",
       "ok": true,
       "mode": "direct",
-      "lastSuccess": "2026-09-11T23:25:50.499Z",
+      "lastSuccess": "2026-09-12T07:26:33.373Z",
       "error": null
     },
     {
