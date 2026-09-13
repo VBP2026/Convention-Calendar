@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-13T15:27:38.152Z",
+  "updatedAt": "2026-09-13T23:26:36.826Z",
   "events": [
     {
       "title": "National Association of Hispanic Real Estate Professionals National Convention 2026",
@@ -2727,7 +2727,7 @@
       "url": "https://www.dallasconventioncenter.com/events",
       "ok": true,
       "mode": "reader",
-      "lastSuccess": "2026-09-13T15:26:42.480Z",
+      "lastSuccess": "2026-09-13T23:25:29.760Z",
       "error": null
     },
     {
@@ -2737,7 +2737,7 @@
       "url": "https://www.miamibeachconvention.com/events",
       "ok": true,
       "mode": "reader",
-      "lastSuccess": "2026-09-13T15:27:07.214Z",
+      "lastSuccess": "2026-09-13T23:26:08.042Z",
       "error": null
     },
     {
@@ -2747,7 +2747,7 @@
       "url": "https://www.visitsandiego.com/calendar?page=1",
       "ok": true,
       "mode": "reader",
-      "lastSuccess": "2026-09-13T15:27:13.878Z",
+      "lastSuccess": "2026-09-13T23:26:11.128Z",
       "error": null
     },
     {
@@ -2755,10 +2755,10 @@
       "city": "Anaheim",
       "venue": "Anaheim Convention Center",
       "url": "https://www.visitanaheim.org/listing/anaheim-convention-center/2959/",
-      "ok": false,
-      "mode": "fallback",
-      "lastSuccess": "2026-09-12T15:26:36.496Z",
-      "error": "Rendered page contained no parsable upcoming events"
+      "ok": true,
+      "mode": "reader",
+      "lastSuccess": "2026-09-13T23:26:18.355Z",
+      "error": null
     },
     {
       "key": "orlando",
@@ -2767,7 +2767,7 @@
       "url": "https://events.occc.net/",
       "ok": true,
       "mode": "direct",
-      "lastSuccess": "2026-09-13T15:27:30.306Z",
+      "lastSuccess": "2026-09-13T23:26:27.121Z",
       "error": null
     },
     {
@@ -2777,7 +2777,7 @@
       "url": "https://www.vegasmeansbusiness.com/destination-calendar/",
       "ok": true,
       "mode": "reader",
-      "lastSuccess": "2026-09-13T15:27:36.137Z",
+      "lastSuccess": "2026-09-13T23:26:31.993Z",
       "error": null
     },
     {
@@ -2787,7 +2787,7 @@
       "url": "https://www.choosechicago.com/meeting-planners/chicago-updates-for-meeting-planners/chicago-convention-calendar/",
       "ok": true,
       "mode": "direct",
-      "lastSuccess": "2026-09-13T15:27:36.549Z",
+      "lastSuccess": "2026-09-13T23:26:32.354Z",
       "error": null
     },
     {
