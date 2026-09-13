@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-12T23:26:20.236Z",
+  "updatedAt": "2026-09-13T07:26:52.829Z",
   "events": [
     {
       "title": "National Association of Hispanic Real Estate Professionals National Convention 2026",
@@ -13,17 +13,6 @@
       "sourceUrl": "https://www.vegasmeansbusiness.com/destination-calendar/"
     },
     {
-      "title": "FAN EXPO Dallas 2026",
-      "city": "Dallas",
-      "venue": "Kay Bailey Hutchison Convention Center Dallas",
-      "startDate": "2026-09-12",
-      "endDate": "2026-09-13",
-      "category": "Consumer Show",
-      "attendance": null,
-      "sourceKey": "dallas",
-      "sourceUrl": "https://www.dallasconventioncenter.com/events"
-    },
-    {
       "title": "Blizzcon",
       "city": "Anaheim",
       "venue": "Anaheim Convention Center",
@@ -33,17 +22,6 @@
       "attendance": null,
       "sourceKey": "anaheim",
       "sourceUrl": "https://www.visitanaheim.org/listing/anaheim-convention-center/2959/"
-    },
-    {
-      "title": "Import Expo 2026",
-      "city": "Orlando",
-      "venue": "Orange County Convention Center",
-      "startDate": "2026-09-12",
-      "endDate": "2026-09-12",
-      "category": "Event",
-      "attendance": null,
-      "sourceKey": "orlando",
-      "sourceUrl": "https://events.occc.net/event/import-expo-2026/868/"
     },
     {
       "title": "25th Annual Anti-Money Laundering & Financial Crime Conference 2026",
@@ -66,6 +44,17 @@
       "attendance": 1200,
       "sourceKey": "vegas",
       "sourceUrl": "https://www.vegasmeansbusiness.com/destination-calendar/"
+    },
+    {
+      "title": "FAN EXPO Dallas 2026",
+      "city": "Dallas",
+      "venue": "Kay Bailey Hutchison Convention Center Dallas",
+      "startDate": "2026-09-13",
+      "endDate": "2026-09-13",
+      "category": "Consumer Show",
+      "attendance": null,
+      "sourceKey": "dallas",
+      "sourceUrl": "https://www.dallasconventioncenter.com/events"
     },
     {
       "title": "2026 NASDA Buyers Mission",
@@ -2738,7 +2727,7 @@
       "url": "https://www.dallasconventioncenter.com/events",
       "ok": true,
       "mode": "reader",
-      "lastSuccess": "2026-09-12T23:25:19.226Z",
+      "lastSuccess": "2026-09-13T07:25:58.270Z",
       "error": null
     },
     {
@@ -2748,7 +2737,7 @@
       "url": "https://www.miamibeachconvention.com/events",
       "ok": true,
       "mode": "reader",
-      "lastSuccess": "2026-09-12T23:25:47.498Z",
+      "lastSuccess": "2026-09-13T07:26:25.318Z",
       "error": null
     },
     {
@@ -2758,7 +2747,7 @@
       "url": "https://www.visitsandiego.com/calendar?page=1",
       "ok": true,
       "mode": "reader",
-      "lastSuccess": "2026-09-12T23:25:53.074Z",
+      "lastSuccess": "2026-09-13T07:26:28.663Z",
       "error": null
     },
     {
@@ -2778,7 +2767,7 @@
       "url": "https://events.occc.net/",
       "ok": true,
       "mode": "direct",
-      "lastSuccess": "2026-09-12T23:26:09.316Z",
+      "lastSuccess": "2026-09-13T07:26:44.485Z",
       "error": null
     },
     {
@@ -2788,7 +2777,7 @@
       "url": "https://www.vegasmeansbusiness.com/destination-calendar/",
       "ok": true,
       "mode": "reader",
-      "lastSuccess": "2026-09-12T23:26:18.228Z",
+      "lastSuccess": "2026-09-13T07:26:50.628Z",
       "error": null
     },
     {
@@ -2798,7 +2787,7 @@
       "url": "https://www.choosechicago.com/meeting-planners/chicago-updates-for-meeting-planners/chicago-convention-calendar/",
       "ok": true,
       "mode": "direct",
-      "lastSuccess": "2026-09-12T23:26:18.403Z",
+      "lastSuccess": "2026-09-13T07:26:51.388Z",
       "error": null
     },
     {
