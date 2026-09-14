@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-14T15:32:26.981Z",
+  "updatedAt": "2026-09-14T23:26:22.703Z",
   "events": [
     {
       "title": "Lowrider Las Vegas Super Show 2026",
@@ -2716,7 +2716,7 @@
       "url": "https://www.dallasconventioncenter.com/events",
       "ok": true,
       "mode": "reader",
-      "lastSuccess": "2026-09-14T15:31:24.458Z",
+      "lastSuccess": "2026-09-14T23:25:20.517Z",
       "error": null
     },
     {
@@ -2726,7 +2726,7 @@
       "url": "https://www.miamibeachconvention.com/events",
       "ok": true,
       "mode": "reader",
-      "lastSuccess": "2026-09-14T15:31:52.794Z",
+      "lastSuccess": "2026-09-14T23:25:49.702Z",
       "error": null
     },
     {
@@ -2736,7 +2736,7 @@
       "url": "https://www.visitsandiego.com/calendar?page=1",
       "ok": true,
       "mode": "reader",
-      "lastSuccess": "2026-09-14T15:31:55.759Z",
+      "lastSuccess": "2026-09-14T23:25:56.359Z",
       "error": null
     },
     {
@@ -2744,10 +2744,10 @@
       "city": "Anaheim",
       "venue": "Anaheim Convention Center",
       "url": "https://www.visitanaheim.org/listing/anaheim-convention-center/2959/",
-      "ok": false,
-      "mode": "fallback",
-      "lastSuccess": "2026-09-13T23:26:18.355Z",
-      "error": "Rendered page contained no parsable upcoming events"
+      "ok": true,
+      "mode": "reader",
+      "lastSuccess": "2026-09-14T23:26:04.861Z",
+      "error": null
     },
     {
       "key": "orlando",
@@ -2756,7 +2756,7 @@
       "url": "https://events.occc.net/",
       "ok": true,
       "mode": "direct",
-      "lastSuccess": "2026-09-14T15:32:14.282Z",
+      "lastSuccess": "2026-09-14T23:26:15.120Z",
       "error": null
     },
     {
@@ -2766,7 +2766,7 @@
       "url": "https://www.vegasmeansbusiness.com/destination-calendar/",
       "ok": true,
       "mode": "reader",
-      "lastSuccess": "2026-09-14T15:32:22.413Z",
+      "lastSuccess": "2026-09-14T23:26:20.851Z",
       "error": null
     },
     {
@@ -2776,7 +2776,7 @@
       "url": "https://www.choosechicago.com/meeting-planners/chicago-updates-for-meeting-planners/chicago-convention-calendar/",
       "ok": true,
       "mode": "direct",
-      "lastSuccess": "2026-09-14T15:32:22.775Z",
+      "lastSuccess": "2026-09-14T23:26:21.187Z",
       "error": null
     },
     {
