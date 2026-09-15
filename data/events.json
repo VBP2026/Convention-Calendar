@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-15T07:31:49.754Z",
+  "updatedAt": "2026-09-15T15:28:32.173Z",
   "events": [
     {
       "title": "Lowrider Las Vegas Super Show 2026",
@@ -46,7 +46,7 @@
       "sourceUrl": "https://www.miamibeachconvention.com/events"
     },
     {
-      "title": "Visit Orlando's annu",
+      "title": "Visit Orlando's Annual Marketing & Communications Summit",
       "city": "Orlando",
       "venue": "Orange County Convention Center",
       "startDate": "2026-09-13",
@@ -54,7 +54,7 @@
       "category": "Event",
       "attendance": null,
       "sourceKey": "orlando",
-      "sourceUrl": "https://events.occc.net/event/visit-orlandos-annu/927/"
+      "sourceUrl": "https://events.occc.net/event/visit-orlandos-annual-marketing-%26-communications-summit/927/"
     },
     {
       "title": "Autodesk University 2026",
@@ -2716,7 +2716,7 @@
       "url": "https://www.dallasconventioncenter.com/events",
       "ok": true,
       "mode": "reader",
-      "lastSuccess": "2026-09-15T07:31:01.002Z",
+      "lastSuccess": "2026-09-15T15:27:32.890Z",
       "error": null
     },
     {
@@ -2726,7 +2726,7 @@
       "url": "https://www.miamibeachconvention.com/events",
       "ok": true,
       "mode": "reader",
-      "lastSuccess": "2026-09-15T07:31:22.781Z",
+      "lastSuccess": "2026-09-15T15:28:02.278Z",
       "error": null
     },
     {
@@ -2736,7 +2736,7 @@
       "url": "https://www.visitsandiego.com/calendar?page=1",
       "ok": true,
       "mode": "reader",
-      "lastSuccess": "2026-09-15T07:31:25.824Z",
+      "lastSuccess": "2026-09-15T15:28:08.282Z",
       "error": null
     },
     {
@@ -2744,10 +2744,10 @@
       "city": "Anaheim",
       "venue": "Anaheim Convention Center",
       "url": "https://www.visitanaheim.org/listing/anaheim-convention-center/2959/",
-      "ok": true,
-      "mode": "reader",
+      "ok": false,
+      "mode": "fallback",
       "lastSuccess": "2026-09-15T07:31:34.781Z",
-      "error": null
+      "error": "Rendered page contained no parsable upcoming events"
     },
     {
       "key": "orlando",
@@ -2756,7 +2756,7 @@
       "url": "https://events.occc.net/",
       "ok": true,
       "mode": "direct",
-      "lastSuccess": "2026-09-15T07:31:42.440Z",
+      "lastSuccess": "2026-09-15T15:28:25.185Z",
       "error": null
     },
     {
@@ -2766,7 +2766,7 @@
       "url": "https://www.vegasmeansbusiness.com/destination-calendar/",
       "ok": true,
       "mode": "reader",
-      "lastSuccess": "2026-09-15T07:31:47.818Z",
+      "lastSuccess": "2026-09-15T15:28:30.684Z",
       "error": null
     },
     {
@@ -2776,7 +2776,7 @@
       "url": "https://www.choosechicago.com/meeting-planners/chicago-updates-for-meeting-planners/chicago-convention-calendar/",
       "ok": true,
       "mode": "direct",
-      "lastSuccess": "2026-09-15T07:31:48.289Z",
+      "lastSuccess": "2026-09-15T15:28:30.902Z",
       "error": null
     },
     {
