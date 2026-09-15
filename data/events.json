@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-15T15:28:32.173Z",
+  "updatedAt": "2026-09-15T23:26:39.979Z",
   "events": [
     {
       "title": "Lowrider Las Vegas Super Show 2026",
@@ -1210,6 +1210,17 @@
       "attendance": 25000,
       "sourceKey": "sandiego",
       "sourceUrl": "https://www.visitsandiego.com/calendar?page=1"
+    },
+    {
+      "title": "I-Drive Chamber of C",
+      "city": "Orlando",
+      "venue": "Orange County Convention Center",
+      "startDate": "2026-11-13",
+      "endDate": "2026-11-13",
+      "category": "Event",
+      "attendance": null,
+      "sourceKey": "orlando",
+      "sourceUrl": "https://events.occc.net/event/i-drive-chamber-of-c/962/"
     },
     {
       "title": "JVA Chi-Town Boys Challenge 2026",
@@ -2716,7 +2727,7 @@
       "url": "https://www.dallasconventioncenter.com/events",
       "ok": true,
       "mode": "reader",
-      "lastSuccess": "2026-09-15T15:27:32.890Z",
+      "lastSuccess": "2026-09-15T23:25:40.981Z",
       "error": null
     },
     {
@@ -2726,7 +2737,7 @@
       "url": "https://www.miamibeachconvention.com/events",
       "ok": true,
       "mode": "reader",
-      "lastSuccess": "2026-09-15T15:28:02.278Z",
+      "lastSuccess": "2026-09-15T23:26:07.957Z",
       "error": null
     },
     {
@@ -2736,7 +2747,7 @@
       "url": "https://www.visitsandiego.com/calendar?page=1",
       "ok": true,
       "mode": "reader",
-      "lastSuccess": "2026-09-15T15:28:08.282Z",
+      "lastSuccess": "2026-09-15T23:26:09.889Z",
       "error": null
     },
     {
@@ -2744,10 +2755,10 @@
       "city": "Anaheim",
       "venue": "Anaheim Convention Center",
       "url": "https://www.visitanaheim.org/listing/anaheim-convention-center/2959/",
-      "ok": false,
-      "mode": "fallback",
-      "lastSuccess": "2026-09-15T07:31:34.781Z",
-      "error": "Rendered page contained no parsable upcoming events"
+      "ok": true,
+      "mode": "reader",
+      "lastSuccess": "2026-09-15T23:26:15.794Z",
+      "error": null
     },
     {
       "key": "orlando",
@@ -2756,7 +2767,7 @@
       "url": "https://events.occc.net/",
       "ok": true,
       "mode": "direct",
-      "lastSuccess": "2026-09-15T15:28:25.185Z",
+      "lastSuccess": "2026-09-15T23:26:31.747Z",
       "error": null
     },
     {
@@ -2766,7 +2777,7 @@
       "url": "https://www.vegasmeansbusiness.com/destination-calendar/",
       "ok": true,
       "mode": "reader",
-      "lastSuccess": "2026-09-15T15:28:30.684Z",
+      "lastSuccess": "2026-09-15T23:26:38.231Z",
       "error": null
     },
     {
@@ -2776,7 +2787,7 @@
       "url": "https://www.choosechicago.com/meeting-planners/chicago-updates-for-meeting-planners/chicago-convention-calendar/",
       "ok": true,
       "mode": "direct",
-      "lastSuccess": "2026-09-15T15:28:30.902Z",
+      "lastSuccess": "2026-09-15T23:26:38.626Z",
       "error": null
     },
     {
