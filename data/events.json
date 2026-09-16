@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-15T23:26:39.979Z",
+  "updatedAt": "2026-09-16T07:30:06.129Z",
   "events": [
     {
       "title": "Lowrider Las Vegas Super Show 2026",
@@ -33,17 +33,6 @@
       "attendance": 1200,
       "sourceKey": "vegas",
       "sourceUrl": "https://www.vegasmeansbusiness.com/destination-calendar/"
-    },
-    {
-      "title": "2026 NASDA Buyers Mission",
-      "city": "Miami Beach",
-      "venue": "Miami Beach Convention Center",
-      "startDate": "2026-09-13",
-      "endDate": "2026-09-15",
-      "category": "Convention Center Event",
-      "attendance": null,
-      "sourceKey": "miami",
-      "sourceUrl": "https://www.miamibeachconvention.com/events"
     },
     {
       "title": "Visit Orlando's Annual Marketing & Communications Summit",
@@ -90,17 +79,6 @@
       "sourceUrl": "https://www.miamibeachconvention.com/events"
     },
     {
-      "title": "EcoShield Pro Bowl 2026",
-      "city": "Miami Beach",
-      "venue": "Miami Beach Convention Center",
-      "startDate": "2026-09-14",
-      "endDate": "2026-09-15",
-      "category": "Convention Center Event",
-      "attendance": null,
-      "sourceKey": "miami",
-      "sourceUrl": "https://www.miamibeachconvention.com/events"
-    },
-    {
       "title": "IMTS 2026",
       "city": "Chicago",
       "venue": "Chicago convention market",
@@ -134,39 +112,6 @@
       "sourceUrl": "https://www.visitsandiego.com/calendar?page=1"
     },
     {
-      "title": "Future of Work USA",
-      "city": "Dallas",
-      "venue": "Kay Bailey Hutchison Convention Center Dallas",
-      "startDate": "2026-09-15",
-      "endDate": "2026-09-16",
-      "category": "Meeting",
-      "attendance": null,
-      "sourceKey": "dallas",
-      "sourceUrl": "https://www.dallasconventioncenter.com/events"
-    },
-    {
-      "title": "2026 NASDA Buyers Mission",
-      "city": "Miami Beach",
-      "venue": "Miami Beach Convention Center",
-      "startDate": "2026-09-15",
-      "endDate": "2026-09-15",
-      "category": "Convention Center Event",
-      "attendance": null,
-      "sourceKey": "miami",
-      "sourceUrl": "https://www.miamibeachconvention.com/events"
-    },
-    {
-      "title": "EcoShield Pro Bowl 2026",
-      "city": "Miami Beach",
-      "venue": "Miami Beach Convention Center",
-      "startDate": "2026-09-15",
-      "endDate": "2026-09-15",
-      "category": "Convention Center Event",
-      "attendance": null,
-      "sourceKey": "miami",
-      "sourceUrl": "https://www.miamibeachconvention.com/events"
-    },
-    {
       "title": "FLVS 2026",
       "city": "Orlando",
       "venue": "Orange County Convention Center",
@@ -176,6 +121,17 @@
       "attendance": null,
       "sourceKey": "orlando",
       "sourceUrl": "https://events.occc.net/event/flvs-2026/865/"
+    },
+    {
+      "title": "Future of Work USA",
+      "city": "Dallas",
+      "venue": "Kay Bailey Hutchison Convention Center Dallas",
+      "startDate": "2026-09-16",
+      "endDate": "2026-09-16",
+      "category": "Meeting",
+      "attendance": null,
+      "sourceKey": "dallas",
+      "sourceUrl": "https://www.dallasconventioncenter.com/events"
     },
     {
       "title": "IntraLogisteX Dallas 2026",
@@ -2488,28 +2444,6 @@
       "sourceUrl": "https://www.visitsandiego.com/calendar?page=1"
     },
     {
-      "title": "Miami Build Expo 2027",
-      "city": "Miami Beach",
-      "venue": "Miami Beach Convention Center",
-      "startDate": "2027-05-26",
-      "endDate": "2027-05-27",
-      "category": "Convention Center Event",
-      "attendance": null,
-      "sourceKey": "miami",
-      "sourceUrl": "https://www.miamibeachconvention.com/events"
-    },
-    {
-      "title": "Miami Build Expo 2027",
-      "city": "Miami Beach",
-      "venue": "Miami Beach Convention Center",
-      "startDate": "2027-05-27",
-      "endDate": "2027-05-27",
-      "category": "Convention Center Event",
-      "attendance": null,
-      "sourceKey": "miami",
-      "sourceUrl": "https://www.miamibeachconvention.com/events"
-    },
-    {
       "title": "SOCIETY FOR VASCULAR SURGERY 2027 ANNUAL MEETING",
       "city": "San Diego",
       "venue": "San Diego Convention Center",
@@ -2541,28 +2475,6 @@
       "attendance": 35000,
       "sourceKey": "sandiego",
       "sourceUrl": "https://www.visitsandiego.com/calendar?page=1"
-    },
-    {
-      "title": "LE Miami",
-      "city": "Miami Beach",
-      "venue": "Miami Beach Convention Center",
-      "startDate": "2027-06-08",
-      "endDate": "2027-06-10",
-      "category": "Convention Center Event",
-      "attendance": null,
-      "sourceKey": "miami",
-      "sourceUrl": "https://www.miamibeachconvention.com/events"
-    },
-    {
-      "title": "LE Miami",
-      "city": "Miami Beach",
-      "venue": "Miami Beach Convention Center",
-      "startDate": "2027-06-10",
-      "endDate": "2027-06-10",
-      "category": "Convention Center Event",
-      "attendance": null,
-      "sourceKey": "miami",
-      "sourceUrl": "https://www.miamibeachconvention.com/events"
     },
     {
       "title": "AMERICAN WATER WORKS ASSOCIATION ANNUAL CONFERENCE & EXPO",
@@ -2673,50 +2585,6 @@
       "attendance": 4000,
       "sourceKey": "sandiego",
       "sourceUrl": "https://www.visitsandiego.com/calendar?page=1"
-    },
-    {
-      "title": "IGLTA 2027",
-      "city": "Miami Beach",
-      "venue": "Miami Beach Convention Center",
-      "startDate": "2027-09-27",
-      "endDate": "2027-09-30",
-      "category": "Convention Center Event",
-      "attendance": null,
-      "sourceKey": "miami",
-      "sourceUrl": "https://www.miamibeachconvention.com/events"
-    },
-    {
-      "title": "IGLTA 2027",
-      "city": "Miami Beach",
-      "venue": "Miami Beach Convention Center",
-      "startDate": "2027-09-30",
-      "endDate": "2027-09-30",
-      "category": "Convention Center Event",
-      "attendance": null,
-      "sourceKey": "miami",
-      "sourceUrl": "https://www.miamibeachconvention.com/events"
-    },
-    {
-      "title": "Design Miami 2027",
-      "city": "Miami Beach",
-      "venue": "Miami Beach Convention Center",
-      "startDate": "2027-12-01",
-      "endDate": "2027-12-05",
-      "category": "Convention Center Event",
-      "attendance": null,
-      "sourceKey": "miami",
-      "sourceUrl": "https://www.miamibeachconvention.com/events"
-    },
-    {
-      "title": "Design Miami 2027",
-      "city": "Miami Beach",
-      "venue": "Miami Beach Convention Center",
-      "startDate": "2027-12-05",
-      "endDate": "2027-12-05",
-      "category": "Convention Center Event",
-      "attendance": null,
-      "sourceKey": "miami",
-      "sourceUrl": "https://www.miamibeachconvention.com/events"
     }
   ],
   "sources": [
@@ -2727,7 +2595,7 @@
       "url": "https://www.dallasconventioncenter.com/events",
       "ok": true,
       "mode": "reader",
-      "lastSuccess": "2026-09-15T23:25:40.981Z",
+      "lastSuccess": "2026-09-16T07:29:11.209Z",
       "error": null
     },
     {
@@ -2737,7 +2605,7 @@
       "url": "https://www.miamibeachconvention.com/events",
       "ok": true,
       "mode": "reader",
-      "lastSuccess": "2026-09-15T23:26:07.957Z",
+      "lastSuccess": "2026-09-16T07:29:37.024Z",
       "error": null
     },
     {
@@ -2747,7 +2615,7 @@
       "url": "https://www.visitsandiego.com/calendar?page=1",
       "ok": true,
       "mode": "reader",
-      "lastSuccess": "2026-09-15T23:26:09.889Z",
+      "lastSuccess": "2026-09-16T07:29:43.919Z",
       "error": null
     },
     {
@@ -2757,7 +2625,7 @@
       "url": "https://www.visitanaheim.org/listing/anaheim-convention-center/2959/",
       "ok": true,
       "mode": "reader",
-      "lastSuccess": "2026-09-15T23:26:15.794Z",
+      "lastSuccess": "2026-09-16T07:29:50.958Z",
       "error": null
     },
     {
@@ -2767,7 +2635,7 @@
       "url": "https://events.occc.net/",
       "ok": true,
       "mode": "direct",
-      "lastSuccess": "2026-09-15T23:26:31.747Z",
+      "lastSuccess": "2026-09-16T07:30:00.722Z",
       "error": null
     },
     {
@@ -2775,10 +2643,10 @@
       "city": "Las Vegas",
       "venue": "Las Vegas Convention Center",
       "url": "https://www.vegasmeansbusiness.com/destination-calendar/",
-      "ok": true,
-      "mode": "reader",
+      "ok": false,
+      "mode": "fallback",
       "lastSuccess": "2026-09-15T23:26:38.231Z",
-      "error": null
+      "error": "fetch failed"
     },
     {
       "key": "chicago",
@@ -2787,7 +2655,7 @@
       "url": "https://www.choosechicago.com/meeting-planners/chicago-updates-for-meeting-planners/chicago-convention-calendar/",
       "ok": true,
       "mode": "direct",
-      "lastSuccess": "2026-09-15T23:26:38.626Z",
+      "lastSuccess": "2026-09-16T07:30:02.602Z",
       "error": null
     },
     {
