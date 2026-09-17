@@ -1,39 +1,6 @@
 {
-  "updatedAt": "2026-09-16T23:27:38.250Z",
+  "updatedAt": "2026-09-17T07:30:27.083Z",
   "events": [
-    {
-      "title": "Lowrider Las Vegas Super Show 2026",
-      "city": "Las Vegas",
-      "venue": "Las Vegas Convention Center",
-      "startDate": "2026-09-13",
-      "endDate": "2026-09-16",
-      "category": "Convention / Trade Show",
-      "attendance": 10000,
-      "sourceKey": "vegas",
-      "sourceUrl": "https://www.vegasmeansbusiness.com/destination-calendar/"
-    },
-    {
-      "title": "25th Annual Anti-Money Laundering & Financial Crime Conference 2026",
-      "city": "Las Vegas",
-      "venue": "ARIA Resort & Casino",
-      "startDate": "2026-09-13",
-      "endDate": "2026-09-16",
-      "category": "Convention / Trade Show",
-      "attendance": 4000,
-      "sourceKey": "vegas",
-      "sourceUrl": "https://www.vegasmeansbusiness.com/destination-calendar/"
-    },
-    {
-      "title": "TRAVCON 2026",
-      "city": "Las Vegas",
-      "venue": "Paris Las Vegas",
-      "startDate": "2026-09-13",
-      "endDate": "2026-09-16",
-      "category": "Convention / Trade Show",
-      "attendance": 1200,
-      "sourceKey": "vegas",
-      "sourceUrl": "https://www.vegasmeansbusiness.com/destination-calendar/"
-    },
     {
       "title": "Visit Orlando's Annual Marketing & Communications Summit",
       "city": "Orlando",
@@ -57,28 +24,6 @@
       "sourceUrl": "https://www.vegasmeansbusiness.com/destination-calendar/"
     },
     {
-      "title": "Avance Global 2026",
-      "city": "Las Vegas",
-      "venue": "Bellagio",
-      "startDate": "2026-09-14",
-      "endDate": "2026-09-16",
-      "category": "Convention / Trade Show",
-      "attendance": 7000,
-      "sourceKey": "vegas",
-      "sourceUrl": "https://www.vegasmeansbusiness.com/destination-calendar/"
-    },
-    {
-      "title": "America Food & Beverage Show",
-      "city": "Miami Beach",
-      "venue": "Miami Beach Convention Center",
-      "startDate": "2026-09-14",
-      "endDate": "2026-09-16",
-      "category": "Convention Center Event",
-      "attendance": null,
-      "sourceKey": "miami",
-      "sourceUrl": "https://www.miamibeachconvention.com/events"
-    },
-    {
       "title": "IMTS 2026",
       "city": "Chicago",
       "venue": "Chicago convention market",
@@ -90,28 +35,6 @@
       "sourceUrl": "https://www.choosechicago.com/meeting-planners/chicago-updates-for-meeting-planners/chicago-convention-calendar/"
     },
     {
-      "title": "BRIGHTONSEO SAN DIEGO & HERO CONF SAN DIEGO",
-      "city": "San Diego",
-      "venue": "San Diego Convention Center",
-      "startDate": "2026-09-15",
-      "endDate": "2026-09-16",
-      "category": "Convention with Trade Show",
-      "attendance": 4000,
-      "sourceKey": "sandiego",
-      "sourceUrl": "https://www.visitsandiego.com/calendar?page=1"
-    },
-    {
-      "title": "ICSC@WESTERN 2026",
-      "city": "San Diego",
-      "venue": "San Diego Convention Center",
-      "startDate": "2026-09-15",
-      "endDate": "2026-09-16",
-      "category": "Convention with Trade Show",
-      "attendance": 3000,
-      "sourceKey": "sandiego",
-      "sourceUrl": "https://www.visitsandiego.com/calendar?page=1"
-    },
-    {
       "title": "FLVS 2026",
       "city": "Orlando",
       "venue": "Orange County Convention Center",
@@ -121,39 +44,6 @@
       "attendance": null,
       "sourceKey": "orlando",
       "sourceUrl": "https://events.occc.net/event/flvs-2026/865/"
-    },
-    {
-      "title": "Future of Work USA",
-      "city": "Dallas",
-      "venue": "Kay Bailey Hutchison Convention Center Dallas",
-      "startDate": "2026-09-16",
-      "endDate": "2026-09-16",
-      "category": "Meeting",
-      "attendance": null,
-      "sourceKey": "dallas",
-      "sourceUrl": "https://www.dallasconventioncenter.com/events"
-    },
-    {
-      "title": "IntraLogisteX Dallas 2026",
-      "city": "Dallas",
-      "venue": "Kay Bailey Hutchison Convention Center Dallas",
-      "startDate": "2026-09-16",
-      "endDate": "2026-09-17",
-      "category": "Trade Show",
-      "attendance": null,
-      "sourceKey": "dallas",
-      "sourceUrl": "https://www.dallasconventioncenter.com/events"
-    },
-    {
-      "title": "America Food & Beverage Show",
-      "city": "Miami Beach",
-      "venue": "Miami Beach Convention Center",
-      "startDate": "2026-09-16",
-      "endDate": "2026-09-16",
-      "category": "Convention Center Event",
-      "attendance": null,
-      "sourceKey": "miami",
-      "sourceUrl": "https://www.miamibeachconvention.com/events"
     },
     {
       "title": "Independent Hotel Show",
@@ -187,6 +77,17 @@
       "attendance": null,
       "sourceKey": "orlando",
       "sourceUrl": "https://events.occc.net/event/surf-expo/863/"
+    },
+    {
+      "title": "IntraLogisteX Dallas 2026",
+      "city": "Dallas",
+      "venue": "Kay Bailey Hutchison Convention Center Dallas",
+      "startDate": "2026-09-17",
+      "endDate": "2026-09-17",
+      "category": "Trade Show",
+      "attendance": null,
+      "sourceKey": "dallas",
+      "sourceUrl": "https://www.dallasconventioncenter.com/events"
     },
     {
       "title": "Independent Hotel Show",
@@ -552,6 +453,17 @@
       "sourceUrl": "https://www.miamibeachconvention.com/events"
     },
     {
+      "title": "Burger King Franchise Owner's Conference",
+      "city": "Miami Beach",
+      "venue": "Miami Beach Convention Center",
+      "startDate": "2026-10-07",
+      "endDate": "2026-10-09",
+      "category": "Convention Center Event",
+      "attendance": null,
+      "sourceKey": "miami",
+      "sourceUrl": "https://www.miamibeachconvention.com/events"
+    },
+    {
       "title": "Metalcon 2026",
       "city": "Orlando",
       "venue": "Orange County Convention Center",
@@ -618,6 +530,17 @@
       "sourceUrl": "https://www.miamibeachconvention.com/events"
     },
     {
+      "title": "Burger King Franchise Owner's Conference",
+      "city": "Miami Beach",
+      "venue": "Miami Beach Convention Center",
+      "startDate": "2026-10-09",
+      "endDate": "2026-10-09",
+      "category": "Convention Center Event",
+      "attendance": null,
+      "sourceKey": "miami",
+      "sourceUrl": "https://www.miamibeachconvention.com/events"
+    },
+    {
       "title": "Herzing University Florida Nurse Pinning and Commencement",
       "city": "Orlando",
       "venue": "Orange County Convention Center",
@@ -649,6 +572,17 @@
       "attendance": 1200,
       "sourceKey": "sandiego",
       "sourceUrl": "https://www.visitsandiego.com/calendar?page=1"
+    },
+    {
+      "title": "ATHX Games",
+      "city": "Miami Beach",
+      "venue": "Miami Beach Convention Center",
+      "startDate": "2026-10-10",
+      "endDate": "2026-10-10",
+      "category": "Convention Center Event",
+      "attendance": null,
+      "sourceKey": "miami",
+      "sourceUrl": "https://www.miamibeachconvention.com/events"
     },
     {
       "title": "WEST COAST CONFERENCE CHEER AND DANCE COMPETITION 2026",
@@ -728,6 +662,17 @@
       "sourceUrl": "https://www.dallasconventioncenter.com/events"
     },
     {
+      "title": "Jewelers International Showcase Fall 2026",
+      "city": "Miami Beach",
+      "venue": "Miami Beach Convention Center",
+      "startDate": "2026-10-16",
+      "endDate": "2026-10-19",
+      "category": "Convention Center Event",
+      "attendance": null,
+      "sourceKey": "miami",
+      "sourceUrl": "https://www.miamibeachconvention.com/events"
+    },
+    {
       "title": "RTAG National Conven",
       "city": "Orlando",
       "venue": "Orange County Convention Center",
@@ -759,6 +704,17 @@
       "attendance": null,
       "sourceKey": "chicago",
       "sourceUrl": "https://www.choosechicago.com/meeting-planners/chicago-updates-for-meeting-planners/chicago-convention-calendar/"
+    },
+    {
+      "title": "Jewelers International Showcase Fall 2026",
+      "city": "Miami Beach",
+      "venue": "Miami Beach Convention Center",
+      "startDate": "2026-10-19",
+      "endDate": "2026-10-19",
+      "category": "Convention Center Event",
+      "attendance": null,
+      "sourceKey": "miami",
+      "sourceUrl": "https://www.miamibeachconvention.com/events"
     },
     {
       "title": "Procore Groundbreak",
@@ -816,6 +772,39 @@
       "sourceUrl": "https://events.occc.net/event/pizza-tomorrow-summi/895/"
     },
     {
+      "title": "ULI Fall Meeting 2026",
+      "city": "Miami Beach",
+      "venue": "Miami Beach Convention Center",
+      "startDate": "2026-10-26",
+      "endDate": "2026-10-28",
+      "category": "Convention Center Event",
+      "attendance": null,
+      "sourceKey": "miami",
+      "sourceUrl": "https://www.miamibeachconvention.com/events"
+    },
+    {
+      "title": "Air Cargo Forum and Exhibition",
+      "city": "Miami Beach",
+      "venue": "Miami Beach Convention Center",
+      "startDate": "2026-10-26",
+      "endDate": "2026-10-29",
+      "category": "Convention Center Event",
+      "attendance": null,
+      "sourceKey": "miami",
+      "sourceUrl": "https://www.miamibeachconvention.com/events"
+    },
+    {
+      "title": "WTE Miami 2026",
+      "city": "Miami Beach",
+      "venue": "Miami Beach Convention Center",
+      "startDate": "2026-10-27",
+      "endDate": "2026-10-28",
+      "category": "Convention Center Event",
+      "attendance": null,
+      "sourceKey": "miami",
+      "sourceUrl": "https://www.miamibeachconvention.com/events"
+    },
+    {
       "title": "Win the Storm 2026",
       "city": "Dallas",
       "venue": "Kay Bailey Hutchison Convention Center Dallas",
@@ -825,6 +814,39 @@
       "attendance": null,
       "sourceKey": "dallas",
       "sourceUrl": "https://www.dallasconventioncenter.com/events"
+    },
+    {
+      "title": "ULI Fall Meeting 2026",
+      "city": "Miami Beach",
+      "venue": "Miami Beach Convention Center",
+      "startDate": "2026-10-28",
+      "endDate": "2026-10-28",
+      "category": "Convention Center Event",
+      "attendance": null,
+      "sourceKey": "miami",
+      "sourceUrl": "https://www.miamibeachconvention.com/events"
+    },
+    {
+      "title": "WTE Miami 2026",
+      "city": "Miami Beach",
+      "venue": "Miami Beach Convention Center",
+      "startDate": "2026-10-28",
+      "endDate": "2026-10-28",
+      "category": "Convention Center Event",
+      "attendance": null,
+      "sourceKey": "miami",
+      "sourceUrl": "https://www.miamibeachconvention.com/events"
+    },
+    {
+      "title": "Air Cargo Forum and Exhibition",
+      "city": "Miami Beach",
+      "venue": "Miami Beach Convention Center",
+      "startDate": "2026-10-29",
+      "endDate": "2026-10-29",
+      "category": "Convention Center Event",
+      "attendance": null,
+      "sourceKey": "miami",
+      "sourceUrl": "https://www.miamibeachconvention.com/events"
     },
     {
       "title": "Florida Association",
@@ -902,6 +924,17 @@
       "attendance": null,
       "sourceKey": "orlando",
       "sourceUrl": "https://events.occc.net/event/cheney-brothers-fo/899/"
+    },
+    {
+      "title": "Small Business Expo Dallas",
+      "city": "Dallas",
+      "venue": "Kay Bailey Hutchison Convention Center Dallas",
+      "startDate": "2026-11-04",
+      "endDate": "2026-11-04",
+      "category": "Special Event",
+      "attendance": null,
+      "sourceKey": "dallas",
+      "sourceUrl": "https://www.dallasconventioncenter.com/events"
     },
     {
       "title": "Yu-Gi-Oh! Championship Series Orlando 2026",
@@ -2342,7 +2375,7 @@
       "url": "https://www.dallasconventioncenter.com/events",
       "ok": true,
       "mode": "reader",
-      "lastSuccess": "2026-09-16T23:26:51.017Z",
+      "lastSuccess": "2026-09-17T07:29:45.527Z",
       "error": null
     },
     {
@@ -2352,7 +2385,7 @@
       "url": "https://www.miamibeachconvention.com/events",
       "ok": true,
       "mode": "reader",
-      "lastSuccess": "2026-09-16T23:27:10.383Z",
+      "lastSuccess": "2026-09-17T07:30:02.867Z",
       "error": null
     },
     {
@@ -2362,7 +2395,7 @@
       "url": "https://www.visitsandiego.com/calendar?page=1",
       "ok": true,
       "mode": "reader",
-      "lastSuccess": "2026-09-16T23:27:16.165Z",
+      "lastSuccess": "2026-09-17T07:30:05.291Z",
       "error": null
     },
     {
@@ -2372,7 +2405,7 @@
       "url": "https://www.visitanaheim.org/listing/anaheim-convention-center/2959/",
       "ok": true,
       "mode": "reader",
-      "lastSuccess": "2026-09-16T23:27:24.833Z",
+      "lastSuccess": "2026-09-17T07:30:10.882Z",
       "error": null
     },
     {
@@ -2382,7 +2415,7 @@
       "url": "https://events.occc.net/",
       "ok": true,
       "mode": "direct",
-      "lastSuccess": "2026-09-16T23:27:30.868Z",
+      "lastSuccess": "2026-09-17T07:30:18.066Z",
       "error": null
     },
     {
@@ -2390,10 +2423,10 @@
       "city": "Las Vegas",
       "venue": "Las Vegas Convention Center",
       "url": "https://www.vegasmeansbusiness.com/destination-calendar/",
-      "ok": false,
-      "mode": "fallback",
-      "lastSuccess": "2026-09-15T23:26:38.231Z",
-      "error": "Rendered page contained no parsable upcoming events"
+      "ok": true,
+      "mode": "reader",
+      "lastSuccess": "2026-09-17T07:30:24.478Z",
+      "error": null
     },
     {
       "key": "chicago",
@@ -2402,7 +2435,7 @@
       "url": "https://www.choosechicago.com/meeting-planners/chicago-updates-for-meeting-planners/chicago-convention-calendar/",
       "ok": true,
       "mode": "direct",
-      "lastSuccess": "2026-09-16T23:27:36.986Z",
+      "lastSuccess": "2026-09-17T07:30:25.560Z",
       "error": null
     },
     {
