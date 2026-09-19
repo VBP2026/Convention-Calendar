@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-18T23:27:22.510Z",
+  "updatedAt": "2026-09-19T07:26:22.584Z",
   "events": [
     {
       "title": "IMTS 2026",
@@ -13,43 +13,10 @@
       "sourceUrl": "https://www.choosechicago.com/meeting-planners/chicago-updates-for-meeting-planners/chicago-convention-calendar/"
     },
     {
-      "title": "Surf Expo",
-      "city": "Orlando",
-      "venue": "Orange County Convention Center",
-      "startDate": "2026-09-16",
-      "endDate": "2026-09-18",
-      "category": "Event",
-      "attendance": null,
-      "sourceKey": "orlando",
-      "sourceUrl": "https://events.occc.net/event/surf-expo/863/"
-    },
-    {
-      "title": "HumanCon 2026",
-      "city": "Orlando",
-      "venue": "Orange County Convention Center",
-      "startDate": "2026-09-17",
-      "endDate": "2026-09-18",
-      "category": "Event",
-      "attendance": null,
-      "sourceKey": "orlando",
-      "sourceUrl": "https://events.occc.net/event/humancon-2026/885/"
-    },
-    {
-      "title": "UNITED STATES UNIVERSITY COMMENCEMENT CEREMONY 2026",
-      "city": "San Diego",
-      "venue": "San Diego Convention Center",
-      "startDate": "2026-09-18",
-      "endDate": "2026-09-18",
-      "category": "Meeting/Seminar",
-      "attendance": 5000,
-      "sourceKey": "sandiego",
-      "sourceUrl": "https://www.visitsandiego.com/calendar?page=1"
-    },
-    {
       "title": "BCG Fest 26-27 feat. One Piece Card Game",
       "city": "Dallas",
       "venue": "Kay Bailey Hutchison Convention Center Dallas",
-      "startDate": "2026-09-18",
+      "startDate": "2026-09-19",
       "endDate": "2026-09-20",
       "category": "Consumer Show",
       "attendance": null,
@@ -167,23 +134,23 @@
       "sourceUrl": "https://www.dallasconventioncenter.com/events"
     },
     {
-      "title": "4TH ANNUAL SDRC-CON 2026",
-      "city": "San Diego",
-      "venue": "San Diego Convention Center",
-      "startDate": "2026-09-26",
-      "endDate": "2026-09-26",
-      "category": "Local Trade Show",
-      "attendance": 1200,
-      "sourceKey": "sandiego",
-      "sourceUrl": "https://www.visitsandiego.com/calendar?page=1"
-    },
-    {
       "title": "GUJARATI CULTURAL DANCE SEPTEMBER 2026",
       "city": "San Diego",
       "venue": "San Diego Convention Center",
       "startDate": "2026-09-26",
       "endDate": "2026-09-26",
       "category": "Community Event",
+      "attendance": 1200,
+      "sourceKey": "sandiego",
+      "sourceUrl": "https://www.visitsandiego.com/calendar?page=1"
+    },
+    {
+      "title": "4TH ANNUAL SDRC-CON 2026",
+      "city": "San Diego",
+      "venue": "San Diego Convention Center",
+      "startDate": "2026-09-26",
+      "endDate": "2026-09-26",
+      "category": "Local Trade Show",
       "attendance": 1200,
       "sourceKey": "sandiego",
       "sourceUrl": "https://www.visitsandiego.com/calendar?page=1"
@@ -2178,28 +2145,6 @@
       "attendance": 4000,
       "sourceKey": "sandiego",
       "sourceUrl": "https://www.visitsandiego.com/calendar?page=1"
-    },
-    {
-      "title": "Design Miami 2027",
-      "city": "Miami Beach",
-      "venue": "Miami Beach Convention Center",
-      "startDate": "2027-12-01",
-      "endDate": "2027-12-05",
-      "category": "Convention Center Event",
-      "attendance": null,
-      "sourceKey": "miami",
-      "sourceUrl": "https://www.miamibeachconvention.com/events"
-    },
-    {
-      "title": "Design Miami 2027",
-      "city": "Miami Beach",
-      "venue": "Miami Beach Convention Center",
-      "startDate": "2027-12-05",
-      "endDate": "2027-12-05",
-      "category": "Convention Center Event",
-      "attendance": null,
-      "sourceKey": "miami",
-      "sourceUrl": "https://www.miamibeachconvention.com/events"
     }
   ],
   "sources": [
@@ -2210,7 +2155,7 @@
       "url": "https://www.dallasconventioncenter.com/events",
       "ok": true,
       "mode": "reader",
-      "lastSuccess": "2026-09-18T23:26:33.971Z",
+      "lastSuccess": "2026-09-19T07:25:39.392Z",
       "error": null
     },
     {
@@ -2220,7 +2165,7 @@
       "url": "https://www.miamibeachconvention.com/events",
       "ok": true,
       "mode": "reader",
-      "lastSuccess": "2026-09-18T23:26:53.624Z",
+      "lastSuccess": "2026-09-19T07:25:53.782Z",
       "error": null
     },
     {
@@ -2230,7 +2175,7 @@
       "url": "https://www.visitsandiego.com/calendar?page=1",
       "ok": true,
       "mode": "reader",
-      "lastSuccess": "2026-09-18T23:26:59.127Z",
+      "lastSuccess": "2026-09-19T07:25:56.664Z",
       "error": null
     },
     {
@@ -2238,10 +2183,10 @@
       "city": "Anaheim",
       "venue": "Anaheim Convention Center",
       "url": "https://www.visitanaheim.org/listing/anaheim-convention-center/2959/",
-      "ok": false,
-      "mode": "fallback",
-      "lastSuccess": "2026-09-18T07:28:16.063Z",
-      "error": "Rendered page contained no parsable upcoming events"
+      "ok": true,
+      "mode": "reader",
+      "lastSuccess": "2026-09-19T07:26:04.850Z",
+      "error": null
     },
     {
       "key": "orlando",
@@ -2250,7 +2195,7 @@
       "url": "https://events.occc.net/",
       "ok": true,
       "mode": "direct",
-      "lastSuccess": "2026-09-18T23:27:14.806Z",
+      "lastSuccess": "2026-09-19T07:26:14.094Z",
       "error": null
     },
     {
@@ -2260,7 +2205,7 @@
       "url": "https://www.vegasmeansbusiness.com/destination-calendar/",
       "ok": true,
       "mode": "reader",
-      "lastSuccess": "2026-09-18T23:27:20.309Z",
+      "lastSuccess": "2026-09-19T07:26:19.479Z",
       "error": null
     },
     {
@@ -2270,7 +2215,7 @@
       "url": "https://www.choosechicago.com/meeting-planners/chicago-updates-for-meeting-planners/chicago-convention-calendar/",
       "ok": true,
       "mode": "direct",
-      "lastSuccess": "2026-09-18T23:27:20.601Z",
+      "lastSuccess": "2026-09-19T07:26:20.780Z",
       "error": null
     },
     {
