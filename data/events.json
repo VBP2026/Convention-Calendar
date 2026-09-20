@@ -1,22 +1,11 @@
 {
-  "updatedAt": "2026-09-19T23:25:09.997Z",
+  "updatedAt": "2026-09-20T07:26:39.423Z",
   "events": [
-    {
-      "title": "IMTS 2026",
-      "city": "Chicago",
-      "venue": "Chicago convention market",
-      "startDate": "2026-09-14",
-      "endDate": "2026-09-19",
-      "category": "Major Chicago Convention",
-      "attendance": null,
-      "sourceKey": "chicago",
-      "sourceUrl": "https://www.choosechicago.com/meeting-planners/chicago-updates-for-meeting-planners/chicago-convention-calendar/"
-    },
     {
       "title": "BCG Fest 26-27 feat. One Piece Card Game",
       "city": "Dallas",
       "venue": "Kay Bailey Hutchison Convention Center Dallas",
-      "startDate": "2026-09-19",
+      "startDate": "2026-09-20",
       "endDate": "2026-09-20",
       "category": "Consumer Show",
       "attendance": null,
@@ -211,17 +200,6 @@
       "sourceUrl": "https://www.vegasmeansbusiness.com/destination-calendar/"
     },
     {
-      "title": "SIBOS 2026",
-      "city": "Miami Beach",
-      "venue": "Miami Beach Convention Center",
-      "startDate": "2026-09-28",
-      "endDate": "2026-10-01",
-      "category": "Convention Center Event",
-      "attendance": null,
-      "sourceKey": "miami",
-      "sourceUrl": "https://www.miamibeachconvention.com/events"
-    },
-    {
       "title": "2026 EMS World Expo",
       "city": "Orlando",
       "venue": "Orange County Convention Center",
@@ -253,17 +231,6 @@
       "attendance": 300,
       "sourceKey": "vegas",
       "sourceUrl": "https://www.vegasmeansbusiness.com/destination-calendar/"
-    },
-    {
-      "title": "SIBOS 2026",
-      "city": "Miami Beach",
-      "venue": "Miami Beach Convention Center",
-      "startDate": "2026-10-01",
-      "endDate": "2026-10-01",
-      "category": "Convention Center Event",
-      "attendance": null,
-      "sourceKey": "miami",
-      "sourceUrl": "https://www.miamibeachconvention.com/events"
     },
     {
       "title": "AAP 2026 NATIONAL CONFERENCE & EXHIBITION",
@@ -376,28 +343,6 @@
       "sourceUrl": "https://www.choosechicago.com/meeting-planners/chicago-updates-for-meeting-planners/chicago-convention-calendar/"
     },
     {
-      "title": "Jupiter Entertainment, Media, and Sports Festival",
-      "city": "Miami Beach",
-      "venue": "Miami Beach Convention Center",
-      "startDate": "2026-10-06",
-      "endDate": "2026-10-09",
-      "category": "Convention Center Event",
-      "attendance": null,
-      "sourceKey": "miami",
-      "sourceUrl": "https://www.miamibeachconvention.com/events"
-    },
-    {
-      "title": "Burger King Franchise Owner's Conference",
-      "city": "Miami Beach",
-      "venue": "Miami Beach Convention Center",
-      "startDate": "2026-10-07",
-      "endDate": "2026-10-09",
-      "category": "Convention Center Event",
-      "attendance": null,
-      "sourceKey": "miami",
-      "sourceUrl": "https://www.miamibeachconvention.com/events"
-    },
-    {
       "title": "Metalcon 2026",
       "city": "Orlando",
       "venue": "Orange County Convention Center",
@@ -453,28 +398,6 @@
       "sourceUrl": "https://www.visitsandiego.com/calendar?page=1"
     },
     {
-      "title": "Jupiter Entertainment, Media, and Sports Festival",
-      "city": "Miami Beach",
-      "venue": "Miami Beach Convention Center",
-      "startDate": "2026-10-09",
-      "endDate": "2026-10-09",
-      "category": "Convention Center Event",
-      "attendance": null,
-      "sourceKey": "miami",
-      "sourceUrl": "https://www.miamibeachconvention.com/events"
-    },
-    {
-      "title": "Burger King Franchise Owner's Conference",
-      "city": "Miami Beach",
-      "venue": "Miami Beach Convention Center",
-      "startDate": "2026-10-09",
-      "endDate": "2026-10-09",
-      "category": "Convention Center Event",
-      "attendance": null,
-      "sourceKey": "miami",
-      "sourceUrl": "https://www.miamibeachconvention.com/events"
-    },
-    {
       "title": "Herzing University Florida Nurse Pinning and Commencement",
       "city": "Orlando",
       "venue": "Orange County Convention Center",
@@ -506,17 +429,6 @@
       "attendance": 1200,
       "sourceKey": "sandiego",
       "sourceUrl": "https://www.visitsandiego.com/calendar?page=1"
-    },
-    {
-      "title": "ATHX Games",
-      "city": "Miami Beach",
-      "venue": "Miami Beach Convention Center",
-      "startDate": "2026-10-10",
-      "endDate": "2026-10-10",
-      "category": "Convention Center Event",
-      "attendance": null,
-      "sourceKey": "miami",
-      "sourceUrl": "https://www.miamibeachconvention.com/events"
     },
     {
       "title": "WEST COAST CONFERENCE CHEER AND DANCE COMPETITION 2026",
@@ -596,17 +508,6 @@
       "sourceUrl": "https://www.dallasconventioncenter.com/events"
     },
     {
-      "title": "Jewelers International Showcase Fall 2026",
-      "city": "Miami Beach",
-      "venue": "Miami Beach Convention Center",
-      "startDate": "2026-10-16",
-      "endDate": "2026-10-19",
-      "category": "Convention Center Event",
-      "attendance": null,
-      "sourceKey": "miami",
-      "sourceUrl": "https://www.miamibeachconvention.com/events"
-    },
-    {
       "title": "RTAG National Conven",
       "city": "Orlando",
       "venue": "Orange County Convention Center",
@@ -638,17 +539,6 @@
       "attendance": null,
       "sourceKey": "chicago",
       "sourceUrl": "https://www.choosechicago.com/meeting-planners/chicago-updates-for-meeting-planners/chicago-convention-calendar/"
-    },
-    {
-      "title": "Jewelers International Showcase Fall 2026",
-      "city": "Miami Beach",
-      "venue": "Miami Beach Convention Center",
-      "startDate": "2026-10-19",
-      "endDate": "2026-10-19",
-      "category": "Convention Center Event",
-      "attendance": null,
-      "sourceKey": "miami",
-      "sourceUrl": "https://www.miamibeachconvention.com/events"
     },
     {
       "title": "Procore Groundbreak",
@@ -706,17 +596,6 @@
       "sourceUrl": "https://events.occc.net/event/pizza-tomorrow-summi/895/"
     },
     {
-      "title": "ULI Fall Meeting 2026",
-      "city": "Miami Beach",
-      "venue": "Miami Beach Convention Center",
-      "startDate": "2026-10-26",
-      "endDate": "2026-10-28",
-      "category": "Convention Center Event",
-      "attendance": null,
-      "sourceKey": "miami",
-      "sourceUrl": "https://www.miamibeachconvention.com/events"
-    },
-    {
       "title": "Air Cargo Forum and Exhibition",
       "city": "Miami Beach",
       "venue": "Miami Beach Convention Center",
@@ -748,17 +627,6 @@
       "attendance": null,
       "sourceKey": "dallas",
       "sourceUrl": "https://www.dallasconventioncenter.com/events"
-    },
-    {
-      "title": "ULI Fall Meeting 2026",
-      "city": "Miami Beach",
-      "venue": "Miami Beach Convention Center",
-      "startDate": "2026-10-28",
-      "endDate": "2026-10-28",
-      "category": "Convention Center Event",
-      "attendance": null,
-      "sourceKey": "miami",
-      "sourceUrl": "https://www.miamibeachconvention.com/events"
     },
     {
       "title": "WTE Miami 2026",
@@ -2298,7 +2166,7 @@
       "url": "https://www.dallasconventioncenter.com/events",
       "ok": true,
       "mode": "reader",
-      "lastSuccess": "2026-09-19T23:24:35.514Z",
+      "lastSuccess": "2026-09-20T07:26:06.846Z",
       "error": null
     },
     {
@@ -2308,7 +2176,7 @@
       "url": "https://www.miamibeachconvention.com/events",
       "ok": true,
       "mode": "reader",
-      "lastSuccess": "2026-09-19T23:24:47.364Z",
+      "lastSuccess": "2026-09-20T07:26:19.713Z",
       "error": null
     },
     {
@@ -2318,7 +2186,7 @@
       "url": "https://www.visitsandiego.com/calendar?page=1",
       "ok": true,
       "mode": "reader",
-      "lastSuccess": "2026-09-19T23:24:50.214Z",
+      "lastSuccess": "2026-09-20T07:26:25.726Z",
       "error": null
     },
     {
@@ -2326,10 +2194,10 @@
       "city": "Anaheim",
       "venue": "Anaheim Convention Center",
       "url": "https://www.visitanaheim.org/listing/anaheim-convention-center/2959/",
-      "ok": true,
-      "mode": "reader",
+      "ok": false,
+      "mode": "fallback",
       "lastSuccess": "2026-09-19T23:24:58.792Z",
-      "error": null
+      "error": "Rendered page contained no parsable upcoming events"
     },
     {
       "key": "orlando",
@@ -2338,7 +2206,7 @@
       "url": "https://events.occc.net/",
       "ok": true,
       "mode": "direct",
-      "lastSuccess": "2026-09-19T23:25:00.498Z",
+      "lastSuccess": "2026-09-20T07:26:32.685Z",
       "error": null
     },
     {
@@ -2348,7 +2216,7 @@
       "url": "https://www.vegasmeansbusiness.com/destination-calendar/",
       "ok": true,
       "mode": "reader",
-      "lastSuccess": "2026-09-19T23:25:07.266Z",
+      "lastSuccess": "2026-09-20T07:26:37.363Z",
       "error": null
     },
     {
@@ -2358,7 +2226,7 @@
       "url": "https://www.choosechicago.com/meeting-planners/chicago-updates-for-meeting-planners/chicago-convention-calendar/",
       "ok": true,
       "mode": "direct",
-      "lastSuccess": "2026-09-19T23:25:07.538Z",
+      "lastSuccess": "2026-09-20T07:26:37.611Z",
       "error": null
     },
     {
