@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-20T15:27:04.545Z",
+  "updatedAt": "2026-09-20T23:26:08.664Z",
   "events": [
     {
       "title": "BCG Fest 26-27 feat. One Piece Card Game",
@@ -2298,7 +2298,7 @@
       "url": "https://www.dallasconventioncenter.com/events",
       "ok": true,
       "mode": "reader",
-      "lastSuccess": "2026-09-20T15:26:20.505Z",
+      "lastSuccess": "2026-09-20T23:25:23.136Z",
       "error": null
     },
     {
@@ -2308,7 +2308,7 @@
       "url": "https://www.miamibeachconvention.com/events",
       "ok": true,
       "mode": "reader",
-      "lastSuccess": "2026-09-20T15:26:35.194Z",
+      "lastSuccess": "2026-09-20T23:25:40.845Z",
       "error": null
     },
     {
@@ -2318,7 +2318,7 @@
       "url": "https://www.visitsandiego.com/calendar?page=1",
       "ok": true,
       "mode": "reader",
-      "lastSuccess": "2026-09-20T15:26:38.091Z",
+      "lastSuccess": "2026-09-20T23:25:46.588Z",
       "error": null
     },
     {
@@ -2326,10 +2326,10 @@
       "city": "Anaheim",
       "venue": "Anaheim Convention Center",
       "url": "https://www.visitanaheim.org/listing/anaheim-convention-center/2959/",
-      "ok": false,
-      "mode": "fallback",
-      "lastSuccess": "2026-09-19T23:24:58.792Z",
-      "error": "Rendered page contained no parsable upcoming events"
+      "ok": true,
+      "mode": "reader",
+      "lastSuccess": "2026-09-20T23:25:54.669Z",
+      "error": null
     },
     {
       "key": "orlando",
@@ -2338,7 +2338,7 @@
       "url": "https://events.occc.net/",
       "ok": true,
       "mode": "direct",
-      "lastSuccess": "2026-09-20T15:26:57.184Z",
+      "lastSuccess": "2026-09-20T23:26:01.138Z",
       "error": null
     },
     {
@@ -2348,7 +2348,7 @@
       "url": "https://www.vegasmeansbusiness.com/destination-calendar/",
       "ok": true,
       "mode": "reader",
-      "lastSuccess": "2026-09-20T15:27:02.513Z",
+      "lastSuccess": "2026-09-20T23:26:06.656Z",
       "error": null
     },
     {
@@ -2358,7 +2358,7 @@
       "url": "https://www.choosechicago.com/meeting-planners/chicago-updates-for-meeting-planners/chicago-convention-calendar/",
       "ok": true,
       "mode": "direct",
-      "lastSuccess": "2026-09-20T15:27:02.835Z",
+      "lastSuccess": "2026-09-20T23:26:06.992Z",
       "error": null
     },
     {
