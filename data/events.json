@@ -1,17 +1,6 @@
 {
-  "updatedAt": "2026-09-20T23:26:08.664Z",
+  "updatedAt": "2026-09-21T07:30:34.258Z",
   "events": [
-    {
-      "title": "BCG Fest 26-27 feat. One Piece Card Game",
-      "city": "Dallas",
-      "venue": "Kay Bailey Hutchison Convention Center Dallas",
-      "startDate": "2026-09-20",
-      "endDate": "2026-09-20",
-      "category": "Consumer Show",
-      "attendance": null,
-      "sourceKey": "dallas",
-      "sourceUrl": "https://www.dallasconventioncenter.com/events"
-    },
     {
       "title": "41ST IBEW INTERNATIONAL CONVENTION",
       "city": "San Diego",
@@ -1067,6 +1056,17 @@
       "attendance": null,
       "sourceKey": "orlando",
       "sourceUrl": "https://events.occc.net/event/iaapa-expo/908/"
+    },
+    {
+      "title": "HYROX Dallas 2026",
+      "city": "Dallas",
+      "venue": "Kay Bailey Hutchison Convention Center Dallas",
+      "startDate": "2026-11-18",
+      "endDate": "2026-11-22",
+      "category": "Sporting Event",
+      "attendance": null,
+      "sourceKey": "dallas",
+      "sourceUrl": "https://www.dallasconventioncenter.com/events"
     },
     {
       "title": "Athletic Business Sh",
@@ -2288,6 +2288,28 @@
       "attendance": 4000,
       "sourceKey": "sandiego",
       "sourceUrl": "https://www.visitsandiego.com/calendar?page=1"
+    },
+    {
+      "title": "Design Miami 2027",
+      "city": "Miami Beach",
+      "venue": "Miami Beach Convention Center",
+      "startDate": "2027-12-01",
+      "endDate": "2027-12-05",
+      "category": "Convention Center Event",
+      "attendance": null,
+      "sourceKey": "miami",
+      "sourceUrl": "https://www.miamibeachconvention.com/events"
+    },
+    {
+      "title": "Design Miami 2027",
+      "city": "Miami Beach",
+      "venue": "Miami Beach Convention Center",
+      "startDate": "2027-12-05",
+      "endDate": "2027-12-05",
+      "category": "Convention Center Event",
+      "attendance": null,
+      "sourceKey": "miami",
+      "sourceUrl": "https://www.miamibeachconvention.com/events"
     }
   ],
   "sources": [
@@ -2298,7 +2320,7 @@
       "url": "https://www.dallasconventioncenter.com/events",
       "ok": true,
       "mode": "reader",
-      "lastSuccess": "2026-09-20T23:25:23.136Z",
+      "lastSuccess": "2026-09-21T07:29:56.046Z",
       "error": null
     },
     {
@@ -2308,7 +2330,7 @@
       "url": "https://www.miamibeachconvention.com/events",
       "ok": true,
       "mode": "reader",
-      "lastSuccess": "2026-09-20T23:25:40.845Z",
+      "lastSuccess": "2026-09-21T07:30:09.746Z",
       "error": null
     },
     {
@@ -2318,7 +2340,7 @@
       "url": "https://www.visitsandiego.com/calendar?page=1",
       "ok": true,
       "mode": "reader",
-      "lastSuccess": "2026-09-20T23:25:46.588Z",
+      "lastSuccess": "2026-09-21T07:30:13.427Z",
       "error": null
     },
     {
@@ -2328,7 +2350,7 @@
       "url": "https://www.visitanaheim.org/listing/anaheim-convention-center/2959/",
       "ok": true,
       "mode": "reader",
-      "lastSuccess": "2026-09-20T23:25:54.669Z",
+      "lastSuccess": "2026-09-21T07:30:20.959Z",
       "error": null
     },
     {
@@ -2338,7 +2360,7 @@
       "url": "https://events.occc.net/",
       "ok": true,
       "mode": "direct",
-      "lastSuccess": "2026-09-20T23:26:01.138Z",
+      "lastSuccess": "2026-09-21T07:30:23.133Z",
       "error": null
     },
     {
@@ -2348,7 +2370,7 @@
       "url": "https://www.vegasmeansbusiness.com/destination-calendar/",
       "ok": true,
       "mode": "reader",
-      "lastSuccess": "2026-09-20T23:26:06.656Z",
+      "lastSuccess": "2026-09-21T07:30:32.340Z",
       "error": null
     },
     {
@@ -2358,7 +2380,7 @@
       "url": "https://www.choosechicago.com/meeting-planners/chicago-updates-for-meeting-planners/chicago-convention-calendar/",
       "ok": true,
       "mode": "direct",
-      "lastSuccess": "2026-09-20T23:26:06.992Z",
+      "lastSuccess": "2026-09-21T07:30:32.746Z",
       "error": null
     },
     {
