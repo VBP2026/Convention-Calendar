@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-23T23:24:45.960Z",
+  "updatedAt": "2026-09-24T07:29:47.341Z",
   "events": [
     {
       "title": "41ST IBEW INTERNATIONAL CONVENTION",
@@ -112,23 +112,23 @@
       "sourceUrl": "https://www.dallasconventioncenter.com/events"
     },
     {
-      "title": "GUJARATI CULTURAL DANCE SEPTEMBER 2026",
-      "city": "San Diego",
-      "venue": "San Diego Convention Center",
-      "startDate": "2026-09-26",
-      "endDate": "2026-09-26",
-      "category": "Community Event",
-      "attendance": 1200,
-      "sourceKey": "sandiego",
-      "sourceUrl": "https://www.visitsandiego.com/calendar?page=1"
-    },
-    {
       "title": "4TH ANNUAL SDRC-CON 2026",
       "city": "San Diego",
       "venue": "San Diego Convention Center",
       "startDate": "2026-09-26",
       "endDate": "2026-09-26",
       "category": "Local Trade Show",
+      "attendance": 1200,
+      "sourceKey": "sandiego",
+      "sourceUrl": "https://www.visitsandiego.com/calendar?page=1"
+    },
+    {
+      "title": "GUJARATI CULTURAL DANCE SEPTEMBER 2026",
+      "city": "San Diego",
+      "venue": "San Diego Convention Center",
+      "startDate": "2026-09-26",
+      "endDate": "2026-09-26",
+      "category": "Community Event",
       "attendance": 1200,
       "sourceKey": "sandiego",
       "sourceUrl": "https://www.visitsandiego.com/calendar?page=1"
@@ -2386,7 +2386,7 @@
       "url": "https://www.dallasconventioncenter.com/events",
       "ok": true,
       "mode": "reader",
-      "lastSuccess": "2026-09-23T23:23:57.908Z",
+      "lastSuccess": "2026-09-24T07:28:56.005Z",
       "error": null
     },
     {
@@ -2394,10 +2394,10 @@
       "city": "Miami Beach",
       "venue": "Miami Beach Convention Center",
       "url": "https://www.miamibeachconvention.com/events",
-      "ok": true,
-      "mode": "reader",
+      "ok": false,
+      "mode": "fallback",
       "lastSuccess": "2026-09-23T23:24:21.254Z",
-      "error": null
+      "error": "No parsable upcoming events returned"
     },
     {
       "key": "sandiego",
@@ -2406,7 +2406,7 @@
       "url": "https://www.visitsandiego.com/calendar?page=1",
       "ok": true,
       "mode": "reader",
-      "lastSuccess": "2026-09-23T23:24:23.599Z",
+      "lastSuccess": "2026-09-24T07:29:22.561Z",
       "error": null
     },
     {
@@ -2416,7 +2416,7 @@
       "url": "https://www.visitanaheim.org/listing/anaheim-convention-center/2959/",
       "ok": true,
       "mode": "reader",
-      "lastSuccess": "2026-09-23T23:24:31.600Z",
+      "lastSuccess": "2026-09-24T07:29:29.703Z",
       "error": null
     },
     {
@@ -2426,7 +2426,7 @@
       "url": "https://events.occc.net/",
       "ok": true,
       "mode": "direct",
-      "lastSuccess": "2026-09-23T23:24:37.635Z",
+      "lastSuccess": "2026-09-24T07:29:39.913Z",
       "error": null
     },
     {
@@ -2436,7 +2436,7 @@
       "url": "https://www.vegasmeansbusiness.com/destination-calendar/",
       "ok": true,
       "mode": "reader",
-      "lastSuccess": "2026-09-23T23:24:43.235Z",
+      "lastSuccess": "2026-09-24T07:29:45.318Z",
       "error": null
     },
     {
@@ -2446,7 +2446,7 @@
       "url": "https://www.choosechicago.com/meeting-planners/chicago-updates-for-meeting-planners/chicago-convention-calendar/",
       "ok": true,
       "mode": "direct",
-      "lastSuccess": "2026-09-23T23:24:44.224Z",
+      "lastSuccess": "2026-09-24T07:29:45.769Z",
       "error": null
     },
     {
