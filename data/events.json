@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-24T23:27:05.656Z",
+  "updatedAt": "2026-09-25T07:30:14.692Z",
   "events": [
     {
       "title": "41ST IBEW INTERNATIONAL CONVENTION",
@@ -11,39 +11,6 @@
       "attendance": 5000,
       "sourceKey": "sandiego",
       "sourceUrl": "https://www.visitsandiego.com/calendar?page=1"
-    },
-    {
-      "title": "ITC Vegas 2026",
-      "city": "Las Vegas",
-      "venue": "Mandalay Bay Convention Center, Resort and Casino",
-      "startDate": "2026-09-22",
-      "endDate": "2026-09-24",
-      "category": "Convention / Trade Show",
-      "attendance": 9000,
-      "sourceKey": "vegas",
-      "sourceUrl": "https://www.vegasmeansbusiness.com/destination-calendar/"
-    },
-    {
-      "title": "Groceryshop 2026",
-      "city": "Las Vegas",
-      "venue": "Mandalay Bay Convention Center, Resort and Casino",
-      "startDate": "2026-09-22",
-      "endDate": "2026-09-24",
-      "category": "Convention / Trade Show",
-      "attendance": 6000,
-      "sourceKey": "vegas",
-      "sourceUrl": "https://www.vegasmeansbusiness.com/destination-calendar/"
-    },
-    {
-      "title": "Ace Hardware Fall Event 2026",
-      "city": "Orlando",
-      "venue": "Orange County Convention Center",
-      "startDate": "2026-09-22",
-      "endDate": "2026-09-24",
-      "category": "Event",
-      "attendance": null,
-      "sourceKey": "orlando",
-      "sourceUrl": "https://events.occc.net/event/ace-hardware-fall-event-2026/869/"
     },
     {
       "title": "doTERRA Global Convention 2026",
@@ -104,7 +71,7 @@
       "title": "Taiwan EXPO USA 2026",
       "city": "Dallas",
       "venue": "Kay Bailey Hutchison Convention Center Dallas",
-      "startDate": "2026-09-24",
+      "startDate": "2026-09-25",
       "endDate": "2026-09-26",
       "category": "Consumer Show",
       "attendance": null,
@@ -1729,6 +1696,61 @@
       "sourceUrl": "https://www.visitsandiego.com/calendar?page=1"
     },
     {
+      "title": "The Business Show & B2B Marketing Expo Miami 2027",
+      "city": "Miami Beach",
+      "venue": "Miami Beach Convention Center",
+      "startDate": "2027-04-14",
+      "endDate": "2027-04-15",
+      "category": "Convention Center Event",
+      "attendance": null,
+      "sourceKey": "miami",
+      "sourceUrl": "https://www.miamibeachconvention.com/events"
+    },
+    {
+      "title": "The Business Show & B2B Marketing Expo Miami 2027",
+      "city": "Miami Beach",
+      "venue": "Miami Beach Convention Center",
+      "startDate": "2027-04-15",
+      "endDate": "2027-04-15",
+      "category": "Convention Center Event",
+      "attendance": null,
+      "sourceKey": "miami",
+      "sourceUrl": "https://www.miamibeachconvention.com/events"
+    },
+    {
+      "title": "The Aesthetic Society Meeting 2027",
+      "city": "Miami Beach",
+      "venue": "Miami Beach Convention Center",
+      "startDate": "2027-04-15",
+      "endDate": "2027-04-18",
+      "category": "Convention Center Event",
+      "attendance": null,
+      "sourceKey": "miami",
+      "sourceUrl": "https://www.miamibeachconvention.com/events"
+    },
+    {
+      "title": "The Aesthetic Society Meeting 2027",
+      "city": "Miami Beach",
+      "venue": "Miami Beach Convention Center",
+      "startDate": "2027-04-18",
+      "endDate": "2027-04-18",
+      "category": "Convention Center Event",
+      "attendance": null,
+      "sourceKey": "miami",
+      "sourceUrl": "https://www.miamibeachconvention.com/events"
+    },
+    {
+      "title": "Consensus Miami 2027",
+      "city": "Miami Beach",
+      "venue": "Miami Beach Convention Center",
+      "startDate": "2027-04-30",
+      "endDate": "2027-05-07",
+      "category": "Convention Center Event",
+      "attendance": null,
+      "sourceKey": "miami",
+      "sourceUrl": "https://www.miamibeachconvention.com/events"
+    },
+    {
       "title": "ASSOCIATION FOR RESEARCH IN VISION & OPHTHALMOLOGY ANNUAL",
       "city": "San Diego",
       "venue": "San Diego Convention Center",
@@ -1738,6 +1760,39 @@
       "attendance": 10600,
       "sourceKey": "sandiego",
       "sourceUrl": "https://www.visitsandiego.com/calendar?page=1"
+    },
+    {
+      "title": "Consensus Miami 2027",
+      "city": "Miami Beach",
+      "venue": "Miami Beach Convention Center",
+      "startDate": "2027-05-07",
+      "endDate": "2027-05-07",
+      "category": "Convention Center Event",
+      "attendance": null,
+      "sourceKey": "miami",
+      "sourceUrl": "https://www.miamibeachconvention.com/events"
+    },
+    {
+      "title": "Vinexpo Americas Miami 2027",
+      "city": "Miami Beach",
+      "venue": "Miami Beach Convention Center",
+      "startDate": "2027-05-09",
+      "endDate": "2027-05-12",
+      "category": "Convention Center Event",
+      "attendance": null,
+      "sourceKey": "miami",
+      "sourceUrl": "https://www.miamibeachconvention.com/events"
+    },
+    {
+      "title": "Vinexpo Americas Miami 2027",
+      "city": "Miami Beach",
+      "venue": "Miami Beach Convention Center",
+      "startDate": "2027-05-12",
+      "endDate": "2027-05-12",
+      "category": "Convention Center Event",
+      "attendance": null,
+      "sourceKey": "miami",
+      "sourceUrl": "https://www.miamibeachconvention.com/events"
     },
     {
       "title": "HYROX SAN DIEGO",
@@ -1771,6 +1826,28 @@
       "attendance": 4000,
       "sourceKey": "sandiego",
       "sourceUrl": "https://www.visitsandiego.com/calendar?page=1"
+    },
+    {
+      "title": "Xponential 2027",
+      "city": "Miami Beach",
+      "venue": "Miami Beach Convention Center",
+      "startDate": "2027-05-17",
+      "endDate": "2027-05-20",
+      "category": "Convention Center Event",
+      "attendance": null,
+      "sourceKey": "miami",
+      "sourceUrl": "https://www.miamibeachconvention.com/events"
+    },
+    {
+      "title": "Xponential 2027",
+      "city": "Miami Beach",
+      "venue": "Miami Beach Convention Center",
+      "startDate": "2027-05-20",
+      "endDate": "2027-05-20",
+      "category": "Convention Center Event",
+      "attendance": null,
+      "sourceKey": "miami",
+      "sourceUrl": "https://www.miamibeachconvention.com/events"
     },
     {
       "title": "AMERICAN UROLOGICAL ASSOCIATION 2027 ANNUAL CONVENTION",
@@ -2023,7 +2100,7 @@
       "url": "https://www.dallasconventioncenter.com/events",
       "ok": true,
       "mode": "reader",
-      "lastSuccess": "2026-09-24T23:26:10.413Z",
+      "lastSuccess": "2026-09-25T07:29:22.455Z",
       "error": null
     },
     {
@@ -2033,7 +2110,7 @@
       "url": "https://www.miamibeachconvention.com/events",
       "ok": true,
       "mode": "reader",
-      "lastSuccess": "2026-09-24T23:26:32.658Z",
+      "lastSuccess": "2026-09-25T07:29:45.974Z",
       "error": null
     },
     {
@@ -2043,7 +2120,7 @@
       "url": "https://www.visitsandiego.com/calendar?page=1",
       "ok": true,
       "mode": "reader",
-      "lastSuccess": "2026-09-24T23:26:39.770Z",
+      "lastSuccess": "2026-09-25T07:29:48.747Z",
       "error": null
     },
     {
@@ -2063,7 +2140,7 @@
       "url": "https://events.occc.net/",
       "ok": true,
       "mode": "direct",
-      "lastSuccess": "2026-09-24T23:26:57.243Z",
+      "lastSuccess": "2026-09-25T07:30:06.720Z",
       "error": null
     },
     {
@@ -2073,7 +2150,7 @@
       "url": "https://www.vegasmeansbusiness.com/destination-calendar/",
       "ok": true,
       "mode": "reader",
-      "lastSuccess": "2026-09-24T23:27:03.001Z",
+      "lastSuccess": "2026-09-25T07:30:11.786Z",
       "error": null
     },
     {
@@ -2083,7 +2160,7 @@
       "url": "https://www.choosechicago.com/meeting-planners/chicago-updates-for-meeting-planners/chicago-convention-calendar/",
       "ok": true,
       "mode": "direct",
-      "lastSuccess": "2026-09-24T23:27:03.851Z",
+      "lastSuccess": "2026-09-25T07:30:12.833Z",
       "error": null
     },
     {
