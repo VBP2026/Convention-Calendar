@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-29T02:36:07.365Z",
+  "updatedAt": "2026-09-29T14:06:22.087Z",
   "events": [
     {
       "title": "Western States Roofing Contractors Association Annual Western Roofing Expo",
@@ -1586,7 +1586,7 @@
       "sourceUrl": "https://events.occc.net/event/do-it-best-spring-market-2027/951/"
     },
     {
-      "title": "DTU 2027",
+      "title": "DTU Nationals 2027",
       "city": "Orlando",
       "venue": "Orange County Convention Center",
       "startDate": "2027-03-05",
@@ -1594,7 +1594,7 @@
       "category": "Event",
       "attendance": null,
       "sourceKey": "orlando",
-      "sourceUrl": "https://events.occc.net/event/dtu-2027/955/"
+      "sourceUrl": "https://events.occc.net/event/dtu-nationals-2027/955/"
     },
     {
       "title": "TSN MARQUEE MAIN EVENT",
@@ -2188,7 +2188,7 @@
       "url": "https://www.dallasconventioncenter.com/events",
       "ok": true,
       "mode": "reader",
-      "lastSuccess": "2026-09-29T02:35:12.511Z",
+      "lastSuccess": "2026-09-29T14:05:33.924Z",
       "error": null
     },
     {
@@ -2196,10 +2196,10 @@
       "city": "Miami Beach",
       "venue": "Miami Beach Convention Center",
       "url": "https://www.miamibeachconvention.com/events",
-      "ok": true,
-      "mode": "reader",
+      "ok": false,
+      "mode": "fallback",
       "lastSuccess": "2026-09-29T02:35:36.363Z",
-      "error": null
+      "error": "No parsable upcoming events returned"
     },
     {
       "key": "sandiego",
@@ -2208,7 +2208,7 @@
       "url": "https://www.visitsandiego.com/calendar?page=1",
       "ok": true,
       "mode": "reader",
-      "lastSuccess": "2026-09-29T02:35:41.488Z",
+      "lastSuccess": "2026-09-29T14:05:56.081Z",
       "error": null
     },
     {
@@ -2218,7 +2218,7 @@
       "url": "https://www.visitanaheim.org/listing/anaheim-convention-center/2959/",
       "ok": true,
       "mode": "reader",
-      "lastSuccess": "2026-09-29T02:35:47.853Z",
+      "lastSuccess": "2026-09-29T14:06:04.422Z",
       "error": null
     },
     {
@@ -2228,7 +2228,7 @@
       "url": "https://events.occc.net/",
       "ok": true,
       "mode": "direct",
-      "lastSuccess": "2026-09-29T02:35:57.141Z",
+      "lastSuccess": "2026-09-29T14:06:16.074Z",
       "error": null
     },
     {
@@ -2236,10 +2236,10 @@
       "city": "Las Vegas",
       "venue": "Las Vegas Convention Center",
       "url": "https://www.vegasmeansbusiness.com/destination-calendar/",
-      "ok": true,
-      "mode": "reader",
+      "ok": false,
+      "mode": "fallback",
       "lastSuccess": "2026-09-29T02:36:04.601Z",
-      "error": null
+      "error": "Rendered page contained no parsable upcoming events"
     },
     {
       "key": "chicago",
@@ -2248,7 +2248,7 @@
       "url": "https://www.choosechicago.com/meeting-planners/chicago-updates-for-meeting-planners/chicago-convention-calendar/",
       "ok": true,
       "mode": "direct",
-      "lastSuccess": "2026-09-29T02:36:05.124Z",
+      "lastSuccess": "2026-09-29T14:06:20.798Z",
       "error": null
     },
     {
