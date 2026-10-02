@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-02T13:54:17.888Z",
+  "updatedAt": "2026-10-02T19:58:55.289Z",
   "events": [
     {
       "title": "2026 EMS World Expo",
@@ -1058,17 +1058,6 @@
       "sourceUrl": "https://www.visitsandiego.com/calendar?page=1"
     },
     {
-      "title": "Art Basel Miami Beach",
-      "city": "Miami Beach",
-      "venue": "Miami Beach Convention Center",
-      "startDate": "2026-12-02",
-      "endDate": "2026-12-06",
-      "category": "Convention Center Event",
-      "attendance": null,
-      "sourceKey": "miami",
-      "sourceUrl": "https://www.miamibeachconvention.com/events"
-    },
-    {
       "title": "Design Miami",
       "city": "Miami Beach",
       "venue": "Miami Beach Convention Center",
@@ -1111,17 +1100,6 @@
       "attendance": null,
       "sourceKey": "orlando",
       "sourceUrl": "https://events.occc.net/event/ashp-midyear-clinical-meeting/914/"
-    },
-    {
-      "title": "Art Basel Miami Beach",
-      "city": "Miami Beach",
-      "venue": "Miami Beach Convention Center",
-      "startDate": "2026-12-06",
-      "endDate": "2026-12-06",
-      "category": "Convention Center Event",
-      "attendance": null,
-      "sourceKey": "miami",
-      "sourceUrl": "https://www.miamibeachconvention.com/events"
     },
     {
       "title": "Design Miami",
@@ -2499,28 +2477,6 @@
       "sourceUrl": "https://www.visitsandiego.com/calendar?page=1"
     },
     {
-      "title": "Xponential 2027",
-      "city": "Miami Beach",
-      "venue": "Miami Beach Convention Center",
-      "startDate": "2027-05-17",
-      "endDate": "2027-05-20",
-      "category": "Convention Center Event",
-      "attendance": null,
-      "sourceKey": "miami",
-      "sourceUrl": "https://www.miamibeachconvention.com/events"
-    },
-    {
-      "title": "Xponential 2027",
-      "city": "Miami Beach",
-      "venue": "Miami Beach Convention Center",
-      "startDate": "2027-05-20",
-      "endDate": "2027-05-20",
-      "category": "Convention Center Event",
-      "attendance": null,
-      "sourceKey": "miami",
-      "sourceUrl": "https://www.miamibeachconvention.com/events"
-    },
-    {
       "title": "AMERICAN UROLOGICAL ASSOCIATION 2027 ANNUAL CONVENTION",
       "city": "San Diego",
       "venue": "San Diego Convention Center",
@@ -2530,50 +2486,6 @@
       "attendance": 18000,
       "sourceKey": "sandiego",
       "sourceUrl": "https://www.visitsandiego.com/calendar?page=1"
-    },
-    {
-      "title": "CPHI 2027",
-      "city": "Miami Beach",
-      "venue": "Miami Beach Convention Center",
-      "startDate": "2027-05-25",
-      "endDate": "2027-05-27",
-      "category": "Convention Center Event",
-      "attendance": null,
-      "sourceKey": "miami",
-      "sourceUrl": "https://www.miamibeachconvention.com/events"
-    },
-    {
-      "title": "Miami Build Expo 2027",
-      "city": "Miami Beach",
-      "venue": "Miami Beach Convention Center",
-      "startDate": "2027-05-26",
-      "endDate": "2027-05-27",
-      "category": "Convention Center Event",
-      "attendance": null,
-      "sourceKey": "miami",
-      "sourceUrl": "https://www.miamibeachconvention.com/events"
-    },
-    {
-      "title": "CPHI 2027",
-      "city": "Miami Beach",
-      "venue": "Miami Beach Convention Center",
-      "startDate": "2027-05-27",
-      "endDate": "2027-05-27",
-      "category": "Convention Center Event",
-      "attendance": null,
-      "sourceKey": "miami",
-      "sourceUrl": "https://www.miamibeachconvention.com/events"
-    },
-    {
-      "title": "Miami Build Expo 2027",
-      "city": "Miami Beach",
-      "venue": "Miami Beach Convention Center",
-      "startDate": "2027-05-27",
-      "endDate": "2027-05-27",
-      "category": "Convention Center Event",
-      "attendance": null,
-      "sourceKey": "miami",
-      "sourceUrl": "https://www.miamibeachconvention.com/events"
     },
     {
       "title": "SOCIETY FOR VASCULAR SURGERY 2027 ANNUAL MEETING",
@@ -2609,28 +2521,6 @@
       "sourceUrl": "https://www.visitsandiego.com/calendar?page=1"
     },
     {
-      "title": "LE Miami",
-      "city": "Miami Beach",
-      "venue": "Miami Beach Convention Center",
-      "startDate": "2027-06-08",
-      "endDate": "2027-06-10",
-      "category": "Convention Center Event",
-      "attendance": null,
-      "sourceKey": "miami",
-      "sourceUrl": "https://www.miamibeachconvention.com/events"
-    },
-    {
-      "title": "LE Miami",
-      "city": "Miami Beach",
-      "venue": "Miami Beach Convention Center",
-      "startDate": "2027-06-10",
-      "endDate": "2027-06-10",
-      "category": "Convention Center Event",
-      "attendance": null,
-      "sourceKey": "miami",
-      "sourceUrl": "https://www.miamibeachconvention.com/events"
-    },
-    {
       "title": "AMERICAN WATER WORKS ASSOCIATION ANNUAL CONFERENCE & EXPO",
       "city": "San Diego",
       "venue": "San Diego Convention Center",
@@ -2653,28 +2543,6 @@
       "sourceUrl": "https://www.visitsandiego.com/calendar?page=1"
     },
     {
-      "title": "WHX Miami (World Health Expo)",
-      "city": "Miami Beach",
-      "venue": "Miami Beach Convention Center",
-      "startDate": "2027-06-16",
-      "endDate": "2027-06-18",
-      "category": "Convention Center Event",
-      "attendance": null,
-      "sourceKey": "miami",
-      "sourceUrl": "https://www.miamibeachconvention.com/events"
-    },
-    {
-      "title": "WHX Miami (World Health Expo)",
-      "city": "Miami Beach",
-      "venue": "Miami Beach Convention Center",
-      "startDate": "2027-06-18",
-      "endDate": "2027-06-18",
-      "category": "Convention Center Event",
-      "attendance": null,
-      "sourceKey": "miami",
-      "sourceUrl": "https://www.miamibeachconvention.com/events"
-    },
-    {
       "title": "NASFAA 2027",
       "city": "San Diego",
       "venue": "San Diego Convention Center",
@@ -2684,28 +2552,6 @@
       "attendance": 2500,
       "sourceKey": "sandiego",
       "sourceUrl": "https://www.visitsandiego.com/calendar?page=1"
-    },
-    {
-      "title": "11th Americas GHI Conference",
-      "city": "Miami Beach",
-      "venue": "Miami Beach Convention Center",
-      "startDate": "2027-06-22",
-      "endDate": "2027-06-24",
-      "category": "Convention Center Event",
-      "attendance": null,
-      "sourceKey": "miami",
-      "sourceUrl": "https://www.miamibeachconvention.com/events"
-    },
-    {
-      "title": "11th Americas GHI Conference",
-      "city": "Miami Beach",
-      "venue": "Miami Beach Convention Center",
-      "startDate": "2027-06-24",
-      "endDate": "2027-06-24",
-      "category": "Convention Center Event",
-      "attendance": null,
-      "sourceKey": "miami",
-      "sourceUrl": "https://www.miamibeachconvention.com/events"
     },
     {
       "title": "DRUG INFORMATION ASSOCIATION / DIA GLOBAL ANNUAL MEETING 2027",
@@ -2804,7 +2650,7 @@
       "url": "https://www.dallasconventioncenter.com/events",
       "ok": true,
       "mode": "reader",
-      "lastSuccess": "2026-10-02T13:53:05.613Z",
+      "lastSuccess": "2026-10-02T19:57:41.828Z",
       "error": null
     },
     {
@@ -2814,7 +2660,7 @@
       "url": "https://www.miamibeachconvention.com/events",
       "ok": true,
       "mode": "reader",
-      "lastSuccess": "2026-10-02T13:53:33.985Z",
+      "lastSuccess": "2026-10-02T19:58:08.124Z",
       "error": null
     },
     {
@@ -2824,7 +2670,7 @@
       "url": "https://www.visitsandiego.com/calendar?page=1",
       "ok": true,
       "mode": "reader",
-      "lastSuccess": "2026-10-02T13:53:40.045Z",
+      "lastSuccess": "2026-10-02T19:58:10.857Z",
       "error": null
     },
     {
@@ -2834,7 +2680,7 @@
       "url": "https://www.visitanaheim.org/listing/anaheim-convention-center/2959/",
       "ok": true,
       "mode": "reader",
-      "lastSuccess": "2026-10-02T13:53:52.234Z",
+      "lastSuccess": "2026-10-02T19:58:19.082Z",
       "error": null
     },
     {
@@ -2844,7 +2690,7 @@
       "url": "https://events.occc.net/",
       "ok": true,
       "mode": "direct",
-      "lastSuccess": "2026-10-02T13:54:03.396Z",
+      "lastSuccess": "2026-10-02T19:58:29.850Z",
       "error": null
     },
     {
@@ -2852,10 +2698,10 @@
       "city": "Las Vegas",
       "venue": "Las Vegas Convention Center",
       "url": "https://www.vegasmeansbusiness.com/destination-calendar/",
-      "ok": false,
-      "mode": "fallback",
-      "lastSuccess": "2026-10-02T02:18:10.259Z",
-      "error": "Rendered page contained no parsable upcoming events"
+      "ok": true,
+      "mode": "reader",
+      "lastSuccess": "2026-10-02T19:58:39.197Z",
+      "error": null
     },
     {
       "key": "chicago",
@@ -2864,7 +2710,7 @@
       "url": "https://www.choosechicago.com/meeting-planners/chicago-updates-for-meeting-planners/chicago-convention-calendar/",
       "ok": true,
       "mode": "direct",
-      "lastSuccess": "2026-10-02T13:54:08.886Z",
+      "lastSuccess": "2026-10-02T19:58:39.544Z",
       "error": null
     },
     {
@@ -2872,10 +2718,10 @@
       "city": "New York",
       "venue": "Jacob K. Javits Convention Center",
       "url": "https://javitscenter.com/calendar/",
-      "ok": true,
-      "mode": "reader",
+      "ok": false,
+      "mode": "fallback",
       "lastSuccess": "2026-10-02T13:54:17.720Z",
-      "error": null
+      "error": "Rendered page contained no parsable upcoming events; direct=HTTP 403"
     }
   ]
 }
