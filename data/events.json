@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-07T02:25:36.076Z",
+  "updatedAt": "2026-10-07T14:33:29.971Z",
   "events": [
     {
       "title": "National Electrical Contractors Association (NECA) Convention & Trade Show",
@@ -926,6 +926,17 @@
       "sourceUrl": "https://www.miamibeachconvention.com/events"
     },
     {
+      "title": "Design Miami",
+      "city": "Miami Beach",
+      "venue": "Miami Beach Convention Center",
+      "startDate": "2026-12-02",
+      "endDate": "2026-12-06",
+      "category": "Convention Center Event",
+      "attendance": null,
+      "sourceKey": "miami",
+      "sourceUrl": "https://www.miamibeachconvention.com/events"
+    },
+    {
       "title": "CSBA 2026 ANNUAL EDUCATION CONFERENCE & TRADE SHOW",
       "city": "San Diego",
       "venue": "San Diego Convention Center",
@@ -960,6 +971,17 @@
     },
     {
       "title": "Art Basel Miami Beach",
+      "city": "Miami Beach",
+      "venue": "Miami Beach Convention Center",
+      "startDate": "2026-12-06",
+      "endDate": "2026-12-06",
+      "category": "Convention Center Event",
+      "attendance": null,
+      "sourceKey": "miami",
+      "sourceUrl": "https://www.miamibeachconvention.com/events"
+    },
+    {
+      "title": "Design Miami",
       "city": "Miami Beach",
       "venue": "Miami Beach Convention Center",
       "startDate": "2026-12-06",
@@ -1058,6 +1080,17 @@
       "sourceUrl": "https://events.occc.net/event/holiday-matsuri-2026/919/"
     },
     {
+      "title": "Xenom Miami",
+      "city": "Miami Beach",
+      "venue": "Miami Beach Convention Center",
+      "startDate": "2026-12-19",
+      "endDate": "2026-12-20",
+      "category": "Convention Center Event",
+      "attendance": null,
+      "sourceKey": "miami",
+      "sourceUrl": "https://www.miamibeachconvention.com/events"
+    },
+    {
       "title": "NBA G League Fall To",
       "city": "Orlando",
       "venue": "Orange County Convention Center",
@@ -1067,6 +1100,17 @@
       "attendance": null,
       "sourceKey": "orlando",
       "sourceUrl": "https://events.occc.net/event/nba-g-league-fall-to/918/"
+    },
+    {
+      "title": "Xenom Miami",
+      "city": "Miami Beach",
+      "venue": "Miami Beach Convention Center",
+      "startDate": "2026-12-20",
+      "endDate": "2026-12-20",
+      "category": "Convention Center Event",
+      "attendance": null,
+      "sourceKey": "miami",
+      "sourceUrl": "https://www.miamibeachconvention.com/events"
     },
     {
       "title": "MASCON 26 Annual Convention",
@@ -1157,6 +1201,17 @@
       "sourceUrl": "https://events.occc.net/event/central-florida-home/924/"
     },
     {
+      "title": "PCMA Convening Leaders",
+      "city": "Miami Beach",
+      "venue": "Miami Beach Convention Center",
+      "startDate": "2027-01-10",
+      "endDate": "2027-01-13",
+      "category": "Convention Center Event",
+      "attendance": null,
+      "sourceKey": "miami",
+      "sourceUrl": "https://www.miamibeachconvention.com/events"
+    },
+    {
       "title": "Commercial Space Week",
       "city": "Orlando",
       "venue": "Orange County Convention Center",
@@ -1166,6 +1221,17 @@
       "attendance": null,
       "sourceKey": "orlando",
       "sourceUrl": "https://events.occc.net/event/commercial-space-week/926/"
+    },
+    {
+      "title": "PCMA Convening Leaders",
+      "city": "Miami Beach",
+      "venue": "Miami Beach Convention Center",
+      "startDate": "2027-01-13",
+      "endDate": "2027-01-13",
+      "category": "Convention Center Event",
+      "attendance": null,
+      "sourceKey": "miami",
+      "sourceUrl": "https://www.miamibeachconvention.com/events"
     },
     {
       "title": "Presidential Classic",
@@ -1190,6 +1256,17 @@
       "sourceUrl": "https://www.visitsandiego.com/calendar?page=1"
     },
     {
+      "title": "MLK Volleyball Summit",
+      "city": "Miami Beach",
+      "venue": "Miami Beach Convention Center",
+      "startDate": "2027-01-16",
+      "endDate": "2027-01-18",
+      "category": "Convention Center Event",
+      "attendance": null,
+      "sourceKey": "miami",
+      "sourceUrl": "https://www.miamibeachconvention.com/events"
+    },
+    {
       "title": "All Out Grand Nation",
       "city": "Orlando",
       "venue": "Orange County Convention Center",
@@ -1210,6 +1287,17 @@
       "attendance": 350,
       "sourceKey": "sandiego",
       "sourceUrl": "https://www.visitsandiego.com/calendar?page=1"
+    },
+    {
+      "title": "MLK Volleyball Summit",
+      "city": "Miami Beach",
+      "venue": "Miami Beach Convention Center",
+      "startDate": "2027-01-18",
+      "endDate": "2027-01-18",
+      "category": "Convention Center Event",
+      "attendance": null,
+      "sourceKey": "miami",
+      "sourceUrl": "https://www.miamibeachconvention.com/events"
     },
     {
       "title": "MLK Day of Service Million Meal Pack",
@@ -1234,6 +1322,17 @@
       "sourceUrl": "https://www.visitsandiego.com/calendar?page=1"
     },
     {
+      "title": "Miami FAMP",
+      "city": "Miami Beach",
+      "venue": "Miami Beach Convention Center",
+      "startDate": "2027-01-19",
+      "endDate": "2027-01-19",
+      "category": "Convention Center Event",
+      "attendance": null,
+      "sourceKey": "miami",
+      "sourceUrl": "https://www.miamibeachconvention.com/events"
+    },
+    {
       "title": "Florida Fest JNQ in",
       "city": "Orlando",
       "venue": "Orange County Convention Center",
@@ -1243,6 +1342,17 @@
       "attendance": null,
       "sourceKey": "orlando",
       "sourceUrl": "https://events.occc.net/event/florida-fest-jnq-in/933/"
+    },
+    {
+      "title": "Cosmoprof North America Miami 2027",
+      "city": "Miami Beach",
+      "venue": "Miami Beach Convention Center",
+      "startDate": "2027-01-26",
+      "endDate": "2027-01-28",
+      "category": "Convention Center Event",
+      "attendance": null,
+      "sourceKey": "miami",
+      "sourceUrl": "https://www.miamibeachconvention.com/events"
     },
     {
       "title": "FETC 2027",
@@ -1276,6 +1386,17 @@
       "attendance": 5000,
       "sourceKey": "sandiego",
       "sourceUrl": "https://www.visitsandiego.com/calendar?page=1"
+    },
+    {
+      "title": "Cosmoprof North America Miami 2027",
+      "city": "Miami Beach",
+      "venue": "Miami Beach Convention Center",
+      "startDate": "2027-01-28",
+      "endDate": "2027-01-28",
+      "category": "Convention Center Event",
+      "attendance": null,
+      "sourceKey": "miami",
+      "sourceUrl": "https://www.miamibeachconvention.com/events"
     },
     {
       "title": "SOCIETY FOR LABORATORY AUTOMATION & SCREENING 2027 ANNUAL",
@@ -2573,7 +2694,7 @@
       "url": "https://www.dallasconventioncenter.com/events",
       "ok": true,
       "mode": "reader",
-      "lastSuccess": "2026-10-07T02:24:36.867Z",
+      "lastSuccess": "2026-10-07T14:32:20.116Z",
       "error": null
     },
     {
@@ -2583,7 +2704,7 @@
       "url": "https://www.miamibeachconvention.com/events",
       "ok": true,
       "mode": "reader",
-      "lastSuccess": "2026-10-07T02:25:02.965Z",
+      "lastSuccess": "2026-10-07T14:32:46.429Z",
       "error": null
     },
     {
@@ -2593,7 +2714,7 @@
       "url": "https://www.visitsandiego.com/calendar?page=1",
       "ok": true,
       "mode": "reader",
-      "lastSuccess": "2026-10-07T02:25:05.725Z",
+      "lastSuccess": "2026-10-07T14:32:52.248Z",
       "error": null
     },
     {
@@ -2613,7 +2734,7 @@
       "url": "https://events.occc.net/",
       "ok": true,
       "mode": "direct",
-      "lastSuccess": "2026-10-07T02:25:21.493Z",
+      "lastSuccess": "2026-10-07T14:33:08.315Z",
       "error": null
     },
     {
@@ -2623,7 +2744,7 @@
       "url": "https://www.vegasmeansbusiness.com/destination-calendar/",
       "ok": true,
       "mode": "reader",
-      "lastSuccess": "2026-10-07T02:25:26.955Z",
+      "lastSuccess": "2026-10-07T14:33:14.188Z",
       "error": null
     },
     {
@@ -2633,7 +2754,7 @@
       "url": "https://www.choosechicago.com/meeting-planners/chicago-updates-for-meeting-planners/chicago-convention-calendar/",
       "ok": true,
       "mode": "direct",
-      "lastSuccess": "2026-10-07T02:25:27.381Z",
+      "lastSuccess": "2026-10-07T14:33:14.399Z",
       "error": null
     },
     {
@@ -2641,10 +2762,10 @@
       "city": "New York",
       "venue": "Jacob K. Javits Convention Center",
       "url": "https://javitscenter.com/calendar/",
-      "ok": true,
-      "mode": "reader",
+      "ok": false,
+      "mode": "fallback",
       "lastSuccess": "2026-10-07T02:25:36.059Z",
-      "error": null
+      "error": "Rendered page contained no parsable upcoming events; direct=HTTP 403"
     }
   ]
 }
