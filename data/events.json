@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-09T02:58:02.561Z",
+  "updatedAt": "2026-10-09T14:24:09.169Z",
   "events": [
     {
       "title": "Las Vegas Souvenir & Resort Gift Show 2026",
@@ -31,6 +31,17 @@
       "endDate": "2026-10-09",
       "category": "Convention / Trade Show",
       "attendance": 26000,
+      "sourceKey": "vegas",
+      "sourceUrl": "https://www.vegasmeansbusiness.com/destination-calendar/"
+    },
+    {
+      "title": "Nevada Bridal & Wedding Expo - October 2026",
+      "city": "Las Vegas",
+      "venue": "Las Vegas Convention Center",
+      "startDate": "2026-10-07",
+      "endDate": "2026-10-09",
+      "category": "Convention / Trade Show",
+      "attendance": 4000,
       "sourceKey": "vegas",
       "sourceUrl": "https://www.vegasmeansbusiness.com/destination-calendar/"
     },
@@ -121,17 +132,6 @@
       "attendance": null,
       "sourceKey": "nyc",
       "sourceUrl": "https://javitscenter.com/calendar/"
-    },
-    {
-      "title": "Nevada Bridal & Wedding Expo - October 2026",
-      "city": "Las Vegas",
-      "venue": "Las Vegas Convention Center",
-      "startDate": "2026-10-09",
-      "endDate": "2026-10-10",
-      "category": "Convention / Trade Show",
-      "attendance": 4000,
-      "sourceKey": "vegas",
-      "sourceUrl": "https://www.vegasmeansbusiness.com/destination-calendar/"
     },
     {
       "title": "YBNB BIZ CON 2026",
@@ -330,6 +330,17 @@
       "attendance": null,
       "sourceKey": "nyc",
       "sourceUrl": "https://javitscenter.com/calendar/"
+    },
+    {
+      "title": "Immunoglobulin Nursing Society (IgNS) - 2026 National Conference",
+      "city": "Las Vegas",
+      "venue": "Red Rock Casino Resort Spa",
+      "startDate": "2026-10-15",
+      "endDate": "2026-10-18",
+      "category": "Convention / Trade Show",
+      "attendance": 800,
+      "sourceKey": "vegas",
+      "sourceUrl": "https://www.vegasmeansbusiness.com/destination-calendar/"
     },
     {
       "title": "The Global Produce & Floral Show",
@@ -2122,7 +2133,7 @@
       "url": "https://www.dallasconventioncenter.com/events",
       "ok": true,
       "mode": "reader",
-      "lastSuccess": "2026-10-09T02:57:02.095Z",
+      "lastSuccess": "2026-10-09T14:23:05.998Z",
       "error": null
     },
     {
@@ -2130,10 +2141,10 @@
       "city": "Miami Beach",
       "venue": "Miami Beach Convention Center",
       "url": "https://www.miamibeachconvention.com/events",
-      "ok": true,
-      "mode": "reader",
+      "ok": false,
+      "mode": "fallback",
       "lastSuccess": "2026-10-09T02:57:31.746Z",
-      "error": null
+      "error": "No parsable upcoming events returned"
     },
     {
       "key": "sandiego",
@@ -2142,7 +2153,7 @@
       "url": "https://www.visitsandiego.com/calendar?page=1",
       "ok": true,
       "mode": "reader",
-      "lastSuccess": "2026-10-09T02:57:34.962Z",
+      "lastSuccess": "2026-10-09T14:23:29.069Z",
       "error": null
     },
     {
@@ -2162,7 +2173,7 @@
       "url": "https://events.occc.net/",
       "ok": true,
       "mode": "direct",
-      "lastSuccess": "2026-10-09T02:57:43.022Z",
+      "lastSuccess": "2026-10-09T14:23:46.098Z",
       "error": null
     },
     {
@@ -2170,10 +2181,10 @@
       "city": "Las Vegas",
       "venue": "Las Vegas Convention Center",
       "url": "https://www.vegasmeansbusiness.com/destination-calendar/",
-      "ok": false,
-      "mode": "fallback",
-      "lastSuccess": "2026-10-08T20:43:06.183Z",
-      "error": "Rendered page contained no parsable upcoming events"
+      "ok": true,
+      "mode": "reader",
+      "lastSuccess": "2026-10-09T14:23:53.326Z",
+      "error": null
     },
     {
       "key": "chicago",
@@ -2182,7 +2193,7 @@
       "url": "https://www.choosechicago.com/meeting-planners/chicago-updates-for-meeting-planners/chicago-convention-calendar/",
       "ok": true,
       "mode": "direct",
-      "lastSuccess": "2026-10-09T02:57:52.987Z",
+      "lastSuccess": "2026-10-09T14:23:53.679Z",
       "error": null
     },
     {
@@ -2190,10 +2201,10 @@
       "city": "New York",
       "venue": "Jacob K. Javits Convention Center",
       "url": "https://javitscenter.com/calendar/",
-      "ok": true,
-      "mode": "reader",
+      "ok": false,
+      "mode": "fallback",
       "lastSuccess": "2026-10-09T02:58:02.433Z",
-      "error": null
+      "error": "Rendered page contained no parsable upcoming events; direct=HTTP 403"
     }
   ]
 }
