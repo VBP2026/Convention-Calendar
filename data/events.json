@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-11T14:05:24.187Z",
+  "updatedAt": "2026-10-11T19:35:26.870Z",
   "events": [
     {
       "title": "Nevada Bridal & Wedding Expo - October 2026",
@@ -530,6 +530,17 @@
       "sourceUrl": "https://events.occc.net/event/cheney-brothers-fo/899/"
     },
     {
+      "title": "Small Business Expo Dallas",
+      "city": "Dallas",
+      "venue": "Kay Bailey Hutchison Convention Center Dallas",
+      "startDate": "2026-11-04",
+      "endDate": "2026-11-04",
+      "category": "Special Event",
+      "attendance": null,
+      "sourceKey": "dallas",
+      "sourceUrl": "https://www.dallasconventioncenter.com/events"
+    },
+    {
       "title": "Yu-Gi-Oh! Championship Series Orlando 2026",
       "city": "Orlando",
       "venue": "Orange County Convention Center",
@@ -572,6 +583,17 @@
       "attendance": 900,
       "sourceKey": "sandiego",
       "sourceUrl": "https://www.visitsandiego.com/calendar?page=1"
+    },
+    {
+      "title": "ThriftCon 2026",
+      "city": "Dallas",
+      "venue": "Kay Bailey Hutchison Convention Center Dallas",
+      "startDate": "2026-11-07",
+      "endDate": "2026-11-07",
+      "category": "Consumer Show",
+      "attendance": null,
+      "sourceKey": "dallas",
+      "sourceUrl": "https://www.dallasconventioncenter.com/events"
     },
     {
       "title": "WESCON REGIONAL CHEER AND DANCE CHAMPIONSHIPS",
@@ -662,6 +684,17 @@
       "sourceUrl": "https://events.occc.net/event/iaapa-expo/908/"
     },
     {
+      "title": "HYROX Dallas 2026",
+      "city": "Dallas",
+      "venue": "Kay Bailey Hutchison Convention Center Dallas",
+      "startDate": "2026-11-18",
+      "endDate": "2026-11-22",
+      "category": "Sporting Event",
+      "attendance": null,
+      "sourceKey": "dallas",
+      "sourceUrl": "https://www.dallasconventioncenter.com/events"
+    },
+    {
       "title": "Athletic Business Sh",
       "city": "Orlando",
       "venue": "Orange County Convention Center",
@@ -750,6 +783,17 @@
       "sourceUrl": "https://www.visitsandiego.com/calendar?page=1"
     },
     {
+      "title": "Spirit Celebration Grand Nationals 2026",
+      "city": "Dallas",
+      "venue": "Kay Bailey Hutchison Convention Center Dallas",
+      "startDate": "2026-12-05",
+      "endDate": "2026-12-06",
+      "category": "Sporting Event",
+      "attendance": null,
+      "sourceKey": "dallas",
+      "sourceUrl": "https://www.dallasconventioncenter.com/events"
+    },
+    {
       "title": "ASHP Midyear Clinical Meeting",
       "city": "Orlando",
       "venue": "Orange County Convention Center",
@@ -770,6 +814,17 @@
       "attendance": null,
       "sourceKey": "orlando",
       "sourceUrl": "https://events.occc.net/event/akc-national-championship-presented-by-royal-canin/915/"
+    },
+    {
+      "title": "BMW Dallas Marathon",
+      "city": "Dallas",
+      "venue": "Kay Bailey Hutchison Convention Center Dallas",
+      "startDate": "2026-12-11",
+      "endDate": "2026-12-12",
+      "category": "Special Event",
+      "attendance": null,
+      "sourceKey": "dallas",
+      "sourceUrl": "https://www.dallasconventioncenter.com/events"
     },
     {
       "title": "AMERICAN SOCIETY FOR CELL BIOLOGY ANNUAL",
@@ -803,6 +858,17 @@
       "attendance": null,
       "sourceKey": "orlando",
       "sourceUrl": "https://events.occc.net/event/spirit-cheer-2026/917/"
+    },
+    {
+      "title": "NCA Holiday Classic 2026",
+      "city": "Dallas",
+      "venue": "Kay Bailey Hutchison Convention Center Dallas",
+      "startDate": "2026-12-13",
+      "endDate": "2026-12-13",
+      "category": "Sporting Event",
+      "attendance": null,
+      "sourceKey": "dallas",
+      "sourceUrl": "https://www.dallasconventioncenter.com/events"
     },
     {
       "title": "The Midwest Clinic 2026 International Band & Orchestra Conference",
@@ -1990,7 +2056,7 @@
       "url": "https://www.dallasconventioncenter.com/events",
       "ok": true,
       "mode": "reader",
-      "lastSuccess": "2026-10-11T14:04:20.630Z",
+      "lastSuccess": "2026-10-11T19:34:31.104Z",
       "error": null
     },
     {
@@ -1998,10 +2064,10 @@
       "city": "Miami Beach",
       "venue": "Miami Beach Convention Center",
       "url": "https://www.miamibeachconvention.com/events",
-      "ok": true,
-      "mode": "reader",
+      "ok": false,
+      "mode": "fallback",
       "lastSuccess": "2026-10-11T14:04:40.825Z",
-      "error": null
+      "error": "No parsable upcoming events returned"
     },
     {
       "key": "sandiego",
@@ -2010,7 +2076,7 @@
       "url": "https://www.visitsandiego.com/calendar?page=1",
       "ok": true,
       "mode": "reader",
-      "lastSuccess": "2026-10-11T14:04:45.713Z",
+      "lastSuccess": "2026-10-11T19:34:47.263Z",
       "error": null
     },
     {
@@ -2030,7 +2096,7 @@
       "url": "https://events.occc.net/",
       "ok": true,
       "mode": "direct",
-      "lastSuccess": "2026-10-11T14:05:00.421Z",
+      "lastSuccess": "2026-10-11T19:35:05.463Z",
       "error": null
     },
     {
@@ -2038,10 +2104,10 @@
       "city": "Las Vegas",
       "venue": "Las Vegas Convention Center",
       "url": "https://www.vegasmeansbusiness.com/destination-calendar/",
-      "ok": true,
-      "mode": "reader",
+      "ok": false,
+      "mode": "fallback",
       "lastSuccess": "2026-10-11T14:05:07.623Z",
-      "error": null
+      "error": "Rendered page contained no parsable upcoming events"
     },
     {
       "key": "chicago",
@@ -2050,7 +2116,7 @@
       "url": "https://www.choosechicago.com/meeting-planners/chicago-updates-for-meeting-planners/chicago-convention-calendar/",
       "ok": true,
       "mode": "direct",
-      "lastSuccess": "2026-10-11T14:05:08.766Z",
+      "lastSuccess": "2026-10-11T19:35:11.385Z",
       "error": null
     },
     {
