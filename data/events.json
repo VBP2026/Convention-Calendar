@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-13T03:36:00.618Z",
+  "updatedAt": "2026-10-13T15:05:36.533Z",
   "events": [
     {
       "title": "HCP 2026 Fall Hospital Supply Chain Conference",
@@ -2122,7 +2122,7 @@
       "url": "https://www.dallasconventioncenter.com/events",
       "ok": true,
       "mode": "reader",
-      "lastSuccess": "2026-10-13T03:35:13.005Z",
+      "lastSuccess": "2026-10-13T15:04:42.614Z",
       "error": null
     },
     {
@@ -2130,10 +2130,10 @@
       "city": "Miami Beach",
       "venue": "Miami Beach Convention Center",
       "url": "https://www.miamibeachconvention.com/events",
-      "ok": true,
-      "mode": "reader",
+      "ok": false,
+      "mode": "fallback",
       "lastSuccess": "2026-10-13T03:35:35.236Z",
-      "error": null
+      "error": "No parsable upcoming events returned"
     },
     {
       "key": "sandiego",
@@ -2142,7 +2142,7 @@
       "url": "https://www.visitsandiego.com/calendar?page=1",
       "ok": true,
       "mode": "reader",
-      "lastSuccess": "2026-10-13T03:35:39.883Z",
+      "lastSuccess": "2026-10-13T15:05:15.874Z",
       "error": null
     },
     {
@@ -2162,7 +2162,7 @@
       "url": "https://events.occc.net/",
       "ok": true,
       "mode": "direct",
-      "lastSuccess": "2026-10-13T03:35:52.066Z",
+      "lastSuccess": "2026-10-13T15:05:27.165Z",
       "error": null
     },
     {
@@ -2170,10 +2170,10 @@
       "city": "Las Vegas",
       "venue": "Las Vegas Convention Center",
       "url": "https://www.vegasmeansbusiness.com/destination-calendar/",
-      "ok": true,
-      "mode": "reader",
+      "ok": false,
+      "mode": "fallback",
       "lastSuccess": "2026-10-13T03:35:59.092Z",
-      "error": null
+      "error": "Rendered page contained no parsable upcoming events"
     },
     {
       "key": "chicago",
@@ -2182,7 +2182,7 @@
       "url": "https://www.choosechicago.com/meeting-planners/chicago-updates-for-meeting-planners/chicago-convention-calendar/",
       "ok": true,
       "mode": "direct",
-      "lastSuccess": "2026-10-13T03:35:59.694Z",
+      "lastSuccess": "2026-10-13T15:05:35.866Z",
       "error": null
     },
     {
