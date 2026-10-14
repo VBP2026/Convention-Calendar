@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-14T01:55:54.258Z",
+  "updatedAt": "2026-10-14T12:54:53.767Z",
   "events": [
     {
       "title": "HCP 2026 Fall Hospital Supply Chain Conference",
@@ -145,7 +145,7 @@
       "sourceUrl": "https://www.dallasconventioncenter.com/events"
     },
     {
-      "title": "RTAG National Conven",
+      "title": "RTAG National Convention 2026",
       "city": "Orlando",
       "venue": "Orange County Convention Center",
       "startDate": "2026-10-17",
@@ -153,7 +153,7 @@
       "category": "Event",
       "attendance": null,
       "sourceKey": "orlando",
-      "sourceUrl": "https://events.occc.net/event/rtag-national-conven/889/"
+      "sourceUrl": "https://events.occc.net/event/rtag-national-convention-2026/889/"
     },
     {
       "title": "TEDxOrlando",
@@ -176,6 +176,17 @@
       "attendance": null,
       "sourceKey": "chicago",
       "sourceUrl": "https://www.choosechicago.com/meeting-planners/chicago-updates-for-meeting-planners/chicago-convention-calendar/"
+    },
+    {
+      "title": "Learn More →",
+      "city": "New York",
+      "venue": "Jacob K. Javits Convention Center",
+      "startDate": "2026-10-18",
+      "endDate": "2026-10-23",
+      "category": "Javits Center Event",
+      "attendance": null,
+      "sourceKey": "nyc",
+      "sourceUrl": "https://javitscenter.com/calendar/"
     },
     {
       "title": "Money 20/20 USA 2026",
@@ -233,11 +244,22 @@
       "sourceUrl": "https://events.occc.net/event/procore-groundbreak/890/"
     },
     {
-      "title": "Learn More →",
+      "title": "U.S. GREEN BUILDING COUNCIL MEETING",
       "city": "New York",
       "venue": "Jacob K. Javits Convention Center",
       "startDate": "2026-10-20",
       "endDate": "2026-10-21",
+      "category": "Javits Center Event",
+      "attendance": null,
+      "sourceKey": "nyc",
+      "sourceUrl": "https://javitscenter.com/calendar/"
+    },
+    {
+      "title": "Learn More →",
+      "city": "New York",
+      "venue": "Jacob K. Javits Convention Center",
+      "startDate": "2026-10-20",
+      "endDate": "2026-10-23",
       "category": "Javits Center Event",
       "attendance": null,
       "sourceKey": "nyc",
@@ -277,6 +299,28 @@
       "sourceUrl": "https://www.vegasmeansbusiness.com/destination-calendar/"
     },
     {
+      "title": "Learn More →",
+      "city": "New York",
+      "venue": "Jacob K. Javits Convention Center",
+      "startDate": "2026-10-22",
+      "endDate": "2026-10-22",
+      "category": "Javits Center Event",
+      "attendance": null,
+      "sourceKey": "nyc",
+      "sourceUrl": "https://javitscenter.com/calendar/"
+    },
+    {
+      "title": "BIG APPLE STARS AWARDS",
+      "city": "New York",
+      "venue": "Jacob K. Javits Convention Center",
+      "startDate": "2026-10-23",
+      "endDate": "2026-10-23",
+      "category": "Javits Center Event",
+      "attendance": null,
+      "sourceKey": "nyc",
+      "sourceUrl": "https://javitscenter.com/calendar/"
+    },
+    {
       "title": "PlantCon Dallas",
       "city": "Dallas",
       "venue": "Kay Bailey Hutchison Convention Center Dallas",
@@ -297,6 +341,17 @@
       "attendance": null,
       "sourceKey": "dallas",
       "sourceUrl": "https://www.dallasconventioncenter.com/events"
+    },
+    {
+      "title": "FDNY 2026 HIGH RISE SYMPOSIUM",
+      "city": "New York",
+      "venue": "Jacob K. Javits Convention Center",
+      "startDate": "2026-10-24",
+      "endDate": "2026-10-24",
+      "category": "Javits Center Event",
+      "attendance": null,
+      "sourceKey": "nyc",
+      "sourceUrl": "https://javitscenter.com/calendar/"
     },
     {
       "title": "IACP 2026",
@@ -321,7 +376,7 @@
       "sourceUrl": "https://events.occc.net/event/pizza-tomorrow-summit-%26-florida-restaurant-show/895/"
     },
     {
-      "title": "Learn More →",
+      "title": "NATIONAL PORTFOLIO DAY 2026",
       "city": "New York",
       "venue": "Jacob K. Javits Convention Center",
       "startDate": "2026-10-25",
@@ -341,6 +396,17 @@
       "attendance": null,
       "sourceKey": "dallas",
       "sourceUrl": "https://www.dallasconventioncenter.com/events"
+    },
+    {
+      "title": "Learn More →",
+      "city": "New York",
+      "venue": "Jacob K. Javits Convention Center",
+      "startDate": "2026-10-28",
+      "endDate": "2026-10-29",
+      "category": "Javits Center Event",
+      "attendance": null,
+      "sourceKey": "nyc",
+      "sourceUrl": "https://javitscenter.com/calendar/"
     },
     {
       "title": "Florida Association",
@@ -2265,7 +2331,7 @@
       "url": "https://www.dallasconventioncenter.com/events",
       "ok": true,
       "mode": "reader",
-      "lastSuccess": "2026-10-14T01:55:07.697Z",
+      "lastSuccess": "2026-10-14T12:53:40.022Z",
       "error": null
     },
     {
@@ -2273,10 +2339,10 @@
       "city": "Miami Beach",
       "venue": "Miami Beach Convention Center",
       "url": "https://www.miamibeachconvention.com/events",
-      "ok": true,
-      "mode": "reader",
+      "ok": false,
+      "mode": "fallback",
       "lastSuccess": "2026-10-14T01:55:31.421Z",
-      "error": null
+      "error": "No parsable upcoming events returned"
     },
     {
       "key": "sandiego",
@@ -2285,7 +2351,7 @@
       "url": "https://www.visitsandiego.com/calendar?page=1",
       "ok": true,
       "mode": "reader",
-      "lastSuccess": "2026-10-14T01:55:34.016Z",
+      "lastSuccess": "2026-10-14T12:54:14.861Z",
       "error": null
     },
     {
@@ -2305,7 +2371,7 @@
       "url": "https://events.occc.net/",
       "ok": true,
       "mode": "direct",
-      "lastSuccess": "2026-10-14T01:55:44.715Z",
+      "lastSuccess": "2026-10-14T12:54:31.060Z",
       "error": null
     },
     {
@@ -2315,7 +2381,7 @@
       "url": "https://www.vegasmeansbusiness.com/destination-calendar/",
       "ok": true,
       "mode": "reader",
-      "lastSuccess": "2026-10-14T01:55:52.831Z",
+      "lastSuccess": "2026-10-14T12:54:37.059Z",
       "error": null
     },
     {
@@ -2325,7 +2391,7 @@
       "url": "https://www.choosechicago.com/meeting-planners/chicago-updates-for-meeting-planners/chicago-convention-calendar/",
       "ok": true,
       "mode": "direct",
-      "lastSuccess": "2026-10-14T01:55:53.042Z",
+      "lastSuccess": "2026-10-14T12:54:38.216Z",
       "error": null
     },
     {
@@ -2333,10 +2399,10 @@
       "city": "New York",
       "venue": "Jacob K. Javits Convention Center",
       "url": "https://javitscenter.com/calendar/",
-      "ok": false,
-      "mode": "fallback",
-      "lastSuccess": "2026-10-11T01:56:43.518Z",
-      "error": "Rendered page contained no parsable upcoming events; direct=HTTP 403"
+      "ok": true,
+      "mode": "reader",
+      "lastSuccess": "2026-10-14T12:54:53.747Z",
+      "error": null
     }
   ]
 }
