@@ -1,17 +1,6 @@
 {
-  "updatedAt": "2026-10-14T19:26:38.873Z",
+  "updatedAt": "2026-10-15T01:30:30.886Z",
   "events": [
-    {
-      "title": "HCP 2026 Fall Hospital Supply Chain Conference",
-      "city": "Las Vegas",
-      "venue": "Westgate Las Vegas Resort & Casino",
-      "startDate": "2026-10-12",
-      "endDate": "2026-10-14",
-      "category": "Convention / Trade Show",
-      "attendance": 1200,
-      "sourceKey": "vegas",
-      "sourceUrl": "https://www.vegasmeansbusiness.com/destination-calendar/"
-    },
     {
       "title": "Hologic National Sales Meeting 2026",
       "city": "Las Vegas",
@@ -44,28 +33,6 @@
       "attendance": 200,
       "sourceKey": "vegas",
       "sourceUrl": "https://www.vegasmeansbusiness.com/destination-calendar/"
-    },
-    {
-      "title": "GFS Orlando Show 2026",
-      "city": "Orlando",
-      "venue": "Orange County Convention Center",
-      "startDate": "2026-10-14",
-      "endDate": "2026-10-14",
-      "category": "Event",
-      "attendance": null,
-      "sourceKey": "orlando",
-      "sourceUrl": "https://events.occc.net/event/gfs-orlando-show-2026/887/"
-    },
-    {
-      "title": "Orlando HOA & Condo Fall Show 2026",
-      "city": "Orlando",
-      "venue": "Orange County Convention Center",
-      "startDate": "2026-10-14",
-      "endDate": "2026-10-14",
-      "category": "Event",
-      "attendance": null,
-      "sourceKey": "orlando",
-      "sourceUrl": "https://events.occc.net/event/orlando-hoa-%26-condo-fall-show-2026/888/"
     },
     {
       "title": "Learn More →",
@@ -1784,6 +1751,17 @@
       "sourceUrl": "https://events.occc.net/event/aviation-week-mro-americas-2027/973/"
     },
     {
+      "title": "Allstar World Champi",
+      "city": "Orlando",
+      "venue": "Orange County Convention Center",
+      "startDate": "2027-04-14",
+      "endDate": "2027-04-18",
+      "category": "Event",
+      "attendance": null,
+      "sourceKey": "orlando",
+      "sourceUrl": "https://events.occc.net/event/allstar-world-champi/974/"
+    },
+    {
       "title": "ASSOCIATION FOR RESEARCH IN VISION & OPHTHALMOLOGY ANNUAL",
       "city": "San Diego",
       "venue": "San Diego Convention Center",
@@ -2276,7 +2254,7 @@
       "url": "https://www.dallasconventioncenter.com/events",
       "ok": true,
       "mode": "reader",
-      "lastSuccess": "2026-10-14T19:25:48.672Z",
+      "lastSuccess": "2026-10-15T01:29:46.586Z",
       "error": null
     },
     {
@@ -2284,10 +2262,10 @@
       "city": "Miami Beach",
       "venue": "Miami Beach Convention Center",
       "url": "https://www.miamibeachconvention.com/events",
-      "ok": true,
-      "mode": "reader",
+      "ok": false,
+      "mode": "fallback",
       "lastSuccess": "2026-10-14T19:26:11.451Z",
-      "error": null
+      "error": "No parsable upcoming events returned"
     },
     {
       "key": "sandiego",
@@ -2296,7 +2274,7 @@
       "url": "https://www.visitsandiego.com/calendar?page=1",
       "ok": true,
       "mode": "reader",
-      "lastSuccess": "2026-10-14T19:26:14.422Z",
+      "lastSuccess": "2026-10-15T01:30:06.623Z",
       "error": null
     },
     {
@@ -2316,7 +2294,7 @@
       "url": "https://events.occc.net/",
       "ok": true,
       "mode": "direct",
-      "lastSuccess": "2026-10-14T19:26:28.693Z",
+      "lastSuccess": "2026-10-15T01:30:24.975Z",
       "error": null
     },
     {
@@ -2324,10 +2302,10 @@
       "city": "Las Vegas",
       "venue": "Las Vegas Convention Center",
       "url": "https://www.vegasmeansbusiness.com/destination-calendar/",
-      "ok": true,
-      "mode": "reader",
+      "ok": false,
+      "mode": "fallback",
       "lastSuccess": "2026-10-14T19:26:37.725Z",
-      "error": null
+      "error": "Rendered page contained no parsable upcoming events"
     },
     {
       "key": "chicago",
@@ -2336,7 +2314,7 @@
       "url": "https://www.choosechicago.com/meeting-planners/chicago-updates-for-meeting-planners/chicago-convention-calendar/",
       "ok": true,
       "mode": "direct",
-      "lastSuccess": "2026-10-14T19:26:38.008Z",
+      "lastSuccess": "2026-10-15T01:30:30.352Z",
       "error": null
     },
     {
