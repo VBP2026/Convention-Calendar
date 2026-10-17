@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-17T01:20:48.306Z",
+  "updatedAt": "2026-10-17T11:39:03.235Z",
   "events": [
     {
       "title": "Immunoglobulin Nursing Society (IgNS) - 2026 National Conference",
@@ -38,7 +38,7 @@
       "title": "NTX Universe",
       "city": "Dallas",
       "venue": "Kay Bailey Hutchison Convention Center Dallas",
-      "startDate": "2026-10-16",
+      "startDate": "2026-10-17",
       "endDate": "2026-10-18",
       "category": "Consumer Show",
       "attendance": null,
@@ -2507,7 +2507,7 @@
       "url": "https://www.dallasconventioncenter.com/events",
       "ok": true,
       "mode": "reader",
-      "lastSuccess": "2026-10-17T01:19:55.381Z",
+      "lastSuccess": "2026-10-17T11:38:14.981Z",
       "error": null
     },
     {
@@ -2515,10 +2515,10 @@
       "city": "Miami Beach",
       "venue": "Miami Beach Convention Center",
       "url": "https://www.miamibeachconvention.com/events",
-      "ok": true,
-      "mode": "reader",
+      "ok": false,
+      "mode": "fallback",
       "lastSuccess": "2026-10-17T01:20:20.934Z",
-      "error": null
+      "error": "No parsable upcoming events returned"
     },
     {
       "key": "sandiego",
@@ -2527,7 +2527,7 @@
       "url": "https://www.visitsandiego.com/calendar?page=1",
       "ok": true,
       "mode": "reader",
-      "lastSuccess": "2026-10-17T01:20:26.038Z",
+      "lastSuccess": "2026-10-17T11:38:38.401Z",
       "error": null
     },
     {
@@ -2547,7 +2547,7 @@
       "url": "https://events.occc.net/",
       "ok": true,
       "mode": "direct",
-      "lastSuccess": "2026-10-17T01:20:39.481Z",
+      "lastSuccess": "2026-10-17T11:38:56.900Z",
       "error": null
     },
     {
@@ -2557,7 +2557,7 @@
       "url": "https://www.vegasmeansbusiness.com/destination-calendar/",
       "ok": true,
       "mode": "reader",
-      "lastSuccess": "2026-10-17T01:20:47.217Z",
+      "lastSuccess": "2026-10-17T11:39:01.834Z",
       "error": null
     },
     {
@@ -2567,7 +2567,7 @@
       "url": "https://www.choosechicago.com/meeting-planners/chicago-updates-for-meeting-planners/chicago-convention-calendar/",
       "ok": true,
       "mode": "direct",
-      "lastSuccess": "2026-10-17T01:20:47.583Z",
+      "lastSuccess": "2026-10-17T11:39:02.773Z",
       "error": null
     },
     {
