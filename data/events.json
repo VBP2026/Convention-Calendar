@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-19T20:37:16.972Z",
+  "updatedAt": "2026-10-20T01:52:25.353Z",
   "events": [
     {
       "title": "AMERICAN SOCIETY OF ANESTHESIOLOGISTS ANNUAL MEETING",
@@ -11,17 +11,6 @@
       "attendance": 16000,
       "sourceKey": "sandiego",
       "sourceUrl": "https://www.visitsandiego.com/calendar?page=1"
-    },
-    {
-      "title": "2026 NAMB Annual Convention",
-      "city": "Las Vegas",
-      "venue": "Caesars Palace",
-      "startDate": "2026-10-16",
-      "endDate": "2026-10-19",
-      "category": "Convention / Trade Show",
-      "attendance": 600,
-      "sourceKey": "vegas",
-      "sourceUrl": "https://www.vegasmeansbusiness.com/destination-calendar/"
     },
     {
       "title": "PACK EXPO International 2026",
@@ -2001,7 +1990,7 @@
       "url": "https://www.dallasconventioncenter.com/events",
       "ok": true,
       "mode": "reader",
-      "lastSuccess": "2026-10-19T20:36:13.225Z",
+      "lastSuccess": "2026-10-20T01:51:07.687Z",
       "error": null
     },
     {
@@ -2011,7 +2000,7 @@
       "url": "https://www.miamibeachconvention.com/events",
       "ok": true,
       "mode": "reader",
-      "lastSuccess": "2026-10-19T20:36:32.436Z",
+      "lastSuccess": "2026-10-20T01:51:27.286Z",
       "error": null
     },
     {
@@ -2021,7 +2010,7 @@
       "url": "https://www.visitsandiego.com/calendar?page=1",
       "ok": true,
       "mode": "reader",
-      "lastSuccess": "2026-10-19T20:36:37.183Z",
+      "lastSuccess": "2026-10-20T01:51:30.191Z",
       "error": null
     },
     {
@@ -2041,7 +2030,7 @@
       "url": "https://events.occc.net/",
       "ok": true,
       "mode": "direct",
-      "lastSuccess": "2026-10-19T20:36:51.520Z",
+      "lastSuccess": "2026-10-20T01:52:01.040Z",
       "error": null
     },
     {
@@ -2049,10 +2038,10 @@
       "city": "Las Vegas",
       "venue": "Las Vegas Convention Center",
       "url": "https://www.vegasmeansbusiness.com/destination-calendar/",
-      "ok": true,
-      "mode": "reader",
+      "ok": false,
+      "mode": "fallback",
       "lastSuccess": "2026-10-19T20:37:00.354Z",
-      "error": null
+      "error": "Rendered page contained no parsable upcoming events"
     },
     {
       "key": "chicago",
@@ -2061,7 +2050,7 @@
       "url": "https://www.choosechicago.com/meeting-planners/chicago-updates-for-meeting-planners/chicago-convention-calendar/",
       "ok": true,
       "mode": "direct",
-      "lastSuccess": "2026-10-19T20:37:00.844Z",
+      "lastSuccess": "2026-10-20T01:52:09.812Z",
       "error": null
     },
     {
@@ -2071,7 +2060,7 @@
       "url": "https://javitscenter.com/calendar/",
       "ok": true,
       "mode": "reader",
-      "lastSuccess": "2026-10-19T20:37:16.851Z",
+      "lastSuccess": "2026-10-20T01:52:25.335Z",
       "error": null
     }
   ]
