@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-28T02:18:28.597Z",
+  "updatedAt": "2026-10-28T14:04:03.183Z",
   "events": [
     {
       "title": "AI World/Suite World 2026",
@@ -2221,7 +2221,7 @@
       "url": "https://www.dallasconventioncenter.com/events",
       "ok": true,
       "mode": "reader",
-      "lastSuccess": "2026-10-28T02:17:29.665Z",
+      "lastSuccess": "2026-10-28T14:02:55.726Z",
       "error": null
     },
     {
@@ -2229,10 +2229,10 @@
       "city": "Miami Beach",
       "venue": "Miami Beach Convention Center",
       "url": "https://www.miamibeachconvention.com/events",
-      "ok": true,
-      "mode": "reader",
+      "ok": false,
+      "mode": "fallback",
       "lastSuccess": "2026-10-28T02:17:56.093Z",
-      "error": null
+      "error": "No parsable upcoming events returned"
     },
     {
       "key": "sandiego",
@@ -2241,7 +2241,7 @@
       "url": "https://www.visitsandiego.com/calendar?page=1",
       "ok": true,
       "mode": "reader",
-      "lastSuccess": "2026-10-28T02:17:58.983Z",
+      "lastSuccess": "2026-10-28T14:03:27.114Z",
       "error": null
     },
     {
@@ -2261,7 +2261,7 @@
       "url": "https://events.occc.net/",
       "ok": true,
       "mode": "direct",
-      "lastSuccess": "2026-10-28T02:18:20.940Z",
+      "lastSuccess": "2026-10-28T14:03:46.462Z",
       "error": null
     },
     {
@@ -2271,7 +2271,7 @@
       "url": "https://www.vegasmeansbusiness.com/destination-calendar/",
       "ok": true,
       "mode": "reader",
-      "lastSuccess": "2026-10-28T02:18:27.801Z",
+      "lastSuccess": "2026-10-28T14:03:53.748Z",
       "error": null
     },
     {
@@ -2281,7 +2281,7 @@
       "url": "https://www.choosechicago.com/meeting-planners/chicago-updates-for-meeting-planners/chicago-convention-calendar/",
       "ok": true,
       "mode": "direct",
-      "lastSuccess": "2026-10-28T02:18:28.100Z",
+      "lastSuccess": "2026-10-28T14:03:54.712Z",
       "error": null
     },
     {
@@ -2289,10 +2289,10 @@
       "city": "New York",
       "venue": "Jacob K. Javits Convention Center",
       "url": "https://javitscenter.com/calendar/",
-      "ok": false,
-      "mode": "fallback",
-      "lastSuccess": "2026-10-21T12:58:05.243Z",
-      "error": "Rendered page contained no parsable upcoming events; direct=HTTP 403"
+      "ok": true,
+      "mode": "reader",
+      "lastSuccess": "2026-10-28T14:04:03.165Z",
+      "error": null
     }
   ]
 }
