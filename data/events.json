@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-28T14:04:03.183Z",
+  "updatedAt": "2026-10-28T20:17:30.506Z",
   "events": [
     {
       "title": "AI World/Suite World 2026",
@@ -2221,7 +2221,7 @@
       "url": "https://www.dallasconventioncenter.com/events",
       "ok": true,
       "mode": "reader",
-      "lastSuccess": "2026-10-28T14:02:55.726Z",
+      "lastSuccess": "2026-10-28T20:16:33.795Z",
       "error": null
     },
     {
@@ -2241,7 +2241,7 @@
       "url": "https://www.visitsandiego.com/calendar?page=1",
       "ok": true,
       "mode": "reader",
-      "lastSuccess": "2026-10-28T14:03:27.114Z",
+      "lastSuccess": "2026-10-28T20:16:59.812Z",
       "error": null
     },
     {
@@ -2261,7 +2261,7 @@
       "url": "https://events.occc.net/",
       "ok": true,
       "mode": "direct",
-      "lastSuccess": "2026-10-28T14:03:46.462Z",
+      "lastSuccess": "2026-10-28T20:17:13.577Z",
       "error": null
     },
     {
@@ -2271,7 +2271,7 @@
       "url": "https://www.vegasmeansbusiness.com/destination-calendar/",
       "ok": true,
       "mode": "reader",
-      "lastSuccess": "2026-10-28T14:03:53.748Z",
+      "lastSuccess": "2026-10-28T20:17:21.289Z",
       "error": null
     },
     {
@@ -2281,7 +2281,7 @@
       "url": "https://www.choosechicago.com/meeting-planners/chicago-updates-for-meeting-planners/chicago-convention-calendar/",
       "ok": true,
       "mode": "direct",
-      "lastSuccess": "2026-10-28T14:03:54.712Z",
+      "lastSuccess": "2026-10-28T20:17:21.678Z",
       "error": null
     },
     {
@@ -2291,7 +2291,7 @@
       "url": "https://javitscenter.com/calendar/",
       "ok": true,
       "mode": "reader",
-      "lastSuccess": "2026-10-28T14:04:03.165Z",
+      "lastSuccess": "2026-10-28T20:17:30.328Z",
       "error": null
     }
   ]
