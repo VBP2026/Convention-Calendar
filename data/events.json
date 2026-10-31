@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-31T02:25:17.825Z",
+  "updatedAt": "2026-10-31T13:41:01.890Z",
   "events": [
     {
       "title": "ANCC 2026 Magnet & Pathway Conference",
@@ -13,17 +13,6 @@
       "sourceUrl": "https://www.choosechicago.com/meeting-planners/chicago-updates-for-meeting-planners/chicago-convention-calendar/"
     },
     {
-      "title": "Longhorn State Tattoo Expo 2026",
-      "city": "Dallas",
-      "venue": "Kay Bailey Hutchison Convention Center Dallas",
-      "startDate": "2026-10-30",
-      "endDate": "2026-11-01",
-      "category": "Consumer Show",
-      "attendance": null,
-      "sourceKey": "dallas",
-      "sourceUrl": "https://www.dallasconventioncenter.com/events"
-    },
-    {
       "title": "CRF 2026 TRANSCATHETER CARDIOVASCULAR THERAPEUTICS",
       "city": "San Diego",
       "venue": "San Diego Convention Center",
@@ -33,6 +22,17 @@
       "attendance": 11000,
       "sourceKey": "sandiego",
       "sourceUrl": "https://www.visitsandiego.com/calendar?page=1"
+    },
+    {
+      "title": "Longhorn State Tattoo Expo 2026",
+      "city": "Dallas",
+      "venue": "Kay Bailey Hutchison Convention Center Dallas",
+      "startDate": "2026-10-31",
+      "endDate": "2026-11-01",
+      "category": "Consumer Show",
+      "attendance": null,
+      "sourceKey": "dallas",
+      "sourceUrl": "https://www.dallasconventioncenter.com/events"
     },
     {
       "title": "USA Wheelchair Football League Tournament",
@@ -968,6 +968,17 @@
       "attendance": 5000,
       "sourceKey": "sandiego",
       "sourceUrl": "https://www.visitsandiego.com/calendar?page=1"
+    },
+    {
+      "title": "Convention",
+      "city": "Dallas",
+      "venue": "Kay Bailey Hutchison Convention Center Dallas",
+      "startDate": "2027-01-29",
+      "endDate": "2027-01-30",
+      "category": "Convention Center Event",
+      "attendance": null,
+      "sourceKey": "dallas",
+      "sourceUrl": "https://www.dallasconventioncenter.com/events"
     },
     {
       "title": "SOCIETY FOR LABORATORY AUTOMATION & SCREENING 2027 ANNUAL",
@@ -2254,7 +2265,7 @@
       "url": "https://www.dallasconventioncenter.com/events",
       "ok": true,
       "mode": "reader",
-      "lastSuccess": "2026-10-31T02:24:30.203Z",
+      "lastSuccess": "2026-10-31T13:40:12.038Z",
       "error": null
     },
     {
@@ -2262,10 +2273,10 @@
       "city": "Miami Beach",
       "venue": "Miami Beach Convention Center",
       "url": "https://www.miamibeachconvention.com/events",
-      "ok": true,
-      "mode": "reader",
+      "ok": false,
+      "mode": "fallback",
       "lastSuccess": "2026-10-31T02:24:51.632Z",
-      "error": null
+      "error": "No parsable upcoming events returned"
     },
     {
       "key": "sandiego",
@@ -2274,7 +2285,7 @@
       "url": "https://www.visitsandiego.com/calendar?page=1",
       "ok": true,
       "mode": "reader",
-      "lastSuccess": "2026-10-31T02:24:56.307Z",
+      "lastSuccess": "2026-10-31T13:40:38.171Z",
       "error": null
     },
     {
@@ -2294,7 +2305,7 @@
       "url": "https://events.occc.net/",
       "ok": true,
       "mode": "direct",
-      "lastSuccess": "2026-10-31T02:25:11.636Z",
+      "lastSuccess": "2026-10-31T13:40:55.144Z",
       "error": null
     },
     {
@@ -2304,7 +2315,7 @@
       "url": "https://www.vegasmeansbusiness.com/destination-calendar/",
       "ok": true,
       "mode": "reader",
-      "lastSuccess": "2026-10-31T02:25:16.691Z",
+      "lastSuccess": "2026-10-31T13:41:00.360Z",
       "error": null
     },
     {
@@ -2314,7 +2325,7 @@
       "url": "https://www.choosechicago.com/meeting-planners/chicago-updates-for-meeting-planners/chicago-convention-calendar/",
       "ok": true,
       "mode": "direct",
-      "lastSuccess": "2026-10-31T02:25:17.199Z",
+      "lastSuccess": "2026-10-31T13:41:01.320Z",
       "error": null
     },
     {
