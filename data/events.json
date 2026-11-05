@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-04T15:27:52.107Z",
+  "updatedAt": "2026-11-05T03:31:28.191Z",
   "events": [
     {
       "title": "TrustWeek Global Conference 2026",
@@ -79,15 +79,26 @@
       "sourceUrl": "https://www.vegasmeansbusiness.com/destination-calendar/"
     },
     {
-      "title": "Small Business Expo Dallas",
-      "city": "Dallas",
-      "venue": "Kay Bailey Hutchison Convention Center Dallas",
+      "title": "Nov Dec Jan '27 Feb '27 Mar '27 Apr '27 May '27 Jun '27 Jul '27 Aug '27 Sep '27 Oct '27",
+      "city": "New York",
+      "venue": "Jacob K. Javits Convention Center",
       "startDate": "2026-11-04",
-      "endDate": "2026-11-04",
-      "category": "Special Event",
+      "endDate": "2026-11-05",
+      "category": "Javits Center Event",
       "attendance": null,
-      "sourceKey": "dallas",
-      "sourceUrl": "https://www.dallasconventioncenter.com/events"
+      "sourceKey": "nyc",
+      "sourceUrl": "https://javitscenter.com/calendar/"
+    },
+    {
+      "title": "Learn More →",
+      "city": "New York",
+      "venue": "Jacob K. Javits Convention Center",
+      "startDate": "2026-11-04",
+      "endDate": "2026-11-05",
+      "category": "Javits Center Event",
+      "attendance": null,
+      "sourceKey": "nyc",
+      "sourceUrl": "https://javitscenter.com/calendar/"
     },
     {
       "title": "Yu-Gi-Oh! Championship Series Orlando 2026",
@@ -110,6 +121,17 @@
       "attendance": 350,
       "sourceKey": "vegas",
       "sourceUrl": "https://www.vegasmeansbusiness.com/destination-calendar/"
+    },
+    {
+      "title": "Adobe MAX - The Creative Conference",
+      "city": "Miami Beach",
+      "venue": "Miami Beach Convention Center",
+      "startDate": "2026-11-06",
+      "endDate": "2026-11-06",
+      "category": "Convention Center Event",
+      "attendance": null,
+      "sourceKey": "miami",
+      "sourceUrl": "https://www.miamibeachconvention.com/events"
     },
     {
       "title": "Annual All Staff Com",
@@ -156,6 +178,17 @@
       "sourceUrl": "https://www.dallasconventioncenter.com/events"
     },
     {
+      "title": "Learn More →",
+      "city": "New York",
+      "venue": "Jacob K. Javits Convention Center",
+      "startDate": "2026-11-07",
+      "endDate": "2026-11-07",
+      "category": "Javits Center Event",
+      "attendance": null,
+      "sourceKey": "nyc",
+      "sourceUrl": "https://javitscenter.com/calendar/"
+    },
+    {
       "title": "WESCON REGIONAL CHEER AND DANCE CHAMPIONSHIPS",
       "city": "San Diego",
       "venue": "San Diego Convention Center",
@@ -178,6 +211,17 @@
       "sourceUrl": "https://events.occc.net/event/acr-convergence/902/"
     },
     {
+      "title": "Learn More →",
+      "city": "New York",
+      "venue": "Jacob K. Javits Convention Center",
+      "startDate": "2026-11-08",
+      "endDate": "2026-11-09",
+      "category": "Javits Center Event",
+      "attendance": null,
+      "sourceKey": "nyc",
+      "sourceUrl": "https://javitscenter.com/calendar/"
+    },
+    {
       "title": "Northwest Anesthesia Seminars - 2026 Cardiothoracic and Vascular Anesthesia Update",
       "city": "Las Vegas",
       "venue": "The Venetian Resort Las Vegas",
@@ -189,6 +233,28 @@
       "sourceUrl": "https://www.vegasmeansbusiness.com/destination-calendar/"
     },
     {
+      "title": "Adobe MAX - The Creative Conference",
+      "city": "Miami Beach",
+      "venue": "Miami Beach Convention Center",
+      "startDate": "2026-11-10",
+      "endDate": "2026-11-12",
+      "category": "Convention Center Event",
+      "attendance": null,
+      "sourceKey": "miami",
+      "sourceUrl": "https://www.miamibeachconvention.com/events"
+    },
+    {
+      "title": "Learn More →",
+      "city": "New York",
+      "venue": "Jacob K. Javits Convention Center",
+      "startDate": "2026-11-11",
+      "endDate": "2026-11-12",
+      "category": "Javits Center Event",
+      "attendance": null,
+      "sourceKey": "nyc",
+      "sourceUrl": "https://javitscenter.com/calendar/"
+    },
+    {
       "title": "Mecum Collector Car Auctions 2026",
       "city": "Las Vegas",
       "venue": "Las Vegas Convention Center",
@@ -198,6 +264,17 @@
       "attendance": 15000,
       "sourceKey": "vegas",
       "sourceUrl": "https://www.vegasmeansbusiness.com/destination-calendar/"
+    },
+    {
+      "title": "Adobe MAX - The Creative Conference",
+      "city": "Miami Beach",
+      "venue": "Miami Beach Convention Center",
+      "startDate": "2026-11-12",
+      "endDate": "2026-11-12",
+      "category": "Convention Center Event",
+      "attendance": null,
+      "sourceKey": "miami",
+      "sourceUrl": "https://www.miamibeachconvention.com/events"
     },
     {
       "title": "AARM&R Annual Assemb",
@@ -299,6 +376,28 @@
       "sourceUrl": "https://events.occc.net/event/iaapa-expo/908/"
     },
     {
+      "title": "EY INTERNATIONAL TAX CONFERENCE",
+      "city": "New York",
+      "venue": "Jacob K. Javits Convention Center",
+      "startDate": "2026-11-17",
+      "endDate": "2026-11-17",
+      "category": "Javits Center Event",
+      "attendance": null,
+      "sourceKey": "nyc",
+      "sourceUrl": "https://javitscenter.com/calendar/"
+    },
+    {
+      "title": "COOPERATOR EXPO 2026",
+      "city": "New York",
+      "venue": "Jacob K. Javits Convention Center",
+      "startDate": "2026-11-17",
+      "endDate": "2026-11-17",
+      "category": "Javits Center Event",
+      "attendance": null,
+      "sourceKey": "nyc",
+      "sourceUrl": "https://javitscenter.com/calendar/"
+    },
+    {
       "title": "HYROX Dallas 2026",
       "city": "Dallas",
       "venue": "Kay Bailey Hutchison Convention Center Dallas",
@@ -321,6 +420,28 @@
       "sourceUrl": "https://events.occc.net/event/athletic-business-sh/910/"
     },
     {
+      "title": "GENESYS XPERIENCE ON TOUR NYC 2026",
+      "city": "New York",
+      "venue": "Jacob K. Javits Convention Center",
+      "startDate": "2026-11-18",
+      "endDate": "2026-11-19",
+      "category": "Javits Center Event",
+      "attendance": null,
+      "sourceKey": "nyc",
+      "sourceUrl": "https://javitscenter.com/calendar/"
+    },
+    {
+      "title": "Learn More →",
+      "city": "New York",
+      "venue": "Jacob K. Javits Convention Center",
+      "startDate": "2026-11-18",
+      "endDate": "2026-11-19",
+      "category": "Javits Center Event",
+      "attendance": null,
+      "sourceKey": "nyc",
+      "sourceUrl": "https://javitscenter.com/calendar/"
+    },
+    {
       "title": "FINTECH NERDCON",
       "city": "San Diego",
       "venue": "San Diego Convention Center",
@@ -330,6 +451,17 @@
       "attendance": 1500,
       "sourceKey": "sandiego",
       "sourceUrl": "https://www.visitsandiego.com/calendar?page=1"
+    },
+    {
+      "title": "Learn More →",
+      "city": "New York",
+      "venue": "Jacob K. Javits Convention Center",
+      "startDate": "2026-11-19",
+      "endDate": "2026-11-22",
+      "category": "Javits Center Event",
+      "attendance": null,
+      "sourceKey": "nyc",
+      "sourceUrl": "https://javitscenter.com/calendar/"
     },
     {
       "title": "APS 79th Annual Meeting of the Division of Fluid Dynamics",
@@ -365,6 +497,17 @@
       "sourceUrl": "https://www.choosechicago.com/meeting-planners/chicago-updates-for-meeting-planners/chicago-convention-calendar/"
     },
     {
+      "title": "THE NEW YORK VENTURE SUMMIT",
+      "city": "New York",
+      "venue": "Jacob K. Javits Convention Center",
+      "startDate": "2026-11-29",
+      "endDate": "2026-12-01",
+      "category": "Javits Center Event",
+      "attendance": null,
+      "sourceKey": "nyc",
+      "sourceUrl": "https://javitscenter.com/calendar/"
+    },
+    {
       "title": "I/ITSEC The Interservice/Industry Training, Simulation & Education Conference 2026",
       "city": "Orlando",
       "venue": "Orange County Convention Center",
@@ -385,6 +528,28 @@
       "attendance": 800,
       "sourceKey": "sandiego",
       "sourceUrl": "https://www.visitsandiego.com/calendar?page=1"
+    },
+    {
+      "title": "Art Basel Miami Beach",
+      "city": "Miami Beach",
+      "venue": "Miami Beach Convention Center",
+      "startDate": "2026-12-02",
+      "endDate": "2026-12-06",
+      "category": "Convention Center Event",
+      "attendance": null,
+      "sourceKey": "miami",
+      "sourceUrl": "https://www.miamibeachconvention.com/events"
+    },
+    {
+      "title": "Design Miami",
+      "city": "Miami Beach",
+      "venue": "Miami Beach Convention Center",
+      "startDate": "2026-12-02",
+      "endDate": "2026-12-06",
+      "category": "Convention Center Event",
+      "attendance": null,
+      "sourceKey": "miami",
+      "sourceUrl": "https://www.miamibeachconvention.com/events"
     },
     {
       "title": "CSBA 2026 ANNUAL EDUCATION CONFERENCE & TRADE SHOW",
@@ -418,6 +583,28 @@
       "attendance": null,
       "sourceKey": "orlando",
       "sourceUrl": "https://events.occc.net/event/ashp-midyear-clinical-meeting/914/"
+    },
+    {
+      "title": "Art Basel Miami Beach",
+      "city": "Miami Beach",
+      "venue": "Miami Beach Convention Center",
+      "startDate": "2026-12-06",
+      "endDate": "2026-12-06",
+      "category": "Convention Center Event",
+      "attendance": null,
+      "sourceKey": "miami",
+      "sourceUrl": "https://www.miamibeachconvention.com/events"
+    },
+    {
+      "title": "Design Miami",
+      "city": "Miami Beach",
+      "venue": "Miami Beach Convention Center",
+      "startDate": "2026-12-06",
+      "endDate": "2026-12-06",
+      "category": "Convention Center Event",
+      "attendance": null,
+      "sourceKey": "miami",
+      "sourceUrl": "https://www.miamibeachconvention.com/events"
     },
     {
       "title": "AKC National Championship presented by Royal Canin",
@@ -508,6 +695,17 @@
       "sourceUrl": "https://events.occc.net/event/holiday-matsuri-2026/919/"
     },
     {
+      "title": "Xenom Miami",
+      "city": "Miami Beach",
+      "venue": "Miami Beach Convention Center",
+      "startDate": "2026-12-19",
+      "endDate": "2026-12-20",
+      "category": "Convention Center Event",
+      "attendance": null,
+      "sourceKey": "miami",
+      "sourceUrl": "https://www.miamibeachconvention.com/events"
+    },
+    {
       "title": "NBA G League Fall To",
       "city": "Orlando",
       "venue": "Orange County Convention Center",
@@ -517,6 +715,17 @@
       "attendance": null,
       "sourceKey": "orlando",
       "sourceUrl": "https://events.occc.net/event/nba-g-league-fall-to/918/"
+    },
+    {
+      "title": "Xenom Miami",
+      "city": "Miami Beach",
+      "venue": "Miami Beach Convention Center",
+      "startDate": "2026-12-20",
+      "endDate": "2026-12-20",
+      "category": "Convention Center Event",
+      "attendance": null,
+      "sourceKey": "miami",
+      "sourceUrl": "https://www.miamibeachconvention.com/events"
     },
     {
       "title": "MASCON 26 Annual Convention",
@@ -924,6 +1133,17 @@
       "attendance": 9000,
       "sourceKey": "sandiego",
       "sourceUrl": "https://www.visitsandiego.com/calendar?page=1"
+    },
+    {
+      "title": "American Volleyball Challenge 2027: Qualifier",
+      "city": "Dallas",
+      "venue": "Kay Bailey Hutchison Convention Center Dallas",
+      "startDate": "2027-02-12",
+      "endDate": "2027-02-14",
+      "category": "Sporting Event",
+      "attendance": null,
+      "sourceKey": "dallas",
+      "sourceUrl": "https://www.dallasconventioncenter.com/events"
     },
     {
       "title": "U.S. Dance/Drill Tea",
@@ -1575,61 +1795,6 @@
       "sourceUrl": "https://www.miamibeachconvention.com/events"
     },
     {
-      "title": "Vinexpo Americas Miami 2027",
-      "city": "Miami Beach",
-      "venue": "Miami Beach Convention Center",
-      "startDate": "2027-05-09",
-      "endDate": "2027-05-12",
-      "category": "Convention Center Event",
-      "attendance": null,
-      "sourceKey": "miami",
-      "sourceUrl": "https://www.miamibeachconvention.com/events"
-    },
-    {
-      "title": "AI World Conference America Digital",
-      "city": "Miami Beach",
-      "venue": "Miami Beach Convention Center",
-      "startDate": "2027-05-11",
-      "endDate": "2027-05-12",
-      "category": "Convention Center Event",
-      "attendance": null,
-      "sourceKey": "miami",
-      "sourceUrl": "https://www.miamibeachconvention.com/events"
-    },
-    {
-      "title": "Vinexpo Americas Miami 2027",
-      "city": "Miami Beach",
-      "venue": "Miami Beach Convention Center",
-      "startDate": "2027-05-12",
-      "endDate": "2027-05-12",
-      "category": "Convention Center Event",
-      "attendance": null,
-      "sourceKey": "miami",
-      "sourceUrl": "https://www.miamibeachconvention.com/events"
-    },
-    {
-      "title": "AI World Conference America Digital",
-      "city": "Miami Beach",
-      "venue": "Miami Beach Convention Center",
-      "startDate": "2027-05-12",
-      "endDate": "2027-05-12",
-      "category": "Convention Center Event",
-      "attendance": null,
-      "sourceKey": "miami",
-      "sourceUrl": "https://www.miamibeachconvention.com/events"
-    },
-    {
-      "title": "Aviation Festival Americas 2027",
-      "city": "Miami Beach",
-      "venue": "Miami Beach Convention Center",
-      "startDate": "2027-05-12",
-      "endDate": "2027-05-13",
-      "category": "Convention Center Event",
-      "attendance": null,
-      "sourceKey": "miami",
-      "sourceUrl": "https://www.miamibeachconvention.com/events"
-    },
-    {
       "title": "HYROX SAN DIEGO",
       "city": "San Diego",
       "venue": "San Diego Convention Center",
@@ -1652,17 +1817,6 @@
       "sourceUrl": "https://www.visitsandiego.com/calendar?page=1"
     },
     {
-      "title": "Aviation Festival Americas 2027",
-      "city": "Miami Beach",
-      "venue": "Miami Beach Convention Center",
-      "startDate": "2027-05-13",
-      "endDate": "2027-05-13",
-      "category": "Convention Center Event",
-      "attendance": null,
-      "sourceKey": "miami",
-      "sourceUrl": "https://www.miamibeachconvention.com/events"
-    },
-    {
       "title": "CALIFORNIA BRIDAL & WEDDING EXPO-SPRING 2027",
       "city": "San Diego",
       "venue": "San Diego Convention Center",
@@ -1674,28 +1828,6 @@
       "sourceUrl": "https://www.visitsandiego.com/calendar?page=1"
     },
     {
-      "title": "Xponential 2027",
-      "city": "Miami Beach",
-      "venue": "Miami Beach Convention Center",
-      "startDate": "2027-05-17",
-      "endDate": "2027-05-20",
-      "category": "Convention Center Event",
-      "attendance": null,
-      "sourceKey": "miami",
-      "sourceUrl": "https://www.miamibeachconvention.com/events"
-    },
-    {
-      "title": "Xponential 2027",
-      "city": "Miami Beach",
-      "venue": "Miami Beach Convention Center",
-      "startDate": "2027-05-20",
-      "endDate": "2027-05-20",
-      "category": "Convention Center Event",
-      "attendance": null,
-      "sourceKey": "miami",
-      "sourceUrl": "https://www.miamibeachconvention.com/events"
-    },
-    {
       "title": "AMERICAN UROLOGICAL ASSOCIATION 2027 ANNUAL CONVENTION",
       "city": "San Diego",
       "venue": "San Diego Convention Center",
@@ -1705,50 +1837,6 @@
       "attendance": 18000,
       "sourceKey": "sandiego",
       "sourceUrl": "https://www.visitsandiego.com/calendar?page=1"
-    },
-    {
-      "title": "CPHI 2027",
-      "city": "Miami Beach",
-      "venue": "Miami Beach Convention Center",
-      "startDate": "2027-05-25",
-      "endDate": "2027-05-27",
-      "category": "Convention Center Event",
-      "attendance": null,
-      "sourceKey": "miami",
-      "sourceUrl": "https://www.miamibeachconvention.com/events"
-    },
-    {
-      "title": "Miami Build Expo 2027",
-      "city": "Miami Beach",
-      "venue": "Miami Beach Convention Center",
-      "startDate": "2027-05-26",
-      "endDate": "2027-05-27",
-      "category": "Convention Center Event",
-      "attendance": null,
-      "sourceKey": "miami",
-      "sourceUrl": "https://www.miamibeachconvention.com/events"
-    },
-    {
-      "title": "CPHI 2027",
-      "city": "Miami Beach",
-      "venue": "Miami Beach Convention Center",
-      "startDate": "2027-05-27",
-      "endDate": "2027-05-27",
-      "category": "Convention Center Event",
-      "attendance": null,
-      "sourceKey": "miami",
-      "sourceUrl": "https://www.miamibeachconvention.com/events"
-    },
-    {
-      "title": "Miami Build Expo 2027",
-      "city": "Miami Beach",
-      "venue": "Miami Beach Convention Center",
-      "startDate": "2027-05-27",
-      "endDate": "2027-05-27",
-      "category": "Convention Center Event",
-      "attendance": null,
-      "sourceKey": "miami",
-      "sourceUrl": "https://www.miamibeachconvention.com/events"
     },
     {
       "title": "2027 SAN DIEGO POKEMON REGIONAL CHAMPIONSHIPS",
@@ -2111,7 +2199,7 @@
       "url": "https://www.dallasconventioncenter.com/events",
       "ok": true,
       "mode": "reader",
-      "lastSuccess": "2026-11-04T15:27:06.161Z",
+      "lastSuccess": "2026-11-05T03:30:38.354Z",
       "error": null
     },
     {
@@ -2121,7 +2209,7 @@
       "url": "https://www.miamibeachconvention.com/events",
       "ok": true,
       "mode": "reader",
-      "lastSuccess": "2026-11-04T15:27:25.470Z",
+      "lastSuccess": "2026-11-05T03:30:58.239Z",
       "error": null
     },
     {
@@ -2131,7 +2219,7 @@
       "url": "https://www.visitsandiego.com/calendar?page=1",
       "ok": true,
       "mode": "reader",
-      "lastSuccess": "2026-11-04T15:27:29.623Z",
+      "lastSuccess": "2026-11-05T03:31:00.862Z",
       "error": null
     },
     {
@@ -2151,7 +2239,7 @@
       "url": "https://events.occc.net/",
       "ok": true,
       "mode": "direct",
-      "lastSuccess": "2026-11-04T15:27:45.330Z",
+      "lastSuccess": "2026-11-05T03:31:17.674Z",
       "error": null
     },
     {
@@ -2159,10 +2247,10 @@
       "city": "Las Vegas",
       "venue": "Las Vegas Convention Center",
       "url": "https://www.vegasmeansbusiness.com/destination-calendar/",
-      "ok": true,
-      "mode": "reader",
+      "ok": false,
+      "mode": "fallback",
       "lastSuccess": "2026-11-04T15:27:51.149Z",
-      "error": null
+      "error": "Rendered page contained no parsable upcoming events"
     },
     {
       "key": "chicago",
@@ -2171,7 +2259,7 @@
       "url": "https://www.choosechicago.com/meeting-planners/chicago-updates-for-meeting-planners/chicago-convention-calendar/",
       "ok": true,
       "mode": "direct",
-      "lastSuccess": "2026-11-04T15:27:51.585Z",
+      "lastSuccess": "2026-11-05T03:31:23.197Z",
       "error": null
     },
     {
@@ -2179,10 +2267,10 @@
       "city": "New York",
       "venue": "Jacob K. Javits Convention Center",
       "url": "https://javitscenter.com/calendar/",
-      "ok": false,
-      "mode": "fallback",
-      "lastSuccess": "2026-10-29T02:28:51.136Z",
-      "error": "Rendered page contained no parsable upcoming events; direct=HTTP 403"
+      "ok": true,
+      "mode": "reader",
+      "lastSuccess": "2026-11-05T03:31:28.177Z",
+      "error": null
     }
   ]
 }
