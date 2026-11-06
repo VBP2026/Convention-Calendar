@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-06T15:06:01.831Z",
+  "updatedAt": "2026-11-06T20:55:54.636Z",
   "events": [
     {
       "title": "Automotive Aftermarket Industry Week (AAIW) 2026",
@@ -2409,28 +2409,6 @@
       "attendance": null,
       "sourceKey": "miami",
       "sourceUrl": "https://www.miamibeachconvention.com/events"
-    },
-    {
-      "title": "Bitcoin North American Conference 2028",
-      "city": "Miami Beach",
-      "venue": "Miami Beach Convention Center",
-      "startDate": "2028-04-20",
-      "endDate": "2028-04-22",
-      "category": "Convention Center Event",
-      "attendance": null,
-      "sourceKey": "miami",
-      "sourceUrl": "https://www.miamibeachconvention.com/events"
-    },
-    {
-      "title": "Bitcoin North American Conference 2028",
-      "city": "Miami Beach",
-      "venue": "Miami Beach Convention Center",
-      "startDate": "2028-04-22",
-      "endDate": "2028-04-22",
-      "category": "Convention Center Event",
-      "attendance": null,
-      "sourceKey": "miami",
-      "sourceUrl": "https://www.miamibeachconvention.com/events"
     }
   ],
   "sources": [
@@ -2441,7 +2419,7 @@
       "url": "https://www.dallasconventioncenter.com/events",
       "ok": true,
       "mode": "reader",
-      "lastSuccess": "2026-11-06T15:05:12.476Z",
+      "lastSuccess": "2026-11-06T20:54:57.466Z",
       "error": null
     },
     {
@@ -2451,7 +2429,7 @@
       "url": "https://www.miamibeachconvention.com/events",
       "ok": true,
       "mode": "reader",
-      "lastSuccess": "2026-11-06T15:05:31.516Z",
+      "lastSuccess": "2026-11-06T20:55:28.332Z",
       "error": null
     },
     {
@@ -2461,7 +2439,7 @@
       "url": "https://www.visitsandiego.com/calendar?page=1",
       "ok": true,
       "mode": "reader",
-      "lastSuccess": "2026-11-06T15:05:39.419Z",
+      "lastSuccess": "2026-11-06T20:55:31.240Z",
       "error": null
     },
     {
@@ -2481,7 +2459,7 @@
       "url": "https://events.occc.net/",
       "ok": true,
       "mode": "direct",
-      "lastSuccess": "2026-11-06T15:05:54.233Z",
+      "lastSuccess": "2026-11-06T20:55:45.099Z",
       "error": null
     },
     {
@@ -2491,7 +2469,7 @@
       "url": "https://www.vegasmeansbusiness.com/destination-calendar/",
       "ok": true,
       "mode": "reader",
-      "lastSuccess": "2026-11-06T15:06:00.981Z",
+      "lastSuccess": "2026-11-06T20:55:53.171Z",
       "error": null
     },
     {
@@ -2501,7 +2479,7 @@
       "url": "https://www.choosechicago.com/meeting-planners/chicago-updates-for-meeting-planners/chicago-convention-calendar/",
       "ok": true,
       "mode": "direct",
-      "lastSuccess": "2026-11-06T15:06:01.399Z",
+      "lastSuccess": "2026-11-06T20:55:54.054Z",
       "error": null
     },
     {
