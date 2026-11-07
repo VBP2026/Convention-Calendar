@@ -1,28 +1,6 @@
 {
-  "updatedAt": "2026-11-06T20:55:54.636Z",
+  "updatedAt": "2026-11-07T02:50:15.590Z",
   "events": [
-    {
-      "title": "Automotive Aftermarket Industry Week (AAIW) 2026",
-      "city": "Las Vegas",
-      "venue": "CAESARS FORUM Conference Center Las Vegas Convention Center The Venetian Expo",
-      "startDate": "2026-11-03",
-      "endDate": "2026-11-06",
-      "category": "Convention / Trade Show",
-      "attendance": 160000,
-      "sourceKey": "vegas",
-      "sourceUrl": "https://www.vegasmeansbusiness.com/destination-calendar/"
-    },
-    {
-      "title": "SEMA Show 2026 (co-located with Automotive Aftermarket Industry Week)",
-      "city": "Las Vegas",
-      "venue": "Las Vegas Convention Center",
-      "startDate": "2026-11-03",
-      "endDate": "2026-11-06",
-      "category": "Convention / Trade Show",
-      "attendance": 160000,
-      "sourceKey": "vegas",
-      "sourceUrl": "https://www.vegasmeansbusiness.com/destination-calendar/"
-    },
     {
       "title": "AFP Annual Conference 2026",
       "city": "Las Vegas",
@@ -55,28 +33,6 @@
       "attendance": 350,
       "sourceKey": "vegas",
       "sourceUrl": "https://www.vegasmeansbusiness.com/destination-calendar/"
-    },
-    {
-      "title": "Adobe MAX - The Creative Conference",
-      "city": "Miami Beach",
-      "venue": "Miami Beach Convention Center",
-      "startDate": "2026-11-06",
-      "endDate": "2026-11-06",
-      "category": "Convention Center Event",
-      "attendance": null,
-      "sourceKey": "miami",
-      "sourceUrl": "https://www.miamibeachconvention.com/events"
-    },
-    {
-      "title": "Annual All Staff Com",
-      "city": "Orlando",
-      "venue": "Orange County Convention Center",
-      "startDate": "2026-11-06",
-      "endDate": "2026-11-06",
-      "category": "Event",
-      "attendance": null,
-      "sourceKey": "orlando",
-      "sourceUrl": "https://events.occc.net/event/annual-all-staff-com/965/"
     },
     {
       "title": "AHA 2026 Scientific Sessions",
@@ -328,6 +284,28 @@
       "endDate": "2026-11-20",
       "category": "Convention / Trade Show",
       "attendance": 1500,
+      "sourceKey": "vegas",
+      "sourceUrl": "https://www.vegasmeansbusiness.com/destination-calendar/"
+    },
+    {
+      "title": "SYNERGY 2026",
+      "city": "Las Vegas",
+      "venue": "Fontainebleau Las Vegas",
+      "startDate": "2026-11-16",
+      "endDate": "2026-11-19",
+      "category": "Convention / Trade Show",
+      "attendance": 1200,
+      "sourceKey": "vegas",
+      "sourceUrl": "https://www.vegasmeansbusiness.com/destination-calendar/"
+    },
+    {
+      "title": "RE+ 2026",
+      "city": "Las Vegas",
+      "venue": "Las Vegas Convention Center",
+      "startDate": "2026-11-17",
+      "endDate": "2026-11-19",
+      "category": "Convention / Trade Show",
+      "attendance": 40000,
       "sourceKey": "vegas",
       "sourceUrl": "https://www.vegasmeansbusiness.com/destination-calendar/"
     },
@@ -2419,7 +2397,7 @@
       "url": "https://www.dallasconventioncenter.com/events",
       "ok": true,
       "mode": "reader",
-      "lastSuccess": "2026-11-06T20:54:57.466Z",
+      "lastSuccess": "2026-11-07T02:49:39.081Z",
       "error": null
     },
     {
@@ -2427,10 +2405,10 @@
       "city": "Miami Beach",
       "venue": "Miami Beach Convention Center",
       "url": "https://www.miamibeachconvention.com/events",
-      "ok": true,
-      "mode": "reader",
+      "ok": false,
+      "mode": "fallback",
       "lastSuccess": "2026-11-06T20:55:28.332Z",
-      "error": null
+      "error": "No parsable upcoming events returned"
     },
     {
       "key": "sandiego",
@@ -2439,7 +2417,7 @@
       "url": "https://www.visitsandiego.com/calendar?page=1",
       "ok": true,
       "mode": "reader",
-      "lastSuccess": "2026-11-06T20:55:31.240Z",
+      "lastSuccess": "2026-11-07T02:49:59.517Z",
       "error": null
     },
     {
@@ -2459,7 +2437,7 @@
       "url": "https://events.occc.net/",
       "ok": true,
       "mode": "direct",
-      "lastSuccess": "2026-11-06T20:55:45.099Z",
+      "lastSuccess": "2026-11-07T02:50:08.567Z",
       "error": null
     },
     {
@@ -2469,7 +2447,7 @@
       "url": "https://www.vegasmeansbusiness.com/destination-calendar/",
       "ok": true,
       "mode": "reader",
-      "lastSuccess": "2026-11-06T20:55:53.171Z",
+      "lastSuccess": "2026-11-07T02:50:14.499Z",
       "error": null
     },
     {
@@ -2479,7 +2457,7 @@
       "url": "https://www.choosechicago.com/meeting-planners/chicago-updates-for-meeting-planners/chicago-convention-calendar/",
       "ok": true,
       "mode": "direct",
-      "lastSuccess": "2026-11-06T20:55:54.054Z",
+      "lastSuccess": "2026-11-07T02:50:14.856Z",
       "error": null
     },
     {
