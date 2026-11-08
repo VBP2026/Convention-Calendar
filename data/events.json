@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-08T02:30:48.268Z",
+  "updatedAt": "2026-11-08T14:19:25.531Z",
   "events": [
     {
       "title": "AFP Annual Conference 2026",
@@ -2265,7 +2265,7 @@
       "url": "https://www.dallasconventioncenter.com/events",
       "ok": true,
       "mode": "reader",
-      "lastSuccess": "2026-11-08T02:30:07.420Z",
+      "lastSuccess": "2026-11-08T14:18:38.769Z",
       "error": null
     },
     {
@@ -2273,10 +2273,10 @@
       "city": "Miami Beach",
       "venue": "Miami Beach Convention Center",
       "url": "https://www.miamibeachconvention.com/events",
-      "ok": true,
-      "mode": "reader",
+      "ok": false,
+      "mode": "fallback",
       "lastSuccess": "2026-11-08T02:30:25.870Z",
-      "error": null
+      "error": "No parsable upcoming events returned"
     },
     {
       "key": "sandiego",
@@ -2285,7 +2285,7 @@
       "url": "https://www.visitsandiego.com/calendar?page=1",
       "ok": true,
       "mode": "reader",
-      "lastSuccess": "2026-11-08T02:30:28.378Z",
+      "lastSuccess": "2026-11-08T14:19:04.962Z",
       "error": null
     },
     {
@@ -2305,7 +2305,7 @@
       "url": "https://events.occc.net/",
       "ok": true,
       "mode": "direct",
-      "lastSuccess": "2026-11-08T02:30:42.210Z",
+      "lastSuccess": "2026-11-08T14:19:19.770Z",
       "error": null
     },
     {
@@ -2315,7 +2315,7 @@
       "url": "https://www.vegasmeansbusiness.com/destination-calendar/",
       "ok": true,
       "mode": "reader",
-      "lastSuccess": "2026-11-08T02:30:47.065Z",
+      "lastSuccess": "2026-11-08T14:19:24.643Z",
       "error": null
     },
     {
@@ -2325,7 +2325,7 @@
       "url": "https://www.choosechicago.com/meeting-planners/chicago-updates-for-meeting-planners/chicago-convention-calendar/",
       "ok": true,
       "mode": "direct",
-      "lastSuccess": "2026-11-08T02:30:47.440Z",
+      "lastSuccess": "2026-11-08T14:19:24.988Z",
       "error": null
     },
     {
