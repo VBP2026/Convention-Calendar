@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-10T04:39:13.316Z",
+  "updatedAt": "2026-11-10T15:37:42.722Z",
   "events": [
     {
       "title": "AFP Annual Conference 2026",
@@ -68,7 +68,7 @@
       "sourceUrl": "https://www.vegasmeansbusiness.com/destination-calendar/"
     },
     {
-      "title": "AARM&R Annual Assemb",
+      "title": "AAPM&R 2026",
       "city": "Orlando",
       "venue": "Orange County Convention Center",
       "startDate": "2026-11-12",
@@ -76,7 +76,7 @@
       "category": "Event",
       "attendance": null,
       "sourceKey": "orlando",
-      "sourceUrl": "https://events.occc.net/event/aarm%26r-annual-assemb/907/"
+      "sourceUrl": "https://events.occc.net/event/aapm%26r-2026/907/"
     },
     {
       "title": "DesignerCon 2026",
@@ -530,7 +530,7 @@
       "sourceUrl": "https://events.occc.net/event/asi-show-2027/921/"
     },
     {
-      "title": "Fire Rescue EAST 202",
+      "title": "Florida Fire & EMS Conference 2027",
       "city": "Orlando",
       "venue": "Orange County Convention Center",
       "startDate": "2027-01-06",
@@ -538,7 +538,7 @@
       "category": "Event",
       "attendance": null,
       "sourceKey": "orlando",
-      "sourceUrl": "https://events.occc.net/event/fire-rescue-east-202/922/"
+      "sourceUrl": "https://events.occc.net/event/florida-fire-%26-ems-conference-2027/922/"
     },
     {
       "title": "RCMA Annual Conference",
@@ -1946,7 +1946,7 @@
       "url": "https://www.dallasconventioncenter.com/events",
       "ok": true,
       "mode": "reader",
-      "lastSuccess": "2026-11-10T04:38:15.716Z",
+      "lastSuccess": "2026-11-10T15:36:41.459Z",
       "error": null
     },
     {
@@ -1966,7 +1966,7 @@
       "url": "https://www.visitsandiego.com/calendar?page=1",
       "ok": true,
       "mode": "reader",
-      "lastSuccess": "2026-11-10T04:38:50.068Z",
+      "lastSuccess": "2026-11-10T15:37:18.243Z",
       "error": null
     },
     {
@@ -1986,7 +1986,7 @@
       "url": "https://events.occc.net/",
       "ok": true,
       "mode": "direct",
-      "lastSuccess": "2026-11-10T04:39:07.600Z",
+      "lastSuccess": "2026-11-10T15:37:35.856Z",
       "error": null
     },
     {
@@ -1996,7 +1996,7 @@
       "url": "https://www.vegasmeansbusiness.com/destination-calendar/",
       "ok": true,
       "mode": "reader",
-      "lastSuccess": "2026-11-10T04:39:12.093Z",
+      "lastSuccess": "2026-11-10T15:37:41.733Z",
       "error": null
     },
     {
@@ -2006,7 +2006,7 @@
       "url": "https://www.choosechicago.com/meeting-planners/chicago-updates-for-meeting-planners/chicago-convention-calendar/",
       "ok": true,
       "mode": "direct",
-      "lastSuccess": "2026-11-10T04:39:12.545Z",
+      "lastSuccess": "2026-11-10T15:37:42.098Z",
       "error": null
     },
     {
