@@ -1,17 +1,6 @@
 {
-  "updatedAt": "2026-11-11T22:01:06.824Z",
+  "updatedAt": "2026-11-12T03:50:27.770Z",
   "events": [
-    {
-      "title": "AFP Annual Conference 2026",
-      "city": "Las Vegas",
-      "venue": "Mandalay Bay Convention Center, Resort and Casino",
-      "startDate": "2026-11-04",
-      "endDate": "2026-11-11",
-      "category": "Convention / Trade Show",
-      "attendance": 6500,
-      "sourceKey": "vegas",
-      "sourceUrl": "https://www.vegasmeansbusiness.com/destination-calendar/"
-    },
     {
       "title": "NICA Marketplace \"Together\"",
       "city": "Las Vegas",
@@ -231,6 +220,17 @@
       "attendance": null,
       "sourceKey": "nyc",
       "sourceUrl": "https://javitscenter.com/calendar/"
+    },
+    {
+      "title": "Wedding MBA Convention 2026",
+      "city": "Las Vegas",
+      "venue": "Las Vegas Convention Center",
+      "startDate": "2026-11-18",
+      "endDate": "2026-11-19",
+      "category": "Convention / Trade Show",
+      "attendance": 8000,
+      "sourceKey": "vegas",
+      "sourceUrl": "https://www.vegasmeansbusiness.com/destination-calendar/"
     },
     {
       "title": "HYROX Dallas 2026",
@@ -1836,7 +1836,7 @@
       "url": "https://www.dallasconventioncenter.com/events",
       "ok": true,
       "mode": "reader",
-      "lastSuccess": "2026-11-11T22:00:11.216Z",
+      "lastSuccess": "2026-11-12T03:49:30.384Z",
       "error": null
     },
     {
@@ -1844,10 +1844,10 @@
       "city": "Miami Beach",
       "venue": "Miami Beach Convention Center",
       "url": "https://www.miamibeachconvention.com/events",
-      "ok": true,
-      "mode": "reader",
+      "ok": false,
+      "mode": "fallback",
       "lastSuccess": "2026-11-11T22:00:40.178Z",
-      "error": null
+      "error": "No parsable upcoming events returned"
     },
     {
       "key": "sandiego",
@@ -1856,7 +1856,7 @@
       "url": "https://www.visitsandiego.com/calendar?page=1",
       "ok": true,
       "mode": "reader",
-      "lastSuccess": "2026-11-11T22:00:44.904Z",
+      "lastSuccess": "2026-11-12T03:49:54.671Z",
       "error": null
     },
     {
@@ -1876,7 +1876,7 @@
       "url": "https://events.occc.net/",
       "ok": true,
       "mode": "direct",
-      "lastSuccess": "2026-11-11T22:00:59.112Z",
+      "lastSuccess": "2026-11-12T03:50:11.800Z",
       "error": null
     },
     {
@@ -1886,7 +1886,7 @@
       "url": "https://www.vegasmeansbusiness.com/destination-calendar/",
       "ok": true,
       "mode": "reader",
-      "lastSuccess": "2026-11-11T22:01:05.664Z",
+      "lastSuccess": "2026-11-12T03:50:19.616Z",
       "error": null
     },
     {
@@ -1896,7 +1896,7 @@
       "url": "https://www.choosechicago.com/meeting-planners/chicago-updates-for-meeting-planners/chicago-convention-calendar/",
       "ok": true,
       "mode": "direct",
-      "lastSuccess": "2026-11-11T22:01:06.093Z",
+      "lastSuccess": "2026-11-12T03:50:20.580Z",
       "error": null
     },
     {
@@ -1904,10 +1904,10 @@
       "city": "New York",
       "venue": "Jacob K. Javits Convention Center",
       "url": "https://javitscenter.com/calendar/",
-      "ok": false,
-      "mode": "fallback",
-      "lastSuccess": "2026-11-05T03:31:28.177Z",
-      "error": "Rendered page contained no parsable upcoming events; direct=HTTP 403"
+      "ok": true,
+      "mode": "reader",
+      "lastSuccess": "2026-11-12T03:50:27.752Z",
+      "error": null
     }
   ]
 }
