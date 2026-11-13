@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-13T03:26:33.674Z",
+  "updatedAt": "2026-11-13T15:25:38.984Z",
   "events": [
     {
       "title": "Mecum Collector Car Auctions 2026",
@@ -46,7 +46,7 @@
       "sourceUrl": "https://www.visitsandiego.com/calendar?page=1"
     },
     {
-      "title": "I-Drive Chamber of C",
+      "title": "I-Drive Chamber of Chamber Lunch",
       "city": "Orlando",
       "venue": "Orange County Convention Center",
       "startDate": "2026-11-13",
@@ -54,7 +54,7 @@
       "category": "Event",
       "attendance": null,
       "sourceKey": "orlando",
-      "sourceUrl": "https://events.occc.net/event/i-drive-chamber-of-c/962/"
+      "sourceUrl": "https://events.occc.net/event/i-drive-chamber-of-chamber-lunch/962/"
     },
     {
       "title": "JVA Chi-Town Boys Challenge 2026",
@@ -2056,7 +2056,7 @@
       "url": "https://www.dallasconventioncenter.com/events",
       "ok": true,
       "mode": "reader",
-      "lastSuccess": "2026-11-13T03:25:40.979Z",
+      "lastSuccess": "2026-11-13T15:24:40.782Z",
       "error": null
     },
     {
@@ -2064,10 +2064,10 @@
       "city": "Miami Beach",
       "venue": "Miami Beach Convention Center",
       "url": "https://www.miamibeachconvention.com/events",
-      "ok": true,
-      "mode": "reader",
+      "ok": false,
+      "mode": "fallback",
       "lastSuccess": "2026-11-13T03:26:00.973Z",
-      "error": null
+      "error": "No parsable upcoming events returned"
     },
     {
       "key": "sandiego",
@@ -2076,7 +2076,7 @@
       "url": "https://www.visitsandiego.com/calendar?page=1",
       "ok": true,
       "mode": "reader",
-      "lastSuccess": "2026-11-13T03:26:03.838Z",
+      "lastSuccess": "2026-11-13T15:25:05.743Z",
       "error": null
     },
     {
@@ -2096,7 +2096,7 @@
       "url": "https://events.occc.net/",
       "ok": true,
       "mode": "direct",
-      "lastSuccess": "2026-11-13T03:26:19.829Z",
+      "lastSuccess": "2026-11-13T15:25:27.392Z",
       "error": null
     },
     {
@@ -2106,7 +2106,7 @@
       "url": "https://www.vegasmeansbusiness.com/destination-calendar/",
       "ok": true,
       "mode": "reader",
-      "lastSuccess": "2026-11-13T03:26:28.848Z",
+      "lastSuccess": "2026-11-13T15:25:33.305Z",
       "error": null
     },
     {
@@ -2116,7 +2116,7 @@
       "url": "https://www.choosechicago.com/meeting-planners/chicago-updates-for-meeting-planners/chicago-convention-calendar/",
       "ok": true,
       "mode": "direct",
-      "lastSuccess": "2026-11-13T03:26:29.192Z",
+      "lastSuccess": "2026-11-13T15:25:34.148Z",
       "error": null
     },
     {
@@ -2126,7 +2126,7 @@
       "url": "https://javitscenter.com/calendar/",
       "ok": true,
       "mode": "reader",
-      "lastSuccess": "2026-11-13T03:26:33.658Z",
+      "lastSuccess": "2026-11-13T15:25:38.971Z",
       "error": null
     }
   ]
