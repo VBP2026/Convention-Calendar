@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-13T15:25:38.984Z",
+  "updatedAt": "2026-11-14T03:18:48.910Z",
   "events": [
     {
       "title": "Mecum Collector Car Auctions 2026",
@@ -44,17 +44,6 @@
       "attendance": 21000,
       "sourceKey": "sandiego",
       "sourceUrl": "https://www.visitsandiego.com/calendar?page=1"
-    },
-    {
-      "title": "I-Drive Chamber of Chamber Lunch",
-      "city": "Orlando",
-      "venue": "Orange County Convention Center",
-      "startDate": "2026-11-13",
-      "endDate": "2026-11-13",
-      "category": "Event",
-      "attendance": null,
-      "sourceKey": "orlando",
-      "sourceUrl": "https://events.occc.net/event/i-drive-chamber-of-chamber-lunch/962/"
     },
     {
       "title": "JVA Chi-Town Boys Challenge 2026",
@@ -2054,10 +2043,10 @@
       "city": "Dallas",
       "venue": "Kay Bailey Hutchison Convention Center Dallas",
       "url": "https://www.dallasconventioncenter.com/events",
-      "ok": true,
-      "mode": "reader",
+      "ok": false,
+      "mode": "fallback",
       "lastSuccess": "2026-11-13T15:24:40.782Z",
-      "error": null
+      "error": "HTTP 401"
     },
     {
       "key": "miami",
@@ -2074,10 +2063,10 @@
       "city": "San Diego",
       "venue": "San Diego Convention Center",
       "url": "https://www.visitsandiego.com/calendar?page=1",
-      "ok": true,
-      "mode": "reader",
+      "ok": false,
+      "mode": "fallback",
       "lastSuccess": "2026-11-13T15:25:05.743Z",
-      "error": null
+      "error": "HTTP 401"
     },
     {
       "key": "anaheim",
@@ -2087,27 +2076,27 @@
       "ok": false,
       "mode": "fallback",
       "lastSuccess": "2026-10-04T13:13:31.478Z",
-      "error": "Rendered page contained no parsable upcoming events"
+      "error": "HTTP 401; direct=HTTP 403"
     },
     {
       "key": "orlando",
       "city": "Orlando",
       "venue": "Orange County Convention Center",
       "url": "https://events.occc.net/",
-      "ok": true,
-      "mode": "direct",
+      "ok": false,
+      "mode": "fallback",
       "lastSuccess": "2026-11-13T15:25:27.392Z",
-      "error": null
+      "error": "HTTP 403"
     },
     {
       "key": "vegas",
       "city": "Las Vegas",
       "venue": "Las Vegas Convention Center",
       "url": "https://www.vegasmeansbusiness.com/destination-calendar/",
-      "ok": true,
-      "mode": "reader",
+      "ok": false,
+      "mode": "fallback",
       "lastSuccess": "2026-11-13T15:25:33.305Z",
-      "error": null
+      "error": "HTTP 401; direct=HTTP 403"
     },
     {
       "key": "chicago",
@@ -2116,7 +2105,7 @@
       "url": "https://www.choosechicago.com/meeting-planners/chicago-updates-for-meeting-planners/chicago-convention-calendar/",
       "ok": true,
       "mode": "direct",
-      "lastSuccess": "2026-11-13T15:25:34.148Z",
+      "lastSuccess": "2026-11-14T03:18:48.480Z",
       "error": null
     },
     {
@@ -2124,10 +2113,10 @@
       "city": "New York",
       "venue": "Jacob K. Javits Convention Center",
       "url": "https://javitscenter.com/calendar/",
-      "ok": true,
-      "mode": "reader",
+      "ok": false,
+      "mode": "fallback",
       "lastSuccess": "2026-11-13T15:25:38.971Z",
-      "error": null
+      "error": "HTTP 401; direct=HTTP 403"
     }
   ]
 }
