@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-16T02:46:21.032Z",
+  "updatedAt": "2026-11-16T17:03:53.551Z",
   "events": [
     {
       "title": "National Multifamily Housing Council - OPTECH Conference & Exposition - 2026",
@@ -1768,30 +1768,30 @@
       "city": "Dallas",
       "venue": "Kay Bailey Hutchison Convention Center Dallas",
       "url": "https://www.dallasconventioncenter.com/events",
-      "ok": true,
-      "mode": "reader",
+      "ok": false,
+      "mode": "fallback",
       "lastSuccess": "2026-11-16T02:45:11.515Z",
-      "error": null
+      "error": "HTTP 401"
     },
     {
       "key": "miami",
       "city": "Miami Beach",
       "venue": "Miami Beach Convention Center",
       "url": "https://www.miamibeachconvention.com/events",
-      "ok": true,
-      "mode": "reader",
+      "ok": false,
+      "mode": "fallback",
       "lastSuccess": "2026-11-16T02:45:47.650Z",
-      "error": null
+      "error": "No parsable upcoming events returned"
     },
     {
       "key": "sandiego",
       "city": "San Diego",
       "venue": "San Diego Convention Center",
       "url": "https://www.visitsandiego.com/calendar?page=1",
-      "ok": true,
-      "mode": "reader",
+      "ok": false,
+      "mode": "fallback",
       "lastSuccess": "2026-11-16T02:45:54.640Z",
-      "error": null
+      "error": "HTTP 401"
     },
     {
       "key": "anaheim",
@@ -1801,7 +1801,7 @@
       "ok": false,
       "mode": "fallback",
       "lastSuccess": "2026-10-04T13:13:31.478Z",
-      "error": "Rendered page contained no parsable upcoming events"
+      "error": "HTTP 401"
     },
     {
       "key": "orlando",
@@ -1810,7 +1810,7 @@
       "url": "https://events.occc.net/",
       "ok": true,
       "mode": "direct",
-      "lastSuccess": "2026-11-16T02:46:07.682Z",
+      "lastSuccess": "2026-11-16T17:03:51.951Z",
       "error": null
     },
     {
@@ -1818,10 +1818,10 @@
       "city": "Las Vegas",
       "venue": "Las Vegas Convention Center",
       "url": "https://www.vegasmeansbusiness.com/destination-calendar/",
-      "ok": true,
-      "mode": "reader",
+      "ok": false,
+      "mode": "fallback",
       "lastSuccess": "2026-11-16T02:46:13.033Z",
-      "error": null
+      "error": "HTTP 401"
     },
     {
       "key": "chicago",
@@ -1830,7 +1830,7 @@
       "url": "https://www.choosechicago.com/meeting-planners/chicago-updates-for-meeting-planners/chicago-convention-calendar/",
       "ok": true,
       "mode": "direct",
-      "lastSuccess": "2026-11-16T02:46:13.728Z",
+      "lastSuccess": "2026-11-16T17:03:53.080Z",
       "error": null
     },
     {
@@ -1838,10 +1838,10 @@
       "city": "New York",
       "venue": "Jacob K. Javits Convention Center",
       "url": "https://javitscenter.com/calendar/",
-      "ok": true,
-      "mode": "reader",
+      "ok": false,
+      "mode": "fallback",
       "lastSuccess": "2026-11-16T02:46:21.018Z",
-      "error": null
+      "error": "HTTP 401; direct=HTTP 403"
     }
   ]
 }
