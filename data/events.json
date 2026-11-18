@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-18T04:24:36.133Z",
+  "updatedAt": "2026-11-18T16:29:06.171Z",
   "events": [
     {
       "title": "National Multifamily Housing Council - OPTECH Conference & Exposition - 2026",
@@ -2089,7 +2089,7 @@
       "url": "https://www.dallasconventioncenter.com/events",
       "ok": true,
       "mode": "reader",
-      "lastSuccess": "2026-11-18T04:23:50.120Z",
+      "lastSuccess": "2026-11-18T16:28:13.443Z",
       "error": null
     },
     {
@@ -2097,10 +2097,10 @@
       "city": "Miami Beach",
       "venue": "Miami Beach Convention Center",
       "url": "https://www.miamibeachconvention.com/events",
-      "ok": true,
-      "mode": "reader",
+      "ok": false,
+      "mode": "fallback",
       "lastSuccess": "2026-11-18T04:24:14.486Z",
-      "error": null
+      "error": "No parsable upcoming events returned"
     },
     {
       "key": "sandiego",
@@ -2109,7 +2109,7 @@
       "url": "https://www.visitsandiego.com/calendar?page=1",
       "ok": true,
       "mode": "reader",
-      "lastSuccess": "2026-11-18T04:24:17.374Z",
+      "lastSuccess": "2026-11-18T16:28:45.431Z",
       "error": null
     },
     {
@@ -2129,7 +2129,7 @@
       "url": "https://events.occc.net/",
       "ok": true,
       "mode": "direct",
-      "lastSuccess": "2026-11-18T04:24:30.553Z",
+      "lastSuccess": "2026-11-18T16:28:58.454Z",
       "error": null
     },
     {
@@ -2139,7 +2139,7 @@
       "url": "https://www.vegasmeansbusiness.com/destination-calendar/",
       "ok": true,
       "mode": "reader",
-      "lastSuccess": "2026-11-18T04:24:35.329Z",
+      "lastSuccess": "2026-11-18T16:29:04.066Z",
       "error": null
     },
     {
@@ -2149,7 +2149,7 @@
       "url": "https://www.choosechicago.com/meeting-planners/chicago-updates-for-meeting-planners/chicago-convention-calendar/",
       "ok": true,
       "mode": "direct",
-      "lastSuccess": "2026-11-18T04:24:35.605Z",
+      "lastSuccess": "2026-11-18T16:29:04.338Z",
       "error": null
     },
     {
