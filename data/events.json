@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-19T04:13:18.020Z",
+  "updatedAt": "2026-11-19T16:35:55.861Z",
   "events": [
     {
       "title": "IEEE SC26 International Conference",
@@ -79,17 +79,6 @@
       "sourceUrl": "https://www.vegasmeansbusiness.com/destination-calendar/"
     },
     {
-      "title": "HYROX Dallas 2026",
-      "city": "Dallas",
-      "venue": "Kay Bailey Hutchison Convention Center Dallas",
-      "startDate": "2026-11-18",
-      "endDate": "2026-11-22",
-      "category": "Sporting Event",
-      "attendance": null,
-      "sourceKey": "dallas",
-      "sourceUrl": "https://www.dallasconventioncenter.com/events"
-    },
-    {
       "title": "AB Show",
       "city": "Orlando",
       "venue": "Orange County Convention Center",
@@ -132,6 +121,17 @@
       "attendance": 1500,
       "sourceKey": "sandiego",
       "sourceUrl": "https://www.visitsandiego.com/calendar?page=1"
+    },
+    {
+      "title": "HYROX Dallas 2026",
+      "city": "Dallas",
+      "venue": "Kay Bailey Hutchison Convention Center Dallas",
+      "startDate": "2026-11-19",
+      "endDate": "2026-11-22",
+      "category": "Sporting Event",
+      "attendance": null,
+      "sourceKey": "dallas",
+      "sourceUrl": "https://www.dallasconventioncenter.com/events"
     },
     {
       "title": "Learn More →",
@@ -1770,7 +1770,7 @@
       "url": "https://www.dallasconventioncenter.com/events",
       "ok": true,
       "mode": "reader",
-      "lastSuccess": "2026-11-19T04:12:32.845Z",
+      "lastSuccess": "2026-11-19T16:35:12.713Z",
       "error": null
     },
     {
@@ -1778,10 +1778,10 @@
       "city": "Miami Beach",
       "venue": "Miami Beach Convention Center",
       "url": "https://www.miamibeachconvention.com/events",
-      "ok": true,
-      "mode": "reader",
+      "ok": false,
+      "mode": "fallback",
       "lastSuccess": "2026-11-19T04:13:00.896Z",
-      "error": null
+      "error": "No parsable upcoming events returned"
     },
     {
       "key": "sandiego",
@@ -1790,7 +1790,7 @@
       "url": "https://www.visitsandiego.com/calendar?page=1",
       "ok": true,
       "mode": "reader",
-      "lastSuccess": "2026-11-19T04:13:04.142Z",
+      "lastSuccess": "2026-11-19T16:35:42.259Z",
       "error": null
     },
     {
@@ -1810,7 +1810,7 @@
       "url": "https://events.occc.net/",
       "ok": true,
       "mode": "direct",
-      "lastSuccess": "2026-11-19T04:13:10.863Z",
+      "lastSuccess": "2026-11-19T16:35:50.311Z",
       "error": null
     },
     {
@@ -1820,7 +1820,7 @@
       "url": "https://www.vegasmeansbusiness.com/destination-calendar/",
       "ok": true,
       "mode": "reader",
-      "lastSuccess": "2026-11-19T04:13:17.345Z",
+      "lastSuccess": "2026-11-19T16:35:55.068Z",
       "error": null
     },
     {
@@ -1830,7 +1830,7 @@
       "url": "https://www.choosechicago.com/meeting-planners/chicago-updates-for-meeting-planners/chicago-convention-calendar/",
       "ok": true,
       "mode": "direct",
-      "lastSuccess": "2026-11-19T04:13:17.570Z",
+      "lastSuccess": "2026-11-19T16:35:55.251Z",
       "error": null
     },
     {
