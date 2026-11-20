@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-19T16:35:55.861Z",
+  "updatedAt": "2026-11-20T04:00:07.493Z",
   "events": [
     {
       "title": "IEEE SC26 International Conference",
@@ -13,17 +13,6 @@
       "sourceUrl": "https://www.choosechicago.com/meeting-planners/chicago-updates-for-meeting-planners/chicago-convention-calendar/"
     },
     {
-      "title": "ISSA Show North America - 2026",
-      "city": "Las Vegas",
-      "venue": "Mandalay Bay Convention Center, Resort and Casino",
-      "startDate": "2026-11-16",
-      "endDate": "2026-11-19",
-      "category": "Convention / Trade Show",
-      "attendance": 16500,
-      "sourceKey": "vegas",
-      "sourceUrl": "https://www.vegasmeansbusiness.com/destination-calendar/"
-    },
-    {
       "title": "SVIN 2026 Annual Meeting",
       "city": "Las Vegas",
       "venue": "Resorts World Las Vegas",
@@ -31,28 +20,6 @@
       "endDate": "2026-11-20",
       "category": "Convention / Trade Show",
       "attendance": 1500,
-      "sourceKey": "vegas",
-      "sourceUrl": "https://www.vegasmeansbusiness.com/destination-calendar/"
-    },
-    {
-      "title": "SYNERGY 2026",
-      "city": "Las Vegas",
-      "venue": "Fontainebleau Las Vegas",
-      "startDate": "2026-11-16",
-      "endDate": "2026-11-19",
-      "category": "Convention / Trade Show",
-      "attendance": 1200,
-      "sourceKey": "vegas",
-      "sourceUrl": "https://www.vegasmeansbusiness.com/destination-calendar/"
-    },
-    {
-      "title": "RE+ 2026",
-      "city": "Las Vegas",
-      "venue": "Las Vegas Convention Center",
-      "startDate": "2026-11-17",
-      "endDate": "2026-11-19",
-      "category": "Convention / Trade Show",
-      "attendance": 40000,
       "sourceKey": "vegas",
       "sourceUrl": "https://www.vegasmeansbusiness.com/destination-calendar/"
     },
@@ -68,17 +35,6 @@
       "sourceUrl": "https://events.occc.net/event/iaapa-expo/908/"
     },
     {
-      "title": "Wedding MBA Convention 2026",
-      "city": "Las Vegas",
-      "venue": "Las Vegas Convention Center",
-      "startDate": "2026-11-18",
-      "endDate": "2026-11-19",
-      "category": "Convention / Trade Show",
-      "attendance": 8000,
-      "sourceKey": "vegas",
-      "sourceUrl": "https://www.vegasmeansbusiness.com/destination-calendar/"
-    },
-    {
       "title": "AB Show",
       "city": "Orlando",
       "venue": "Orange County Convention Center",
@@ -88,28 +44,6 @@
       "attendance": null,
       "sourceKey": "orlando",
       "sourceUrl": "https://events.occc.net/event/ab-show/910/"
-    },
-    {
-      "title": "GENESYS XPERIENCE ON TOUR NYC 2026",
-      "city": "New York",
-      "venue": "Jacob K. Javits Convention Center",
-      "startDate": "2026-11-18",
-      "endDate": "2026-11-19",
-      "category": "Javits Center Event",
-      "attendance": null,
-      "sourceKey": "nyc",
-      "sourceUrl": "https://javitscenter.com/calendar/"
-    },
-    {
-      "title": "Learn More →",
-      "city": "New York",
-      "venue": "Jacob K. Javits Convention Center",
-      "startDate": "2026-11-18",
-      "endDate": "2026-11-19",
-      "category": "Javits Center Event",
-      "attendance": null,
-      "sourceKey": "nyc",
-      "sourceUrl": "https://javitscenter.com/calendar/"
     },
     {
       "title": "FINTECH NERDCON",
@@ -154,6 +88,17 @@
       "attendance": null,
       "sourceKey": "orlando",
       "sourceUrl": "https://events.occc.net/event/aps-79th-annual-meeting-of-the-division-of-fluid-dynamics/911/"
+    },
+    {
+      "title": "OC Head Start",
+      "city": "Orlando",
+      "venue": "Orange County Convention Center",
+      "startDate": "2026-11-23",
+      "endDate": "2026-11-23",
+      "category": "Event",
+      "attendance": null,
+      "sourceKey": "orlando",
+      "sourceUrl": "https://events.occc.net/event/oc-head-start/981/"
     },
     {
       "title": "2026 SAN DIEGO INTERNATIONAL CONVENTION",
@@ -277,17 +222,6 @@
       "sourceUrl": "https://www.vegasmeansbusiness.com/destination-calendar/"
     },
     {
-      "title": "Spirit Celebration Grand Nationals 2026",
-      "city": "Dallas",
-      "venue": "Kay Bailey Hutchison Convention Center Dallas",
-      "startDate": "2026-12-05",
-      "endDate": "2026-12-06",
-      "category": "Sporting Event",
-      "attendance": null,
-      "sourceKey": "dallas",
-      "sourceUrl": "https://www.dallasconventioncenter.com/events"
-    },
-    {
       "title": "Live Design International - LDI Show 2026",
       "city": "Las Vegas",
       "venue": "Las Vegas Convention Center",
@@ -321,6 +255,28 @@
       "sourceUrl": "https://events.occc.net/event/akc-national-championship-presented-by-royal-canin/915/"
     },
     {
+      "title": "National Ground Water Association (NGWA) Expo & Annual Meeting 2026",
+      "city": "Las Vegas",
+      "venue": "Las Vegas Convention Center",
+      "startDate": "2026-12-09",
+      "endDate": "2026-12-10",
+      "category": "Convention / Trade Show",
+      "attendance": 6000,
+      "sourceKey": "vegas",
+      "sourceUrl": "https://www.vegasmeansbusiness.com/destination-calendar/"
+    },
+    {
+      "title": "Irrigation Association Expo 2026",
+      "city": "Las Vegas",
+      "venue": "Las Vegas Convention Center",
+      "startDate": "2026-12-09",
+      "endDate": "2026-12-10",
+      "category": "Convention / Trade Show",
+      "attendance": 5000,
+      "sourceKey": "vegas",
+      "sourceUrl": "https://www.vegasmeansbusiness.com/destination-calendar/"
+    },
+    {
       "title": "Colorado River Water Users Association - 2026 Annual Conference",
       "city": "Las Vegas",
       "venue": "Caesars Palace",
@@ -332,15 +288,26 @@
       "sourceUrl": "https://www.vegasmeansbusiness.com/destination-calendar/"
     },
     {
-      "title": "BMW Dallas Marathon",
-      "city": "Dallas",
-      "venue": "Kay Bailey Hutchison Convention Center Dallas",
-      "startDate": "2026-12-11",
-      "endDate": "2026-12-12",
-      "category": "Special Event",
-      "attendance": null,
-      "sourceKey": "dallas",
-      "sourceUrl": "https://www.dallasconventioncenter.com/events"
+      "title": "CTER Legal Update & Indian Preference Conference",
+      "city": "Las Vegas",
+      "venue": "The Orleans Hotel and Casino",
+      "startDate": "2026-12-09",
+      "endDate": "2026-12-11",
+      "category": "Convention / Trade Show",
+      "attendance": 300,
+      "sourceKey": "vegas",
+      "sourceUrl": "https://www.vegasmeansbusiness.com/destination-calendar/"
+    },
+    {
+      "title": "LongevityFest 2026",
+      "city": "Las Vegas",
+      "venue": "Mandalay Bay Convention Center, Resort and Casino",
+      "startDate": "2026-12-10",
+      "endDate": "2026-12-13",
+      "category": "Convention / Trade Show",
+      "attendance": 1000,
+      "sourceKey": "vegas",
+      "sourceUrl": "https://www.vegasmeansbusiness.com/destination-calendar/"
     },
     {
       "title": "AMERICAN SOCIETY FOR CELL BIOLOGY ANNUAL",
@@ -374,17 +341,6 @@
       "attendance": null,
       "sourceKey": "orlando",
       "sourceUrl": "https://events.occc.net/event/spirit-cheer-2026/917/"
-    },
-    {
-      "title": "NCA Holiday Classic 2026",
-      "city": "Dallas",
-      "venue": "Kay Bailey Hutchison Convention Center Dallas",
-      "startDate": "2026-12-13",
-      "endDate": "2026-12-13",
-      "category": "Sporting Event",
-      "attendance": null,
-      "sourceKey": "dallas",
-      "sourceUrl": "https://www.dallasconventioncenter.com/events"
     },
     {
       "title": "The Midwest Clinic 2026 International Band & Orchestra Conference",
@@ -486,17 +442,6 @@
       "sourceUrl": "https://events.occc.net/event/florida-united-numismatists-annual-convention/923/"
     },
     {
-      "title": "Outdoors Extravaganza 2027",
-      "city": "Dallas",
-      "venue": "Kay Bailey Hutchison Convention Center Dallas",
-      "startDate": "2027-01-08",
-      "endDate": "2027-01-10",
-      "category": "Consumer Show",
-      "attendance": null,
-      "sourceKey": "dallas",
-      "sourceUrl": "https://www.dallasconventioncenter.com/events"
-    },
-    {
       "title": "Florida USAV Gold Series 2027",
       "city": "Orlando",
       "venue": "Orange County Convention Center",
@@ -563,17 +508,6 @@
       "sourceUrl": "https://www.visitsandiego.com/calendar?page=1"
     },
     {
-      "title": "Tour of Texas Stop #1",
-      "city": "Dallas",
-      "venue": "Kay Bailey Hutchison Convention Center Dallas",
-      "startDate": "2027-01-16",
-      "endDate": "2027-01-18",
-      "category": "Sporting Event",
-      "attendance": null,
-      "sourceKey": "dallas",
-      "sourceUrl": "https://www.dallasconventioncenter.com/events"
-    },
-    {
       "title": "All Out Grand Nation",
       "city": "Orlando",
       "venue": "Orange County Convention Center",
@@ -627,17 +561,6 @@
       "attendance": 2000,
       "sourceKey": "sandiego",
       "sourceUrl": "https://www.visitsandiego.com/calendar?page=1"
-    },
-    {
-      "title": "TCG National Convention 2027",
-      "city": "Dallas",
-      "venue": "Kay Bailey Hutchison Convention Center Dallas",
-      "startDate": "2027-01-21",
-      "endDate": "2027-01-24",
-      "category": "Special Event",
-      "attendance": null,
-      "sourceKey": "dallas",
-      "sourceUrl": "https://www.dallasconventioncenter.com/events"
     },
     {
       "title": "ATHX GAMES 2027",
@@ -695,17 +618,6 @@
       "sourceUrl": "https://www.visitsandiego.com/calendar?page=1"
     },
     {
-      "title": "Convention",
-      "city": "Dallas",
-      "venue": "Kay Bailey Hutchison Convention Center Dallas",
-      "startDate": "2027-01-29",
-      "endDate": "2027-01-30",
-      "category": "Convention Center Event",
-      "attendance": null,
-      "sourceKey": "dallas",
-      "sourceUrl": "https://www.dallasconventioncenter.com/events"
-    },
-    {
       "title": "SOCIETY FOR LABORATORY AUTOMATION & SCREENING 2027 ANNUAL",
       "city": "San Diego",
       "venue": "San Diego Convention Center",
@@ -715,17 +627,6 @@
       "attendance": 7500,
       "sourceKey": "sandiego",
       "sourceUrl": "https://www.visitsandiego.com/calendar?page=1"
-    },
-    {
-      "title": "National Franchise Show",
-      "city": "Dallas",
-      "venue": "Kay Bailey Hutchison Convention Center Dallas",
-      "startDate": "2027-01-30",
-      "endDate": "2027-01-31",
-      "category": "Trade Show",
-      "attendance": null,
-      "sourceKey": "dallas",
-      "sourceUrl": "https://www.dallasconventioncenter.com/events"
     },
     {
       "title": "Sherwin Williams Nat",
@@ -783,17 +684,6 @@
       "sourceUrl": "https://www.visitsandiego.com/calendar?page=1"
     },
     {
-      "title": "TexasFest 2027",
-      "city": "Dallas",
-      "venue": "Kay Bailey Hutchison Convention Center Dallas",
-      "startDate": "2027-02-06",
-      "endDate": "2027-02-07",
-      "category": "Sporting Event",
-      "attendance": null,
-      "sourceKey": "dallas",
-      "sourceUrl": "https://www.dallasconventioncenter.com/events"
-    },
-    {
       "title": "INTERSOLAR & ENERGY STORAGE NORTH AMERICA 2027",
       "city": "San Diego",
       "venue": "San Diego Convention Center",
@@ -825,17 +715,6 @@
       "attendance": 9000,
       "sourceKey": "sandiego",
       "sourceUrl": "https://www.visitsandiego.com/calendar?page=1"
-    },
-    {
-      "title": "American Volleyball Challenge 2027: Qualifier",
-      "city": "Dallas",
-      "venue": "Kay Bailey Hutchison Convention Center Dallas",
-      "startDate": "2027-02-12",
-      "endDate": "2027-02-14",
-      "category": "Sporting Event",
-      "attendance": null,
-      "sourceKey": "dallas",
-      "sourceUrl": "https://www.dallasconventioncenter.com/events"
     },
     {
       "title": "U.S. Dance/Drill Tea",
@@ -1770,7 +1649,7 @@
       "url": "https://www.dallasconventioncenter.com/events",
       "ok": true,
       "mode": "reader",
-      "lastSuccess": "2026-11-19T16:35:12.713Z",
+      "lastSuccess": "2026-11-20T03:59:20.045Z",
       "error": null
     },
     {
@@ -1790,7 +1669,7 @@
       "url": "https://www.visitsandiego.com/calendar?page=1",
       "ok": true,
       "mode": "reader",
-      "lastSuccess": "2026-11-19T16:35:42.259Z",
+      "lastSuccess": "2026-11-20T03:59:47.421Z",
       "error": null
     },
     {
@@ -1810,7 +1689,7 @@
       "url": "https://events.occc.net/",
       "ok": true,
       "mode": "direct",
-      "lastSuccess": "2026-11-19T16:35:50.311Z",
+      "lastSuccess": "2026-11-20T04:00:00.420Z",
       "error": null
     },
     {
@@ -1820,7 +1699,7 @@
       "url": "https://www.vegasmeansbusiness.com/destination-calendar/",
       "ok": true,
       "mode": "reader",
-      "lastSuccess": "2026-11-19T16:35:55.068Z",
+      "lastSuccess": "2026-11-20T04:00:06.434Z",
       "error": null
     },
     {
@@ -1830,7 +1709,7 @@
       "url": "https://www.choosechicago.com/meeting-planners/chicago-updates-for-meeting-planners/chicago-convention-calendar/",
       "ok": true,
       "mode": "direct",
-      "lastSuccess": "2026-11-19T16:35:55.251Z",
+      "lastSuccess": "2026-11-20T04:00:06.819Z",
       "error": null
     },
     {
