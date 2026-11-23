@@ -1,28 +1,6 @@
 {
-  "updatedAt": "2026-11-22T15:20:57.604Z",
+  "updatedAt": "2026-11-23T03:44:46.722Z",
   "events": [
-    {
-      "title": "Learn More →",
-      "city": "New York",
-      "venue": "Jacob K. Javits Convention Center",
-      "startDate": "2026-11-19",
-      "endDate": "2026-11-22",
-      "category": "Javits Center Event",
-      "attendance": null,
-      "sourceKey": "nyc",
-      "sourceUrl": "https://javitscenter.com/calendar/"
-    },
-    {
-      "title": "HYROX Dallas 2026",
-      "city": "Dallas",
-      "venue": "Kay Bailey Hutchison Convention Center Dallas",
-      "startDate": "2026-11-22",
-      "endDate": "2026-11-22",
-      "category": "Sporting Event",
-      "attendance": null,
-      "sourceKey": "dallas",
-      "sourceUrl": "https://www.dallasconventioncenter.com/events"
-    },
     {
       "title": "APS 79th Annual Meeting of the Division of Fluid Dynamics",
       "city": "Orlando",
@@ -2089,7 +2067,7 @@
       "url": "https://www.dallasconventioncenter.com/events",
       "ok": true,
       "mode": "reader",
-      "lastSuccess": "2026-11-22T15:20:03.126Z",
+      "lastSuccess": "2026-11-23T03:43:41.700Z",
       "error": null
     },
     {
@@ -2097,10 +2075,10 @@
       "city": "Miami Beach",
       "venue": "Miami Beach Convention Center",
       "url": "https://www.miamibeachconvention.com/events",
-      "ok": true,
-      "mode": "reader",
+      "ok": false,
+      "mode": "fallback",
       "lastSuccess": "2026-11-22T15:20:28.710Z",
-      "error": null
+      "error": "No parsable upcoming events returned"
     },
     {
       "key": "sandiego",
@@ -2109,7 +2087,7 @@
       "url": "https://www.visitsandiego.com/calendar?page=1",
       "ok": true,
       "mode": "reader",
-      "lastSuccess": "2026-11-22T15:20:34.007Z",
+      "lastSuccess": "2026-11-23T03:44:04.047Z",
       "error": null
     },
     {
@@ -2129,7 +2107,7 @@
       "url": "https://events.occc.net/",
       "ok": true,
       "mode": "direct",
-      "lastSuccess": "2026-11-22T15:20:46.855Z",
+      "lastSuccess": "2026-11-23T03:44:22.354Z",
       "error": null
     },
     {
@@ -2139,7 +2117,7 @@
       "url": "https://www.vegasmeansbusiness.com/destination-calendar/",
       "ok": true,
       "mode": "reader",
-      "lastSuccess": "2026-11-22T15:20:56.762Z",
+      "lastSuccess": "2026-11-23T03:44:30.579Z",
       "error": null
     },
     {
@@ -2149,7 +2127,7 @@
       "url": "https://www.choosechicago.com/meeting-planners/chicago-updates-for-meeting-planners/chicago-convention-calendar/",
       "ok": true,
       "mode": "direct",
-      "lastSuccess": "2026-11-22T15:20:57.028Z",
+      "lastSuccess": "2026-11-23T03:44:31.267Z",
       "error": null
     },
     {
