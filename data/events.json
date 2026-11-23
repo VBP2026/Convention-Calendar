@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-23T03:44:46.722Z",
+  "updatedAt": "2026-11-23T19:16:36.096Z",
   "events": [
     {
       "title": "APS 79th Annual Meeting of the Division of Fluid Dynamics",
@@ -968,6 +968,17 @@
       "attendance": 1000,
       "sourceKey": "sandiego",
       "sourceUrl": "https://www.visitsandiego.com/calendar?page=1"
+    },
+    {
+      "title": "Spring Dallas Bridal Show™ 2027",
+      "city": "Dallas",
+      "venue": "Kay Bailey Hutchison Convention Center Dallas",
+      "startDate": "2027-02-21",
+      "endDate": "2027-02-21",
+      "category": "Consumer Show",
+      "attendance": null,
+      "sourceKey": "dallas",
+      "sourceUrl": "https://www.dallasconventioncenter.com/events"
     },
     {
       "title": "Global Alts 2027",
@@ -2067,7 +2078,7 @@
       "url": "https://www.dallasconventioncenter.com/events",
       "ok": true,
       "mode": "reader",
-      "lastSuccess": "2026-11-23T03:43:41.700Z",
+      "lastSuccess": "2026-11-23T19:15:32.509Z",
       "error": null
     },
     {
@@ -2087,7 +2098,7 @@
       "url": "https://www.visitsandiego.com/calendar?page=1",
       "ok": true,
       "mode": "reader",
-      "lastSuccess": "2026-11-23T03:44:04.047Z",
+      "lastSuccess": "2026-11-23T19:15:57.334Z",
       "error": null
     },
     {
@@ -2107,7 +2118,7 @@
       "url": "https://events.occc.net/",
       "ok": true,
       "mode": "direct",
-      "lastSuccess": "2026-11-23T03:44:22.354Z",
+      "lastSuccess": "2026-11-23T19:16:13.662Z",
       "error": null
     },
     {
@@ -2117,7 +2128,7 @@
       "url": "https://www.vegasmeansbusiness.com/destination-calendar/",
       "ok": true,
       "mode": "reader",
-      "lastSuccess": "2026-11-23T03:44:30.579Z",
+      "lastSuccess": "2026-11-23T19:16:19.710Z",
       "error": null
     },
     {
@@ -2127,7 +2138,7 @@
       "url": "https://www.choosechicago.com/meeting-planners/chicago-updates-for-meeting-planners/chicago-convention-calendar/",
       "ok": true,
       "mode": "direct",
-      "lastSuccess": "2026-11-23T03:44:31.267Z",
+      "lastSuccess": "2026-11-23T19:16:20.423Z",
       "error": null
     },
     {
