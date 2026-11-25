@@ -1,17 +1,6 @@
 {
-  "updatedAt": "2026-11-24T18:55:22.504Z",
+  "updatedAt": "2026-11-25T05:28:01.745Z",
   "events": [
-    {
-      "title": "APS 79th Annual Meeting of the Division of Fluid Dynamics",
-      "city": "Orlando",
-      "venue": "Orange County Convention Center",
-      "startDate": "2026-11-22",
-      "endDate": "2026-11-24",
-      "category": "Event",
-      "attendance": null,
-      "sourceKey": "orlando",
-      "sourceUrl": "https://events.occc.net/event/aps-79th-annual-meeting-of-the-division-of-fluid-dynamics/911/"
-    },
     {
       "title": "2026 SAN DIEGO INTERNATIONAL CONVENTION",
       "city": "San Diego",
@@ -2012,7 +2001,7 @@
       "url": "https://www.dallasconventioncenter.com/events",
       "ok": true,
       "mode": "reader",
-      "lastSuccess": "2026-11-24T18:54:32.217Z",
+      "lastSuccess": "2026-11-25T05:27:00.361Z",
       "error": null
     },
     {
@@ -2032,7 +2021,7 @@
       "url": "https://www.visitsandiego.com/calendar?page=1",
       "ok": true,
       "mode": "reader",
-      "lastSuccess": "2026-11-24T18:55:01.276Z",
+      "lastSuccess": "2026-11-25T05:27:26.425Z",
       "error": null
     },
     {
@@ -2052,7 +2041,7 @@
       "url": "https://events.occc.net/",
       "ok": true,
       "mode": "direct",
-      "lastSuccess": "2026-11-24T18:55:10.936Z",
+      "lastSuccess": "2026-11-25T05:27:37.775Z",
       "error": null
     },
     {
@@ -2062,7 +2051,7 @@
       "url": "https://www.vegasmeansbusiness.com/destination-calendar/",
       "ok": true,
       "mode": "reader",
-      "lastSuccess": "2026-11-24T18:55:17.709Z",
+      "lastSuccess": "2026-11-25T05:27:45.420Z",
       "error": null
     },
     {
@@ -2072,7 +2061,7 @@
       "url": "https://www.choosechicago.com/meeting-planners/chicago-updates-for-meeting-planners/chicago-convention-calendar/",
       "ok": true,
       "mode": "direct",
-      "lastSuccess": "2026-11-24T18:55:18.070Z",
+      "lastSuccess": "2026-11-25T05:27:46.188Z",
       "error": null
     },
     {
@@ -2080,10 +2069,10 @@
       "city": "New York",
       "venue": "Jacob K. Javits Convention Center",
       "url": "https://javitscenter.com/calendar/",
-      "ok": true,
-      "mode": "reader",
+      "ok": false,
+      "mode": "fallback",
       "lastSuccess": "2026-11-24T18:55:22.486Z",
-      "error": null
+      "error": "Rendered page contained no parsable upcoming events; direct=HTTP 403"
     }
   ]
 }
