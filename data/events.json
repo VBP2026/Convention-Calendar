@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-25T17:59:36.319Z",
+  "updatedAt": "2026-11-26T05:06:49.418Z",
   "events": [
     {
       "title": "2026 SAN DIEGO INTERNATIONAL CONVENTION",
@@ -1432,6 +1432,17 @@
       "sourceUrl": "https://events.occc.net/event/sap-sapphire-%26-asug-annual-conference/979/"
     },
     {
+      "title": "Home Delivery World",
+      "city": "Orlando",
+      "venue": "Orange County Convention Center",
+      "startDate": "2027-05-26",
+      "endDate": "2027-05-27",
+      "category": "Event",
+      "attendance": null,
+      "sourceKey": "orlando",
+      "sourceUrl": "https://events.occc.net/event/home-delivery-world/982/"
+    },
+    {
       "title": "2027 SAN DIEGO POKEMON REGIONAL CHAMPIONSHIPS",
       "city": "San Diego",
       "venue": "San Diego Convention Center",
@@ -1636,30 +1647,30 @@
       "city": "Dallas",
       "venue": "Kay Bailey Hutchison Convention Center Dallas",
       "url": "https://www.dallasconventioncenter.com/events",
-      "ok": true,
-      "mode": "reader",
+      "ok": false,
+      "mode": "fallback",
       "lastSuccess": "2026-11-25T17:58:42.739Z",
-      "error": null
+      "error": "HTTP 401; direct=HTTP 406"
     },
     {
       "key": "miami",
       "city": "Miami Beach",
       "venue": "Miami Beach Convention Center",
       "url": "https://www.miamibeachconvention.com/events",
-      "ok": true,
-      "mode": "reader",
+      "ok": false,
+      "mode": "fallback",
       "lastSuccess": "2026-11-25T17:59:02.448Z",
-      "error": null
+      "error": "No parsable upcoming events returned"
     },
     {
       "key": "sandiego",
       "city": "San Diego",
       "venue": "San Diego Convention Center",
       "url": "https://www.visitsandiego.com/calendar?page=1",
-      "ok": true,
-      "mode": "reader",
+      "ok": false,
+      "mode": "fallback",
       "lastSuccess": "2026-11-25T17:59:07.692Z",
-      "error": null
+      "error": "HTTP 401"
     },
     {
       "key": "anaheim",
@@ -1669,7 +1680,7 @@
       "ok": false,
       "mode": "fallback",
       "lastSuccess": "2026-10-04T13:13:31.478Z",
-      "error": "Rendered page contained no parsable upcoming events"
+      "error": "HTTP 401"
     },
     {
       "key": "orlando",
@@ -1678,7 +1689,7 @@
       "url": "https://events.occc.net/",
       "ok": true,
       "mode": "direct",
-      "lastSuccess": "2026-11-25T17:59:23.671Z",
+      "lastSuccess": "2026-11-26T05:06:47.964Z",
       "error": null
     },
     {
@@ -1686,10 +1697,10 @@
       "city": "Las Vegas",
       "venue": "Las Vegas Convention Center",
       "url": "https://www.vegasmeansbusiness.com/destination-calendar/",
-      "ok": true,
-      "mode": "reader",
+      "ok": false,
+      "mode": "fallback",
       "lastSuccess": "2026-11-25T17:59:30.846Z",
-      "error": null
+      "error": "HTTP 401"
     },
     {
       "key": "chicago",
@@ -1698,7 +1709,7 @@
       "url": "https://www.choosechicago.com/meeting-planners/chicago-updates-for-meeting-planners/chicago-convention-calendar/",
       "ok": true,
       "mode": "direct",
-      "lastSuccess": "2026-11-25T17:59:31.290Z",
+      "lastSuccess": "2026-11-26T05:06:49.149Z",
       "error": null
     },
     {
@@ -1706,10 +1717,10 @@
       "city": "New York",
       "venue": "Jacob K. Javits Convention Center",
       "url": "https://javitscenter.com/calendar/",
-      "ok": true,
-      "mode": "reader",
+      "ok": false,
+      "mode": "fallback",
       "lastSuccess": "2026-11-25T17:59:36.309Z",
-      "error": null
+      "error": "HTTP 401; direct=HTTP 403"
     }
   ]
 }
