@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-27T05:05:28.526Z",
+  "updatedAt": "2026-11-27T17:29:19.416Z",
   "events": [
     {
       "title": "2026 SAN DIEGO INTERNATIONAL CONVENTION",
@@ -1649,7 +1649,7 @@
       "url": "https://www.dallasconventioncenter.com/events",
       "ok": true,
       "mode": "reader",
-      "lastSuccess": "2026-11-27T05:04:34.455Z",
+      "lastSuccess": "2026-11-27T17:28:29.087Z",
       "error": null
     },
     {
@@ -1657,10 +1657,10 @@
       "city": "Miami Beach",
       "venue": "Miami Beach Convention Center",
       "url": "https://www.miamibeachconvention.com/events",
-      "ok": true,
-      "mode": "reader",
+      "ok": false,
+      "mode": "fallback",
       "lastSuccess": "2026-11-27T05:05:00.337Z",
-      "error": null
+      "error": "No parsable upcoming events returned"
     },
     {
       "key": "sandiego",
@@ -1669,7 +1669,7 @@
       "url": "https://www.visitsandiego.com/calendar?page=1",
       "ok": true,
       "mode": "reader",
-      "lastSuccess": "2026-11-27T05:05:06.320Z",
+      "lastSuccess": "2026-11-27T17:28:55.408Z",
       "error": null
     },
     {
@@ -1689,7 +1689,7 @@
       "url": "https://events.occc.net/",
       "ok": true,
       "mode": "direct",
-      "lastSuccess": "2026-11-27T05:05:15.629Z",
+      "lastSuccess": "2026-11-27T17:29:07.084Z",
       "error": null
     },
     {
@@ -1699,7 +1699,7 @@
       "url": "https://www.vegasmeansbusiness.com/destination-calendar/",
       "ok": true,
       "mode": "reader",
-      "lastSuccess": "2026-11-27T05:05:22.543Z",
+      "lastSuccess": "2026-11-27T17:29:12.441Z",
       "error": null
     },
     {
@@ -1709,7 +1709,7 @@
       "url": "https://www.choosechicago.com/meeting-planners/chicago-updates-for-meeting-planners/chicago-convention-calendar/",
       "ok": true,
       "mode": "direct",
-      "lastSuccess": "2026-11-27T05:05:22.835Z",
+      "lastSuccess": "2026-11-27T17:29:12.755Z",
       "error": null
     },
     {
@@ -1719,7 +1719,7 @@
       "url": "https://javitscenter.com/calendar/",
       "ok": true,
       "mode": "reader",
-      "lastSuccess": "2026-11-27T05:05:28.512Z",
+      "lastSuccess": "2026-11-27T17:29:19.297Z",
       "error": null
     }
   ]
